@@ -1,0 +1,140 @@
+{
+  "channel": {
+    "created": 1566590212,
+    "creator": "UMKUX5CDS",
+    "id": "CMB8XGFV1",
+    "is_archived": false,
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "is_mpim": false,
+    "is_org_shared": false,
+    "is_private": false,
+    "is_shared": false,
+    "members": [
+      "UMKUX5CDS"
+    ],
+    "name": "esoteric_research_ideas",
+    "name_normalized": "esoteric_research_ideas",
+    "num_members": 9,
+    "previous_names": [],
+    "purpose": {
+      "creator": "UMKUX5CDS",
+      "last_set": 1566590213,
+      "value": "somewhere to share obscure theories, and ask if ML could help to test them"
+    },
+    "topic": {
+      "creator": "",
+      "last_set": 0,
+      "value": ""
+    },
+    "unlinked": 0
+  },
+  "messages": [
+    {
+      "date": "2019-08-28 05:55:29",
+      "subtype": "channel_join",
+      "text": "<@UMK1GKRQW> has joined the channel",
+      "ts": "1566942929.000600",
+      "type": "message",
+      "user": "UMK1GKRQW",
+      "username": "williamsburgman"
+    },
+    {
+      "date": "2019-08-28 03:09:52",
+      "subtype": "channel_join",
+      "text": "<@UMFQZKAVA> has joined the channel",
+      "ts": "1566932992.000400",
+      "type": "message",
+      "user": "UMFQZKAVA",
+      "username": "nishuchoudhary786"
+    },
+    {
+      "date": "2019-08-28 00:47:27",
+      "subtype": "channel_join",
+      "text": "<@UMJ53PEDD> has joined the channel",
+      "ts": "1566924447.000200",
+      "type": "message",
+      "user": "UMJ53PEDD",
+      "username": "sahand68"
+    },
+    {
+      "date": "2019-08-27 00:00:03",
+      "subtype": "channel_join",
+      "text": "<@UMA49NHFT> has joined the channel",
+      "ts": "1566835203.004700",
+      "type": "message",
+      "user": "UMA49NHFT",
+      "username": "mary.romanenko"
+    },
+    {
+      "date": "2019-08-25 02:41:44",
+      "subtype": "channel_join",
+      "text": "<@UMG0E70LU> has joined the channel",
+      "ts": "1566672104.004500",
+      "type": "message",
+      "user": "UMG0E70LU",
+      "username": "pallianil"
+    },
+    {
+      "date": "2019-08-24 23:18:55",
+      "subtype": "channel_join",
+      "text": "<@UM61P0KR9> has joined the channel",
+      "ts": "1566659935.004300",
+      "type": "message",
+      "user": "UM61P0KR9",
+      "username": "sonny.darji"
+    },
+    {
+      "date": "2019-08-24 22:51:34",
+      "subtype": "channel_join",
+      "text": "<@UMA02LMAM> has joined the channel",
+      "ts": "1566658294.004100",
+      "type": "message",
+      "user": "UMA02LMAM",
+      "username": "florianwoelki"
+    },
+    {
+      "date": "2019-08-24 05:21:30",
+      "subtype": "channel_join",
+      "text": "<@UM5U1NZBL> has joined the channel",
+      "ts": "1566595290.003900",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    },
+    {
+      "client_msg_id": "ee87d658-fb39-4ecf-9e85-62a7f3ecf7d0",
+      "date": "2019-08-24 04:02:44",
+      "edited": {
+        "ts": "1566590581.000000",
+        "user": "UMKUX5CDS"
+      },
+      "team": "TMJBA78PQ",
+      "text": "eg: <https://www.sheldrake.org/files/pdfs/papers/Automated-Tests-for-Telephone-Telepathy-Using-Mobile-Phones.pdf>",
+      "ts": "1566590564.003400",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "date": "2019-08-24 03:56:53",
+      "purpose": "somewhere to share obscure theories, and ask if ML could help to test them",
+      "subtype": "channel_purpose",
+      "text": "<@UMKUX5CDS> set the channel purpose: somewhere to share obscure theories, and ask if ML could help to test them",
+      "ts": "1566590213.000300",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "date": "2019-08-24 03:56:52",
+      "subtype": "channel_join",
+      "text": "<@UMKUX5CDS> has joined the channel",
+      "ts": "1566590212.000200",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    }
+  ]
+}

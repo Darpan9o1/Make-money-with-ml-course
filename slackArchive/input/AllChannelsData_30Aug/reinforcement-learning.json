@@ -1,0 +1,609 @@
+{
+  "channel": {
+    "created": 1566664605,
+    "creator": "UMG7ZPZLY",
+    "id": "CMGR1SFA5",
+    "is_archived": false,
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "is_mpim": false,
+    "is_org_shared": false,
+    "is_private": false,
+    "is_shared": false,
+    "members": [
+      "UMKUX5CDS"
+    ],
+    "name": "reinforcement-learning",
+    "name_normalized": "reinforcement-learning",
+    "num_members": 29,
+    "previous_names": [],
+    "purpose": {
+      "creator": "UMG7ZPZLY",
+      "last_set": 1566664915,
+      "value": "A channel to discuss RL research and applications"
+    },
+    "topic": {
+      "creator": "",
+      "last_set": 0,
+      "value": ""
+    },
+    "unlinked": 0
+  },
+  "messages": [
+    {
+      "client_msg_id": "1f37348a-484e-4bf1-9f5e-42c7a36c818e",
+      "date": "2019-08-28 02:00:46",
+      "parent_user_id": "UMJ53PEDD",
+      "team": "TMJBA78PQ",
+      "text": "maybe the most important thing on RL is the reward system you should come up with. if you need help, maybe we could make some sessions and review some material together",
+      "thread_ts": "1566924575.013500",
+      "ts": "1566928846.017000",
+      "type": "message",
+      "user": "UMFQHMF5J",
+      "username": "juanluislopez24"
+    },
+    {
+      "client_msg_id": "2a6c32f9-ea99-40e1-85ed-a9311d031f95",
+      "date": "2019-08-28 01:52:11",
+      "parent_user_id": "UMG7ZPZLY",
+      "team": "TMJBA78PQ",
+      "text": "Thanks for the info, Juan.",
+      "thread_ts": "1566925165.014900",
+      "ts": "1566928331.016800",
+      "type": "message",
+      "user": "UMG7ZPZLY",
+      "username": "rhoesada"
+    },
+    {
+      "client_msg_id": "086edf3b-65c2-4b98-adc6-a60ed26b1a66",
+      "date": "2019-08-28 01:46:20",
+      "parent_user_id": "UMJ53PEDD",
+      "team": "TMJBA78PQ",
+      "text": "this is why I never started in RL.",
+      "thread_ts": "1566924575.013500",
+      "ts": "1566927980.016600",
+      "type": "message",
+      "user": "UMJ53PEDD",
+      "username": "sahand68"
+    },
+    {
+      "client_msg_id": "628b50a7-ee57-49bb-8980-adeb3e0a3ecf",
+      "date": "2019-08-28 01:45:13",
+      "parent_user_id": "UMG7ZPZLY",
+      "team": "TMJBA78PQ",
+      "text": "I am doing a Dart course, plus recommendation engines and a java script course. I hope I get enough time for RL.",
+      "thread_ts": "1566925165.014900",
+      "ts": "1566927913.016300",
+      "type": "message",
+      "user": "UMJ53PEDD",
+      "username": "sahand68"
+    },
+    {
+      "client_msg_id": "972f47ee-4ed8-42a4-81e8-9dfbbeb60e22",
+      "date": "2019-08-28 01:44:47",
+      "parent_user_id": "UMJ53PEDD",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "disappointed",
+          "users": [
+            "UMJ53PEDD"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "<@UMJ53PEDD> Getting to understand is the math is important and the basics are not too complicated. RL deals with game theory principles and reward system. I recommend <https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf>",
+      "thread_ts": "1566924575.013500",
+      "ts": "1566927887.016100",
+      "type": "message",
+      "user": "UMFQHMF5J",
+      "username": "juanluislopez24"
+    },
+    {
+      "client_msg_id": "5cb758ff-9df7-4767-bd96-ea311d7b7d93",
+      "date": "2019-08-28 01:40:25",
+      "edited": {
+        "ts": "1566928891.000000",
+        "user": "UMFQHMF5J"
+      },
+      "parent_user_id": "UMG7ZPZLY",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "+1",
+          "users": [
+            "UMJ53PEDD"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "Yes they give you 10 hours on simulation time to train your model, after you have to cover the costs. It is very easy to use. Basically you need to come up with a good reward function.",
+      "thread_ts": "1566925165.014900",
+      "ts": "1566927625.015900",
+      "type": "message",
+      "user": "UMFQHMF5J",
+      "username": "juanluislopez24"
+    },
+    {
+      "client_msg_id": "53aea3b5-ca7a-427c-ab1e-5cc52a35c38a",
+      "date": "2019-08-28 01:06:44",
+      "parent_user_id": "UMG7ZPZLY",
+      "team": "TMJBA78PQ",
+      "text": "I just registered to this course too. We can discuss it in this channel.",
+      "thread_ts": "1566925165.014900",
+      "ts": "1566925604.015700",
+      "type": "message",
+      "user": "UMG7ZPZLY",
+      "username": "rhoesada"
+    },
+    {
+      "client_msg_id": "d0173175-69c4-4087-b873-87f9504daadb",
+      "date": "2019-08-28 01:05:38",
+      "parent_user_id": "UMG7ZPZLY",
+      "team": "TMJBA78PQ",
+      "text": "I will revisit the course :)",
+      "thread_ts": "1566925165.014900",
+      "ts": "1566925538.015500",
+      "type": "message",
+      "user": "UMJ53PEDD",
+      "username": "sahand68"
+    },
+    {
+      "client_msg_id": "ad2438b1-f26e-47da-9090-782d6fefe687",
+      "date": "2019-08-28 01:01:50",
+      "parent_user_id": "UMG7ZPZLY",
+      "team": "TMJBA78PQ",
+      "text": "I think you can use the simulator. It's not necessary to get the car.",
+      "thread_ts": "1566925165.014900",
+      "ts": "1566925310.015300",
+      "type": "message",
+      "user": "UMG7ZPZLY",
+      "username": "rhoesada"
+    },
+    {
+      "client_msg_id": "53e998bb-2308-4d39-bd23-9c0ef1386936",
+      "date": "2019-08-28 01:01:06",
+      "parent_user_id": "UMG7ZPZLY",
+      "team": "TMJBA78PQ",
+      "text": "I have looked in to that. But the issue is that we don't get the Amazon car  to train with...but maybe I didn't spend enough time going through the course.",
+      "thread_ts": "1566925165.014900",
+      "ts": "1566925266.015100",
+      "type": "message",
+      "user": "UMJ53PEDD",
+      "username": "sahand68"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Udacity: AWS DeepRacer Scholarship with Udacity",
+          "from_url": "https://www.udacity.com/aws-deepracer-scholarship",
+          "id": 1,
+          "image_bytes": 248502,
+          "image_height": 250,
+          "image_url": "https://udacitymobile.wpengine.com/wp-content/uploads/2019/07/AWS-DeepRacer-Scholarship.png",
+          "image_width": 250,
+          "original_url": "https://www.udacity.com/aws-deepracer-scholarship",
+          "service_icon": "https://udacitymobile.wpengine.com/wp-content/uploads/2019/04/favicon.ico",
+          "service_name": "Udacity",
+          "text": "AWS and Udacity are teaming up to teach machine learning and prepare students to test their skills by participating in the world\u2019s first autonomous racing league: The AWS DeepRacer League.",
+          "title": "AWS DeepRacer Scholarship with Udacity",
+          "title_link": "https://www.udacity.com/aws-deepracer-scholarship"
+        }
+      ],
+      "client_msg_id": "1fdaba75-5957-4720-9d08-54f58ecf2aa7",
+      "date": "2019-08-28 00:59:25",
+      "latest_reply": "1566928331.016800",
+      "replies": [
+        {
+          "ts": "1566925266.015100",
+          "user": "UMJ53PEDD"
+        },
+        {
+          "ts": "1566925310.015300",
+          "user": "UMG7ZPZLY"
+        },
+        {
+          "ts": "1566925538.015500",
+          "user": "UMJ53PEDD"
+        },
+        {
+          "ts": "1566925604.015700",
+          "user": "UMG7ZPZLY"
+        },
+        {
+          "ts": "1566927625.015900",
+          "user": "UMFQHMF5J"
+        },
+        {
+          "ts": "1566927913.016300",
+          "user": "UMJ53PEDD"
+        },
+        {
+          "ts": "1566928331.016800",
+          "user": "UMG7ZPZLY"
+        }
+      ],
+      "reply_count": 7,
+      "reply_users": [
+        "UMJ53PEDD",
+        "UMG7ZPZLY",
+        "UMFQHMF5J"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "<@UMJ53PEDD> you may want to check out Udacity AWS DeepRacer challenge: <https://www.udacity.com/aws-deepracer-scholarship>",
+      "thread_ts": "1566925165.014900",
+      "ts": "1566925165.014900",
+      "type": "message",
+      "user": "UMG7ZPZLY",
+      "username": "rhoesada"
+    },
+    {
+      "client_msg_id": "bf7b3b5e-dfbc-417f-b8f4-33fbe28c1c3c",
+      "date": "2019-08-28 00:49:35",
+      "latest_reply": "1566928846.017000",
+      "replies": [
+        {
+          "ts": "1566927887.016100",
+          "user": "UMFQHMF5J"
+        },
+        {
+          "ts": "1566927980.016600",
+          "user": "UMJ53PEDD"
+        },
+        {
+          "ts": "1566928846.017000",
+          "user": "UMFQHMF5J"
+        }
+      ],
+      "reply_count": 3,
+      "reply_users": [
+        "UMFQHMF5J",
+        "UMJ53PEDD"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "What is a good source to learn RL without all the makrovian math ?",
+      "thread_ts": "1566924575.013500",
+      "ts": "1566924575.013500",
+      "type": "message",
+      "user": "UMJ53PEDD",
+      "username": "sahand68"
+    },
+    {
+      "client_msg_id": "7c8a362d-adcf-4a4e-b9e9-047d6fb5cda7",
+      "date": "2019-08-27 21:40:41",
+      "reactions": [
+        {
+          "count": 2,
+          "name": "parrot",
+          "users": [
+            "UMGA4RZKP",
+            "UMG7ZPZLY"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "Hey I have an idea, what if each lf us reads a recent paper on drl, and next week we give an explanation of it. Then we can form discussion/questions around each paper so we get to know what the current situation of drl is much easier?",
+      "ts": "1566913241.011900",
+      "type": "message",
+      "user": "UMFQHMF5J",
+      "username": "juanluislopez24"
+    },
+    {
+      "client_msg_id": "643bc4f8-6ecb-4f89-9d8e-4494eb82d122",
+      "date": "2019-08-27 21:38:01",
+      "team": "TMJBA78PQ",
+      "text": "Thanks!",
+      "ts": "1566913081.008200",
+      "type": "message",
+      "user": "UMFQHMF5J",
+      "username": "juanluislopez24"
+    },
+    {
+      "client_msg_id": "73945688-57aa-4337-8c8e-ea86c7e10594",
+      "date": "2019-08-27 13:32:54",
+      "team": "TMJBA78PQ",
+      "text": "Get started in Deep RL with `Spinning Up`, an educational resource produced by OpenAI that makes it easier to learn about deep RL:\n<https://spinningup.openai.com/en/latest/>",
+      "ts": "1566883974.007700",
+      "type": "message",
+      "user": "UMG7ZPZLY",
+      "username": "rhoesada"
+    },
+    {
+      "client_msg_id": "3bc5660f-9221-425d-bb1e-30b9ca75484b",
+      "date": "2019-08-27 03:05:41",
+      "team": "TMJBA78PQ",
+      "text": "Hi Juan :wave:",
+      "ts": "1566846341.006600",
+      "type": "message",
+      "user": "UMG7ZPZLY",
+      "username": "rhoesada"
+    },
+    {
+      "client_msg_id": "91a042ab-5c6f-42a9-96a7-c49ad90b2649",
+      "date": "2019-08-27 02:29:37",
+      "team": "TMJBA78PQ",
+      "text": "Hey everyone!",
+      "ts": "1566844177.006300",
+      "type": "message",
+      "user": "UMFQHMF5J",
+      "username": "juanluislopez24"
+    },
+    {
+      "date": "2019-08-26 14:14:21",
+      "subtype": "channel_join",
+      "text": "<@UMFAGQWEM> has joined the channel",
+      "ts": "1566800061.005500",
+      "type": "message",
+      "user": "UMFAGQWEM",
+      "username": "breuss.martin"
+    },
+    {
+      "date": "2019-08-26 14:11:28",
+      "subtype": "channel_join",
+      "text": "<@UMLRDRBL7> has joined the channel",
+      "ts": "1566799888.005300",
+      "type": "message",
+      "user": "UMLRDRBL7",
+      "username": "samehta91"
+    },
+    {
+      "date": "2019-08-26 13:50:21",
+      "subtype": "channel_join",
+      "text": "<@UMP614X0D> has joined the channel",
+      "ts": "1566798621.005100",
+      "type": "message",
+      "user": "UMP614X0D",
+      "username": "ashis2506"
+    },
+    {
+      "date": "2019-08-26 10:30:50",
+      "subtype": "channel_join",
+      "text": "<@UMJL2139V> has joined the channel",
+      "ts": "1566786650.004900",
+      "type": "message",
+      "user": "UMJL2139V",
+      "username": "shah.yash183"
+    },
+    {
+      "date": "2019-08-26 04:10:32",
+      "subtype": "channel_join",
+      "text": "<@UMJ4Y3PB7> has joined the channel",
+      "ts": "1566763832.004700",
+      "type": "message",
+      "user": "UMJ4Y3PB7",
+      "username": "akulshyna.daria"
+    },
+    {
+      "date": "2019-08-26 02:51:21",
+      "subtype": "channel_join",
+      "text": "<@UMP93K8JH> has joined the channel",
+      "ts": "1566759081.004500",
+      "type": "message",
+      "user": "UMP93K8JH",
+      "username": "cd.demmerle"
+    },
+    {
+      "date": "2019-08-25 11:14:29",
+      "subtype": "channel_join",
+      "text": "<@UMGBFD60G> has joined the channel",
+      "ts": "1566702869.004300",
+      "type": "message",
+      "user": "UMGBFD60G",
+      "username": "gaurav"
+    },
+    {
+      "date": "2019-08-25 08:49:02",
+      "subtype": "channel_join",
+      "text": "<@UMAAC8D0A> has joined the channel",
+      "ts": "1566694142.004100",
+      "type": "message",
+      "user": "UMAAC8D0A",
+      "username": "haard2014"
+    },
+    {
+      "date": "2019-08-25 08:36:15",
+      "subtype": "channel_join",
+      "text": "<@UMGA4RZKP> has joined the channel",
+      "ts": "1566693375.003900",
+      "type": "message",
+      "user": "UMGA4RZKP",
+      "username": "moncalma13"
+    },
+    {
+      "date": "2019-08-25 07:50:01",
+      "subtype": "channel_join",
+      "text": "<@UMKJNDH6J> has joined the channel",
+      "ts": "1566690601.003700",
+      "type": "message",
+      "user": "UMKJNDH6J",
+      "username": "seongmin.youm"
+    },
+    {
+      "date": "2019-08-25 06:28:06",
+      "subtype": "channel_join",
+      "text": "<@UMA76UQJD> has joined the channel",
+      "ts": "1566685686.003500",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "attachments": [
+        {
+          "author_link": "https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A",
+          "author_name": "Siraj Raval",
+          "fallback": "YouTube Video: Reinforcement Learning for Stock Prediction",
+          "from_url": "https://youtu.be/05NqKJ0v7EE",
+          "id": 1,
+          "original_url": "https://youtu.be/05NqKJ0v7EE",
+          "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/",
+          "thumb_height": 360,
+          "thumb_url": "https://i.ytimg.com/vi/05NqKJ0v7EE/hqdefault.jpg",
+          "thumb_width": 480,
+          "title": "Reinforcement Learning for Stock Prediction",
+          "title_link": "https://youtu.be/05NqKJ0v7EE",
+          "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/05NqKJ0v7EE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "video_html_height": 225,
+          "video_html_width": 400
+        },
+        {
+          "author_link": "https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A",
+          "author_name": "Siraj Raval",
+          "fallback": "YouTube Video: Q Learning for Trading",
+          "from_url": "https://youtu.be/rRssY6FrTvU",
+          "id": 2,
+          "original_url": "https://youtu.be/rRssY6FrTvU",
+          "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/",
+          "thumb_height": 360,
+          "thumb_url": "https://i.ytimg.com/vi/rRssY6FrTvU/hqdefault.jpg",
+          "thumb_width": 480,
+          "title": "Q Learning for Trading",
+          "title_link": "https://youtu.be/rRssY6FrTvU",
+          "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/rRssY6FrTvU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "video_html_height": 225,
+          "video_html_width": 400
+        }
+      ],
+      "client_msg_id": "cb89b5cd-990b-4167-88eb-b40602723d41",
+      "date": "2019-08-25 05:29:53",
+      "team": "TMJBA78PQ",
+      "text": "RL for Trading:\n- <https://youtu.be/05NqKJ0v7EE>\n- <https://youtu.be/rRssY6FrTvU>",
+      "ts": "1566682193.003200",
+      "type": "message",
+      "user": "UMG7ZPZLY",
+      "username": "rhoesada"
+    },
+    {
+      "date": "2019-08-25 05:27:40",
+      "inviter": "UMG7ZPZLY",
+      "subtype": "channel_join",
+      "text": "<@UM4N2MUSE> has joined the channel",
+      "ts": "1566682060.002500",
+      "type": "message",
+      "user": "UM4N2MUSE",
+      "username": "hello"
+    },
+    {
+      "attachments": [
+        {
+          "author_link": "https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A",
+          "author_name": "Siraj Raval",
+          "fallback": "YouTube Video: Introduction to AI for Video Games",
+          "from_url": "https://www.youtube.com/watch?v=i_McNBDP9Qs",
+          "id": 1,
+          "original_url": "https://www.youtube.com/watch?v=i_McNBDP9Qs&amp;list=PL2-dafEMk2A5FZ-MnPMpp3PBtZcINKwLA",
+          "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/",
+          "thumb_height": 360,
+          "thumb_url": "https://i.ytimg.com/vi/i_McNBDP9Qs/hqdefault.jpg",
+          "thumb_width": 480,
+          "title": "Introduction to AI for Video Games",
+          "title_link": "https://www.youtube.com/watch?v=i_McNBDP9Qs",
+          "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/i_McNBDP9Qs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "video_html_height": 225,
+          "video_html_width": 400
+        }
+      ],
+      "client_msg_id": "bea3be76-5c45-456d-82a7-9d5b3e2ad833",
+      "date": "2019-08-25 05:27:36",
+      "team": "TMJBA78PQ",
+      "text": "<@UM4N2MUSE> YouTube playlist on Reinforcement Learning for video games:\n<https://www.youtube.com/watch?v=i_McNBDP9Qs&amp;list=PL2-dafEMk2A5FZ-MnPMpp3PBtZcINKwLA>",
+      "ts": "1566682056.002200",
+      "type": "message",
+      "user": "UMG7ZPZLY",
+      "username": "rhoesada"
+    },
+    {
+      "date": "2019-08-25 05:13:25",
+      "subtype": "channel_join",
+      "text": "<@UMGKEDUV6> has joined the channel",
+      "ts": "1566681205.001700",
+      "type": "message",
+      "user": "UMGKEDUV6",
+      "username": "thibo.jacques"
+    },
+    {
+      "date": "2019-08-25 05:00:57",
+      "subtype": "channel_join",
+      "text": "<@UMP90TW2C> has joined the channel",
+      "ts": "1566680457.001500",
+      "type": "message",
+      "user": "UMP90TW2C",
+      "username": "imvkhandelwal"
+    },
+    {
+      "date": "2019-08-25 04:27:32",
+      "subtype": "channel_join",
+      "text": "<@UM4UPKZFD> has joined the channel",
+      "ts": "1566678452.001300",
+      "type": "message",
+      "user": "UM4UPKZFD",
+      "username": "makarenko.s"
+    },
+    {
+      "date": "2019-08-25 04:22:47",
+      "subtype": "channel_join",
+      "text": "<@UMG8TCCG0> has joined the channel",
+      "ts": "1566678167.001100",
+      "type": "message",
+      "user": "UMG8TCCG0",
+      "username": "julianormgalli"
+    },
+    {
+      "date": "2019-08-25 04:15:45",
+      "subtype": "channel_join",
+      "text": "<@UM4RDP5DZ> has joined the channel",
+      "ts": "1566677745.000900",
+      "type": "message",
+      "user": "UM4RDP5DZ",
+      "username": "bmjharder"
+    },
+    {
+      "date": "2019-08-25 04:12:23",
+      "subtype": "channel_join",
+      "text": "<@UMKUX5CDS> has joined the channel",
+      "ts": "1566677543.000700",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "date": "2019-08-25 01:05:49",
+      "subtype": "channel_join",
+      "text": "<@UMPFL6BTQ> has joined the channel",
+      "ts": "1566666349.000500",
+      "type": "message",
+      "user": "UMPFL6BTQ",
+      "username": "joanmelchor99"
+    },
+    {
+      "date": "2019-08-25 00:41:55",
+      "purpose": "A channel to discuss RL research and applications",
+      "subtype": "channel_purpose",
+      "text": "<@UMG7ZPZLY> set the channel purpose: A channel to discuss RL research and applications",
+      "ts": "1566664915.000300",
+      "type": "message",
+      "user": "UMG7ZPZLY",
+      "username": "rhoesada"
+    },
+    {
+      "date": "2019-08-25 00:36:45",
+      "subtype": "channel_join",
+      "text": "<@UMG7ZPZLY> has joined the channel",
+      "ts": "1566664605.000200",
+      "type": "message",
+      "user": "UMG7ZPZLY",
+      "username": "rhoesada"
+    }
+  ]
+}

@@ -1,0 +1,1486 @@
+{
+  "channel": {
+    "created": 1566269064,
+    "creator": "UM5U1NZBL",
+    "id": "CM650SN9Y",
+    "is_archived": false,
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "is_mpim": false,
+    "is_org_shared": false,
+    "is_private": false,
+    "is_shared": false,
+    "members": [
+      "UMKUX5CDS"
+    ],
+    "name": "entrepreneurs",
+    "name_normalized": "entrepreneurs",
+    "num_members": 87,
+    "previous_names": [],
+    "purpose": {
+      "creator": "UM5U1NZBL",
+      "last_set": 1566269065,
+      "value": "For those who want to start their own business, be their own boss and gain financial independence and freedom!"
+    },
+    "topic": {
+      "creator": "",
+      "last_set": 0,
+      "value": ""
+    },
+    "unlinked": 0
+  },
+  "messages": [
+    {
+      "client_msg_id": "9D477FA9-BCCB-449A-86D4-293B43407C3F",
+      "date": "2019-08-27 20:58:14",
+      "parent_user_id": "UMA76UQJD",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "+1",
+          "users": [
+            "UMM3TGTP0"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "I suggest Vue.js and Bootstrap :)",
+      "thread_ts": "1566854344.057000",
+      "ts": "1566910694.065300",
+      "type": "message",
+      "user": "UM76CN15G",
+      "username": "plcpinho"
+    },
+    {
+      "client_msg_id": "A93C37A7-CC7E-49D5-8813-BBBA84FB1976",
+      "date": "2019-08-27 14:14:19",
+      "parent_user_id": "UMA76UQJD",
+      "team": "TMJBA78PQ",
+      "text": "I can only suggest vue cirrus :muscle:",
+      "thread_ts": "1566854344.057000",
+      "ts": "1566886459.064500",
+      "type": "message",
+      "user": "UMA02LMAM",
+      "username": "florianwoelki"
+    },
+    {
+      "client_msg_id": "06dd709e-9802-44f7-8921-fc89c350344c",
+      "date": "2019-08-27 06:14:13",
+      "parent_user_id": "UMA76UQJD",
+      "team": "TMJBA78PQ",
+      "text": "Bootstrap also looks great!",
+      "thread_ts": "1566854344.057000",
+      "ts": "1566857653.063700",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "client_msg_id": "3f27e779-6e14-4440-a960-2a229b950bdb",
+      "date": "2019-08-27 06:13:01",
+      "parent_user_id": "UMA76UQJD",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "+1",
+          "users": [
+            "UMM3TGTP0"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "Thanks a lot!! Primefaces looks interesting!",
+      "thread_ts": "1566854344.057000",
+      "ts": "1566857581.063500",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "client_msg_id": "2960d2d7-15d6-431a-bd9d-60bf8874a580",
+      "date": "2019-08-27 06:00:46",
+      "parent_user_id": "UMA76UQJD",
+      "team": "TMJBA78PQ",
+      "text": "<https://material.angular.io/>",
+      "thread_ts": "1566854344.057000",
+      "ts": "1566856846.063300",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Bootstrap",
+          "from_url": "https://getbootstrap.com/",
+          "id": 1,
+          "image_bytes": 231733,
+          "image_height": 250,
+          "image_url": "https://getbootstrap.com/docs/4.3/assets/brand/bootstrap-social.png",
+          "image_width": 476,
+          "original_url": "https://getbootstrap.com/",
+          "service_icon": "https://getbootstrap.com/docs/4.3/assets/img/favicons/apple-touch-icon.png",
+          "service_name": "getbootstrap.com",
+          "text": "The most popular HTML, CSS, and JS library in the world.",
+          "title": "Bootstrap",
+          "title_link": "https://getbootstrap.com/"
+        }
+      ],
+      "client_msg_id": "ab233bc2-94e8-4e8c-b709-6d85a01a66c8",
+      "date": "2019-08-27 05:59:50",
+      "parent_user_id": "UMA76UQJD",
+      "team": "TMJBA78PQ",
+      "text": "<https://getbootstrap.com/>",
+      "thread_ts": "1566854344.057000",
+      "ts": "1566856790.062900",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "client_msg_id": "3a0e4b20-d696-40c0-9d72-a95b839af0d9",
+      "date": "2019-08-27 05:59:01",
+      "parent_user_id": "UMA76UQJD",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "point_up",
+          "users": [
+            "UMM3TGTP0"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "the best",
+      "thread_ts": "1566854344.057000",
+      "ts": "1566856741.062700",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "client_msg_id": "1bddade5-aafb-45b9-acee-976de3ef88fc",
+      "date": "2019-08-27 05:58:58",
+      "parent_user_id": "UMA76UQJD",
+      "team": "TMJBA78PQ",
+      "text": "<https://www.primefaces.org/primeng/#/>",
+      "thread_ts": "1566854344.057000",
+      "ts": "1566856738.062500",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "client_msg_id": "7a40ead6-e65a-4f63-ab96-a63220ca6dab",
+      "date": "2019-08-27 05:57:43",
+      "parent_user_id": "UMA76UQJD",
+      "team": "TMJBA78PQ",
+      "text": "What framework do you think is safe to use? Without patent infringement.",
+      "thread_ts": "1566854344.057000",
+      "ts": "1566856663.062300",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "client_msg_id": "6228d6ab-d089-4f31-96ff-b4a32c905612",
+      "date": "2019-08-27 05:55:07",
+      "parent_user_id": "UMA76UQJD",
+      "team": "TMJBA78PQ",
+      "text": "Why don't companies grant a free Apache license for their JS frameworks? They are capatilizing on their patents.",
+      "thread_ts": "1566854344.057000",
+      "ts": "1566856507.062100",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "client_msg_id": "1684099e-0c2b-412a-8f67-47bfa245f442",
+      "date": "2019-08-27 05:19:04",
+      "edited": {
+        "ts": "1566855488.000000",
+        "user": "UMA76UQJD"
+      },
+      "latest_reply": "1566910694.065300",
+      "replies": [
+        {
+          "ts": "1566856507.062100",
+          "user": "UMA76UQJD"
+        },
+        {
+          "ts": "1566856663.062300",
+          "user": "UMA76UQJD"
+        },
+        {
+          "ts": "1566856738.062500",
+          "user": "UMM3TGTP0"
+        },
+        {
+          "ts": "1566856741.062700",
+          "user": "UMM3TGTP0"
+        },
+        {
+          "ts": "1566856790.062900",
+          "user": "UMM3TGTP0"
+        },
+        {
+          "ts": "1566856846.063300",
+          "user": "UMM3TGTP0"
+        },
+        {
+          "ts": "1566857581.063500",
+          "user": "UMA76UQJD"
+        },
+        {
+          "ts": "1566857653.063700",
+          "user": "UMA76UQJD"
+        },
+        {
+          "ts": "1566886459.064500",
+          "user": "UMA02LMAM"
+        },
+        {
+          "ts": "1566910694.065300",
+          "user": "UM76CN15G"
+        }
+      ],
+      "reply_count": 10,
+      "reply_users": [
+        "UMA76UQJD",
+        "UMM3TGTP0",
+        "UMA02LMAM",
+        "UM76CN15G"
+      ],
+      "reply_users_count": 4,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "Can someone suggest a good framework for javascript, to write a good UI? I've no experience in web development.\n\nSomething that allows you to create a software-like UI. More like a pyqt for websites.\n\nEdit: I'm planning to use react.js",
+      "thread_ts": "1566854344.057000",
+      "ts": "1566854344.057000",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "client_msg_id": "be9d96e8-2737-4256-996c-1e3c25d63ea4",
+      "date": "2019-08-26 12:23:34",
+      "parent_user_id": "UMKR86B7F",
+      "team": "TMJBA78PQ",
+      "text": "I've had businesses in NY &amp; NC. Besides the government fees to having different businesses licenses there was no reason to pay someone to do it for me. The attorneys and accountants were paid as I needed them to keep my assets protected and to make sure I was complying with regulations. I'm unfamiliar with Stripe and Atlas.",
+      "thread_ts": "1566791980.053500",
+      "ts": "1566793414.054300",
+      "type": "message",
+      "user": "UMJ50KPF1",
+      "username": "mbike314"
+    },
+    {
+      "client_msg_id": "76c7f58f-0880-4395-8690-5eaf925e1d68",
+      "date": "2019-08-26 12:18:54",
+      "parent_user_id": "UMKR86B7F",
+      "team": "TMJBA78PQ",
+      "text": "Stripe  Atlas is a good program if you also intend to use them as payment. The only cavet I've heard is people dont like the  monthly account fee at Silicon Valley Bank, but you can switch default biz bank accounts.",
+      "thread_ts": "1566791980.053500",
+      "ts": "1566793134.054100",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    },
+    {
+      "client_msg_id": "0d5143cd-e709-4bf9-9472-3245347d1237",
+      "date": "2019-08-26 12:16:00",
+      "edited": {
+        "ts": "1566793009.000000",
+        "user": "UMJ50KPF1"
+      },
+      "parent_user_id": "UMKR86B7F",
+      "team": "TMJBA78PQ",
+      "text": "I've had a few businesses and currently restarting a new venture altogether. While I'm waiting on an LLC, I got a DBA in the meantime. It at least allows me to do business while things fall in line. I talk with business attorneys, CPA's and accountants regularly so I know the best move and the next move.",
+      "thread_ts": "1566791980.053500",
+      "ts": "1566792960.053800",
+      "type": "message",
+      "user": "UMJ50KPF1",
+      "username": "mbike314"
+    },
+    {
+      "client_msg_id": "f92f0085-4dfb-4105-9b70-1fa6aa61b972",
+      "date": "2019-08-26 12:12:30",
+      "parent_user_id": "UMKR86B7F",
+      "team": "TMJBA78PQ",
+      "text": "It depends on the business. Not a straight forward answer. But you can do a \"DBA\" (doing business as) with your local government. You can do an LLC, S-Corp, Ect.... with your state government. Each has there own pros and cons. Do you know exactly what you want to do?",
+      "thread_ts": "1566791980.053500",
+      "ts": "1566792750.053600",
+      "type": "message",
+      "user": "UMJ50KPF1",
+      "username": "mbike314"
+    },
+    {
+      "client_msg_id": "9f007a5b-bc34-4947-bd1b-ffce266401dd",
+      "date": "2019-08-26 11:59:40",
+      "latest_reply": "1566793414.054300",
+      "replies": [
+        {
+          "ts": "1566792750.053600",
+          "user": "UMJ50KPF1"
+        },
+        {
+          "ts": "1566792960.053800",
+          "user": "UMJ50KPF1"
+        },
+        {
+          "ts": "1566793134.054100",
+          "user": "UM5U1NZBL"
+        },
+        {
+          "ts": "1566793414.054300",
+          "user": "UMJ50KPF1"
+        }
+      ],
+      "reply_count": 4,
+      "reply_users": [
+        "UMJ50KPF1",
+        "UM5U1NZBL"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "<@UMJ50KPF1> Can you recommend any specific material for registering a business?",
+      "thread_ts": "1566791980.053500",
+      "ts": "1566791980.053500",
+      "type": "message",
+      "user": "UMKR86B7F",
+      "username": "seb.roeder.85"
+    },
+    {
+      "client_msg_id": "464f92fe-9389-4577-98f2-f0b07cef27f7",
+      "date": "2019-08-25 20:58:02",
+      "team": "TMJBA78PQ",
+      "text": "dang sounds cool, thanks... maybe if someone here has the time they could look into this and write up a nice blog post",
+      "ts": "1566737882.051300",
+      "type": "message",
+      "user": "UM9UYPYM7",
+      "username": "cltngwn"
+    },
+    {
+      "client_msg_id": "9450453f-bd5a-4a2b-be93-155820541216",
+      "date": "2019-08-25 20:47:14",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "+1",
+          "users": [
+            "UMKUX5CDS"
+          ]
+        },
+        {
+          "count": 1,
+          "name": "100",
+          "users": [
+            "UMFQHMF5J"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "CJ, I haven't done it before but there are a few options to register a business from anywhere in the world. Apperently you can easily start a business in Delaware without being a state resident. If you want to register your business in Europe, you could look at Estonia's e-residency program which would make you a digital citizen of that country and they'll send you a passport which you can use to sign all your documents from abroad. Since I haven't done it myself I don't know all the ins and outs but it might be a good starting point.",
+      "ts": "1566737234.050500",
+      "type": "message",
+      "user": "UMAUCLS1F",
+      "username": "deneefrobin"
+    },
+    {
+      "client_msg_id": "be70cf07-e75d-42eb-959e-b4fa233f7302",
+      "date": "2019-08-25 20:34:26",
+      "team": "TMJBA78PQ",
+      "text": "But don't let that stop you from starting or taking action!!!!!!",
+      "ts": "1566736466.047200",
+      "type": "message",
+      "user": "UMJ50KPF1",
+      "username": "mbike314"
+    },
+    {
+      "client_msg_id": "ae5d6d73-5021-4df2-a337-ec8aeff6306d",
+      "date": "2019-08-25 20:33:50",
+      "team": "TMJBA78PQ",
+      "text": "Yes. That would be the world of 'business law'",
+      "ts": "1566736430.046500",
+      "type": "message",
+      "user": "UMJ50KPF1",
+      "username": "mbike314"
+    },
+    {
+      "client_msg_id": "af490652-a910-412f-aecd-245d3f291686",
+      "date": "2019-08-25 20:33:30",
+      "team": "TMJBA78PQ",
+      "text": "or even start my personal website with that name",
+      "ts": "1566736410.046200",
+      "type": "message",
+      "user": "UM9UYPYM7",
+      "username": "cltngwn"
+    },
+    {
+      "client_msg_id": "c968f462-bcbc-4175-be26-e15c29d611a7",
+      "date": "2019-08-25 20:33:25",
+      "team": "TMJBA78PQ",
+      "text": "I got one i like but now I can't tell people I guess",
+      "ts": "1566736405.045900",
+      "type": "message",
+      "user": "UM9UYPYM7",
+      "username": "cltngwn"
+    },
+    {
+      "client_msg_id": "04aed3a6-9f7c-4aa6-a3e9-4604f68ea52c",
+      "date": "2019-08-25 20:33:09",
+      "team": "TMJBA78PQ",
+      "text": "lame",
+      "ts": "1566736389.045500",
+      "type": "message",
+      "user": "UM9UYPYM7",
+      "username": "cltngwn"
+    },
+    {
+      "client_msg_id": "f5e3d2f6-0542-4e79-9bc1-62c5d13ec973",
+      "date": "2019-08-25 20:32:33",
+      "team": "TMJBA78PQ",
+      "text": "as far as a website, yes, just buy the domain name. But that doesn't stop someone from starting a company in that name. Just makes it harder for there website to fit their name.",
+      "ts": "1566736353.045100",
+      "type": "message",
+      "user": "UMJ50KPF1",
+      "username": "mbike314"
+    },
+    {
+      "client_msg_id": "ac20b1e8-7b2e-43db-ab0c-ee2a37aa7145",
+      "date": "2019-08-25 20:32:11",
+      "team": "TMJBA78PQ",
+      "text": "on my states website.. guess im looking at Sole Proprietorship... for a solo contracting company",
+      "ts": "1566736331.044600",
+      "type": "message",
+      "user": "UM9UYPYM7",
+      "username": "cltngwn"
+    },
+    {
+      "client_msg_id": "114a0ca7-7f72-46d4-9957-637a22ed535b",
+      "date": "2019-08-25 20:31:11",
+      "team": "TMJBA78PQ",
+      "text": "Is it simple, like just to buy the name?",
+      "ts": "1566736271.043300",
+      "type": "message",
+      "user": "UM9UYPYM7",
+      "username": "cltngwn"
+    },
+    {
+      "client_msg_id": "f970be55-3131-46f1-979c-f518b21c0bfd",
+      "date": "2019-08-25 20:30:30",
+      "team": "TMJBA78PQ",
+      "text": "I don't know how to do that in Europe. But I do know how to do it in the states.",
+      "ts": "1566736230.043000",
+      "type": "message",
+      "user": "UMJ50KPF1",
+      "username": "mbike314"
+    },
+    {
+      "client_msg_id": "d0ee09b6-46a3-41d5-bfaa-1928f6be6236",
+      "date": "2019-08-25 20:29:16",
+      "team": "TMJBA78PQ",
+      "text": "As an American residing in Europe :thinking_face:",
+      "ts": "1566736156.042100",
+      "type": "message",
+      "user": "UM9UYPYM7",
+      "username": "cltngwn"
+    },
+    {
+      "client_msg_id": "0878ef3c-7ac7-45fc-bc80-fd09dd026adc",
+      "date": "2019-08-25 20:28:17",
+      "team": "TMJBA78PQ",
+      "text": "When/How do I register my business name so no one else snatches it?",
+      "ts": "1566736097.041700",
+      "type": "message",
+      "user": "UM9UYPYM7",
+      "username": "cltngwn"
+    },
+    {
+      "client_msg_id": "4300b323-5a04-4e5c-9f94-ceec0cb5d9ad",
+      "date": "2019-08-25 06:03:19",
+      "edited": {
+        "ts": "1566735427.000000",
+        "user": "UMKUX5CDS"
+      },
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "i have this recurring dream of making a twitter/irc hybrid. something along the lines of: every tweet being it's own irc channel. responsive animations for expanding a tweet from it's static list entry into a channel window. user can chat for a while, then minimize and continue scorlling through tweets. maybe even some sort of internal linking from within the tweet/chat, so the user can move horizontally and 'emerge' somewhere else.",
+      "thread_ts": "1566672315.036300",
+      "ts": "1566684199.037900",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "client_msg_id": "9c4151ba-ba66-4115-8a39-0ae924812931",
+      "date": "2019-08-25 05:56:26",
+      "edited": {
+        "ts": "1566683816.000000",
+        "user": "UMKUX5CDS"
+      },
+      "parent_user_id": "UMKUX5CDS",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "older_man",
+          "users": [
+            "UMKUX5CDS"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "i feel like this newfangled 'instant messaging' (slack/whatsapp et al.) just doesn't have the same feel as irc did...",
+      "thread_ts": "1566672315.036300",
+      "ts": "1566683786.037500",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "client_msg_id": "e991c14c-f087-49c3-a7bb-39e1513ba02e",
+      "date": "2019-08-25 05:55:35",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "oh haha, was audiowarez so terrible?",
+      "thread_ts": "1566672315.036300",
+      "ts": "1566683735.037300",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "client_msg_id": "f4d05a06-bbd5-43bf-9a7f-ef32092116ba",
+      "date": "2019-08-25 04:51:15",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "I used to lurk in audiowarez :grimacing: I have been reformed!",
+      "thread_ts": "1566672315.036300",
+      "ts": "1566679875.037000",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "client_msg_id": "d913c5f0-d438-43f0-bf62-83ec24b934ac",
+      "date": "2019-08-25 04:49:59",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "indeed hahaha, guess we are showing our age....",
+      "thread_ts": "1566672315.036300",
+      "ts": "1566679799.036800",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "client_msg_id": "1b89f76b-141c-4d01-a6be-40456411e54b",
+      "date": "2019-08-25 02:45:15",
+      "last_read": "1566684199.037900",
+      "latest_reply": "1566684199.037900",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "sweat_smile",
+          "users": [
+            "UMJDTNF1U"
+          ]
+        }
+      ],
+      "replies": [
+        {
+          "ts": "1566679799.036800",
+          "user": "UMM3TGTP0"
+        },
+        {
+          "ts": "1566679875.037000",
+          "user": "UMM3TGTP0"
+        },
+        {
+          "ts": "1566683735.037300",
+          "user": "UMKUX5CDS"
+        },
+        {
+          "ts": "1566683786.037500",
+          "user": "UMKUX5CDS"
+        },
+        {
+          "ts": "1566684199.037900",
+          "user": "UMKUX5CDS"
+        }
+      ],
+      "reply_count": 5,
+      "reply_users": [
+        "UMM3TGTP0",
+        "UMKUX5CDS"
+      ],
+      "reply_users_count": 2,
+      "subscribed": true,
+      "team": "TMJBA78PQ",
+      "text": "does anyone here remember IRC?",
+      "thread_ts": "1566672315.036300",
+      "ts": "1566672315.036300",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "client_msg_id": "9A917D17-F42E-4D71-85F9-D18908AB612A",
+      "date": "2019-08-24 04:49:27",
+      "parent_user_id": "UMJ4QFBRV",
+      "team": "TMJBA78PQ",
+      "text": "For example yes",
+      "thread_ts": "1566574533.027200",
+      "ts": "1566593367.029000",
+      "type": "message",
+      "user": "UMA02LMAM",
+      "username": "florianwoelki"
+    },
+    {
+      "client_msg_id": "6171db0c-23bb-4d1a-b4b2-a6324f34dbba",
+      "date": "2019-08-24 01:09:21",
+      "edited": {
+        "ts": "1566580178.000000",
+        "user": "UMJ4QFBRV"
+      },
+      "parent_user_id": "UMJ4QFBRV",
+      "team": "TMJBA78PQ",
+      "text": "like recommendation system for courses? <@UMA02LMAM>",
+      "thread_ts": "1566574533.027200",
+      "ts": "1566580161.028100",
+      "type": "message",
+      "user": "UMJ4QFBRV",
+      "username": "gopalsinghpanwar411"
+    },
+    {
+      "client_msg_id": "AD666082-77F3-4319-82CF-4B2B2DD505D1",
+      "date": "2019-08-23 23:47:37",
+      "parent_user_id": "UMJ4QFBRV",
+      "team": "TMJBA78PQ",
+      "text": "Personalized learning. Like every student has a custom teacher or mentor ",
+      "thread_ts": "1566574533.027200",
+      "ts": "1566575257.027900",
+      "type": "message",
+      "user": "UMA02LMAM",
+      "username": "florianwoelki"
+    },
+    {
+      "client_msg_id": "a3cd6ca2-0341-4cf1-aaf8-bffafa683ad4",
+      "date": "2019-08-23 23:35:33",
+      "latest_reply": "1566593367.029000",
+      "replies": [
+        {
+          "ts": "1566575257.027900",
+          "user": "UMA02LMAM"
+        },
+        {
+          "ts": "1566580161.028100",
+          "user": "UMJ4QFBRV"
+        },
+        {
+          "ts": "1566593367.029000",
+          "user": "UMA02LMAM"
+        }
+      ],
+      "reply_count": 3,
+      "reply_users": [
+        "UMA02LMAM",
+        "UMJ4QFBRV"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "any ideas or suggestions for implementing AI in an education app?",
+      "thread_ts": "1566574533.027200",
+      "ts": "1566574533.027200",
+      "type": "message",
+      "user": "UMJ4QFBRV",
+      "username": "gopalsinghpanwar411"
+    },
+    {
+      "client_msg_id": "58b30483-69c6-4783-b332-2eaa381f33e6",
+      "date": "2019-08-23 17:45:54",
+      "edited": {
+        "ts": "1566554780.000000",
+        "user": "UMA76UQJD"
+      },
+      "parent_user_id": "UMKUX5CDS",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "bulb",
+          "users": [
+            "UMKUX5CDS"
+          ]
+        },
+        {
+          "count": 2,
+          "name": "+1",
+          "users": [
+            "UMKUX5CDS",
+            "UMG9TLYSC"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "I don't know much about experience based products. But I think you may be right about the growing demand for them. I think most of it, like the samurai one, can be viewed as tourism. But some of them, like \"experience being famous\" don't seem like they may do good, but it can still be regarded as a profitable tourist idea. \n\nA random example of an experience based service: a service which allows you to live an olden day life for a day or two (I mean, without electricity, phones and stuff. In the middle of a village, with just nothing but ancient utensils... gramophone etc) might be worth trying. I don't know if there are any services like that. But things like this will be a lot of fun. And creating a market out of it could benefit the society and draw in open minded people.\n\nP.S. I think it might be fine to allow phones, inside an \"ancient village\". Because there are too many people who cannot live without it.",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566553554.022500",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "client_msg_id": "29b4d183-f6cf-4cc6-8bef-cf4c3efadbda",
+      "date": "2019-08-23 17:25:42",
+      "edited": {
+        "ts": "1566552472.000000",
+        "user": "UMA76UQJD"
+      },
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "That's actually correct. At one point we cannot avoid exploiting the dopamine pathways. Because it is fundamental to how we humans function. \n\nYes I agree, providing people with a platform to organize, share and discover is the right way to go. If you look at services like <http://stackexchange.com|stackexchange.com> (and a few subreddits that are good), even if you get addicted to them, you will always end up gaining from them: by forcing yourself to learn, or by genuinely helping others in exchange for more points (which translates to corporate or academic social reputation).",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566552342.022100",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "date": "2019-08-23 08:18:44",
+      "inviter": "UMM650SJ0",
+      "subtype": "channel_join",
+      "text": "<@UM4SVKXL3> has joined the channel",
+      "ts": "1566519524.021800",
+      "type": "message",
+      "user": "UM4SVKXL3",
+      "username": "mhmagcamit"
+    },
+    {
+      "client_msg_id": "55e442ae-47a1-4c4e-8474-6024a3a73b22",
+      "date": "2019-08-23 05:06:30",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "<@UM5U1NZBL> wow you got me, i've listened to a fair it of that music - really like the allan watts albums he's done",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566507990.021400",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "client_msg_id": "c535bc7c-3ba3-4b96-a1b2-e5619aa3a42a",
+      "date": "2019-08-23 05:04:17",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "<@UMA76UQJD> it's some interesting ideas! I wouldn't say that my main focus is on maslow's hierarcy, i think it's just a neat little idea which backs-up my hunch that there's a growing  (and largely unmet) demand for experience based products. My guess is that demand for these sorts of commodities(?) will grow much more as economies become more service-based, and manufacturing/primary industry goes full robot.\n\nOn your other point about the dopamine aspect,  i've often been held back by this thought; that willful engagement of people into almost any kind of business model is akin to selling likes on facebook, ie the dopamine cycle is always a fundamental force that's being exploited at some level. However i'm not sure there's any way to escape that particular circuit until humans are able to leave their bodies. until then, i think growth, expansion and moderated addictions should be encouraged and profited from. i guess the key question is, as usual; what kind of growth, and to what end? I agree that the celebrity for a day thing is like selling canned narcisism -  without getting too philosophical, there's definitely more ethical ways to provide people an uplifting experience. You could even avoid the whole dilemma and simply provide a platform for people to efficiently organize / share/ discover their own methods?",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566507857.021200",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "client_msg_id": "0b2890cf-6f9e-4b81-954c-289d8c97ed94",
+      "date": "2019-08-23 01:39:57",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "might be worth investigating based on your interest",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566495597.020900",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    },
+    {
+      "client_msg_id": "393c6516-eb5b-4166-8133-a207f62f9ab9",
+      "date": "2019-08-23 01:39:38",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "Its a musical subgenere of lo-fi hip op and vaporwave electronic music set to metered speech about meaning",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566495578.020700",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    },
+    {
+      "client_msg_id": "ce260d80-cf11-4465-83ae-88e6db42e83e",
+      "date": "2019-08-23 01:38:54",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "Have you heard of Meaningwave?",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566495534.020500",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    },
+    {
+      "client_msg_id": "4a128d6d-af92-46bb-ba71-27cdb02ae16c",
+      "date": "2019-08-23 00:28:35",
+      "edited": {
+        "ts": "1566491728.000000",
+        "user": "UMA76UQJD"
+      },
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "Fulfilling each level to move forward, does not always have to be induced externally. Satisfaction begins within ones own view of this world. There is a chance that making someone famous for 2 hrs could become addictive (I could be wrong). External means do not always help. \n\nSocial networks make use of this unrest within people to make money. Giving people a dopamine boost, through likes, comments and shares, never cause them to stop doing what they keep doing: spending time on social media. Instead it just keeps increasing. Giving people a dopamine boost for money is exactly like selling \"social media likes\" to users. Again, this is just my view and I could be wrong. \n\nI think the only way someone can satisfy the hierarchy is by wanting to be satisfied with what they have. By the way, the Japanese Samurai thing was awesome! I really want to try that some day!",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566491315.020000",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "client_msg_id": "913b6e2d-2d6f-4822-b101-7d00a6c9e64a",
+      "date": "2019-08-23 00:18:34",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "Please correct me if I'm wrong, I think your main focus is on Maslow's hierarchy. That's an awesome idea! Exposing people to fame, for example, will make them understand how famous people have their own challenges. Or simply being exposed to such a situation will make them get used to it, not wanting it anymore and thus fulfilling one of the levels in the hierarchy. This must help them move one level up, in the hierarchy. More like how a child will be very excited about his new flying helicopter (toy), and later get used to playing with it (causing it to remain under a bundle of toys, forgotten, forever).",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566490714.019800",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "client_msg_id": "3a697580-95c1-4d87-8677-7783dc2f55ef",
+      "date": "2019-08-23 00:11:45",
+      "edited": {
+        "ts": "1566491819.000000",
+        "user": "UMA76UQJD"
+      },
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "Hi Steve Fisher! I think I understand. This site, <http://famousforaday.co|famousforaday.co>, honestly I many never have come up with something like this myself! People are finding amazing ways to make money, and here I am, stuck and not knowing how to use ML to make money. Anyway, I like the challenge of discovering a business model that suits me!",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566490305.019600",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "client_msg_id": "341bf115-d225-4dcc-ae53-89c247f75694",
+      "date": "2019-08-22 17:27:52",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "but really I think you could go beyond this kind of temporary pop-level stuff and do something more meaningful?",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566466072.018700",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Famous For A Day: Hire Personal Paparazzi | Famous For A Day",
+          "from_url": "https://famousforaday.co/",
+          "id": 1,
+          "original_url": "https://famousforaday.co/",
+          "service_icon": "https://famousforaday.co/favicon.ico",
+          "service_name": "Famous For A Day",
+          "text": "Hire or rent personal paparazzi from the fame experts at Famous For A Day.",
+          "thumb_height": 55,
+          "thumb_url": "http://famousforaday.co/images/logo.png",
+          "thumb_width": 178,
+          "title": "Hire Personal Paparazzi | Famous For A Day",
+          "title_link": "https://famousforaday.co/"
+        }
+      ],
+      "client_msg_id": "8e5ba55d-6e2f-43e5-b353-1a8ca3816674",
+      "date": "2019-08-22 17:27:22",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "see also: <https://famousforaday.co/>",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566466042.018400",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "client_msg_id": "eb3966eb-186d-4c74-9f9e-522fc068a411",
+      "date": "2019-08-22 17:26:55",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "they teach you how to be a samurai for a day",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566466015.018200",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Airbnb: Feeling Samurai Soul - Airbnb",
+          "from_url": "https://www.airbnb.com/experiences/79594?location=samurai&currentTab=experience_tab&federatedSearchId=dc895703-197c-495f-bd42-71ad8e7aa84a&searchId=293f39b3-d3c5-45b3-b2c0-7e228a598194&sectionId=b9397466-58a3-4385-957c-0ed6901cffc5&source=p2",
+          "id": 1,
+          "image_bytes": 117015,
+          "image_height": 250,
+          "image_url": "https://a0.muscache.com/im/pictures/2f690952-a2e3-47bc-8736-b98ec3ba60c4.jpg?aki_policy=xl_poster",
+          "image_width": 167,
+          "original_url": "https://www.airbnb.com/experiences/79594?location=samurai&amp;currentTab=experience_tab&amp;federatedSearchId=dc895703-197c-495f-bd42-71ad8e7aa84a&amp;searchId=293f39b3-d3c5-45b3-b2c0-7e228a598194&amp;sectionId=b9397466-58a3-4385-957c-0ed6901cffc5&amp;source=p2",
+          "service_icon": "https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-76x76-3b313d93b1b5823293524b9764352ac9.png",
+          "service_name": "Airbnb",
+          "text": "Tokyo - First you'll change the clothes into \"kimono\" and \"hakama\" is samurai style. Introducing with tea ceremony Matcha green tea and Wagashi sweets Next we'll watch a real Japanese katana\u2014a traditional sword used by the samurai of ancient and feudal Japan. Then you'll learn how to handle it with unsharpened katana. We'll also do a traditional Zen <http://meditation.It|meditation.It> called \"Rituzen\". After doing meditation, you will be calm mind and you can cut one bundle of straw with real sword. Through using with real katana yourself, you can feel one part of swordsmanship as samurai. Lastly, you'll watch a performance using real katana by host. We'll discuss what we've seen and learned over tea. This experience has no flashy production and luxury, but you can feel the \"real\". You can enjoy not only training but also total samurai culture with this time. More than over 20country, 900 people joined in a year. From families, couples to martial artists, various people touched and enjoyed the \u201creal\u201d samurai world! If you bring a camera, you can taking some pictures of samurai pauses which learning in this experience! If there are no dates availablilty on the calendar, please message me:)",
+          "title": "Feeling Samurai Soul - Airbnb",
+          "title_link": "https://www.airbnb.com/experiences/79594?location=samurai&currentTab=experience_tab&federatedSearchId=dc895703-197c-495f-bd42-71ad8e7aa84a&searchId=293f39b3-d3c5-45b3-b2c0-7e228a598194&sectionId=b9397466-58a3-4385-957c-0ed6901cffc5&source=p2"
+        }
+      ],
+      "client_msg_id": "095393b7-a493-4b40-a7b2-cedbed13758f",
+      "date": "2019-08-22 17:26:37",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "I've noticed this kind of thing is also getting popular: <https://www.airbnb.com/experiences/79594?location=samurai&amp;currentTab=experience_tab&amp;federatedSearchId=dc895703-197c-495f-bd42-71ad8e7aa84a&amp;searchId=293f39b3-d3c5-45b3-b2c0-7e228a598194&amp;sectionId=b9397466-58a3-4385-957c-0ed6901cffc5&amp;source=p2>",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566465997.017900",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "client_msg_id": "d2066a91-453d-44d7-a28d-ccae01d1b5d3",
+      "date": "2019-08-22 17:22:29",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "Life coaching would be a good place to start thinking, I guess a lot of what draws people to youtube educational content is that you've got a kind of role model to look at, who also teaches you some skills at the same time?",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566465749.017700",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "client_msg_id": "8967c14d-f128-440a-bd08-d2bddb428b60",
+      "date": "2019-08-22 17:21:19",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "It's interesting reading about Maslow, it's a simple theory and people have improved/refined upon it more recently, but it's nonetheless stood the test of time",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566465679.017500",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "client_msg_id": "8aca68db-37b4-4665-93aa-cb8826fb5b4b",
+      "date": "2019-08-22 17:20:26",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "Hi Seram :slightly_smiling_face: To be honest I've just been brainstorming the idea and trying to get back to some fundamental theory of what people need in the world today, and then use that as a guide to build a business",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566465626.017300",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "client_msg_id": "7c10a7a1-a8aa-4c4f-961d-12f9db7d2860",
+      "date": "2019-08-22 17:04:17",
+      "parent_user_id": "UMKUX5CDS",
+      "team": "TMJBA78PQ",
+      "text": "Hi! I didn't know what was maslow's hierarchy or what was self actualization. Reading about it on Google lead me to understand it this way: Maslow's hierarchy is, the levels of psychological fulfillments a person has to go through before reaching their full potential. So, I'm guessing your service is going to be a something related to what a life coach does.\n\nSounds interesting. How is the service going to look?",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566464657.017100",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "client_msg_id": "12329067-6522-4b65-9b9c-b4a6e7eb65be",
+      "date": "2019-08-22 13:42:42",
+      "last_read": "1566553554.022500",
+      "latest_reply": "1566553554.022500",
+      "replies": [
+        {
+          "ts": "1566464657.017100",
+          "user": "UMA76UQJD"
+        },
+        {
+          "ts": "1566465626.017300",
+          "user": "UMKUX5CDS"
+        },
+        {
+          "ts": "1566465679.017500",
+          "user": "UMKUX5CDS"
+        },
+        {
+          "ts": "1566465749.017700",
+          "user": "UMKUX5CDS"
+        },
+        {
+          "ts": "1566465997.017900",
+          "user": "UMKUX5CDS"
+        },
+        {
+          "ts": "1566466015.018200",
+          "user": "UMKUX5CDS"
+        },
+        {
+          "ts": "1566466042.018400",
+          "user": "UMKUX5CDS"
+        },
+        {
+          "ts": "1566466072.018700",
+          "user": "UMKUX5CDS"
+        },
+        {
+          "ts": "1566490305.019600",
+          "user": "UMA76UQJD"
+        },
+        {
+          "ts": "1566490714.019800",
+          "user": "UMA76UQJD"
+        },
+        {
+          "ts": "1566491315.020000",
+          "user": "UMA76UQJD"
+        },
+        {
+          "ts": "1566495534.020500",
+          "user": "UM5U1NZBL"
+        },
+        {
+          "ts": "1566495578.020700",
+          "user": "UM5U1NZBL"
+        },
+        {
+          "ts": "1566495597.020900",
+          "user": "UM5U1NZBL"
+        },
+        {
+          "ts": "1566507857.021200",
+          "user": "UMKUX5CDS"
+        },
+        {
+          "ts": "1566507990.021400",
+          "user": "UMKUX5CDS"
+        },
+        {
+          "ts": "1566552342.022100",
+          "user": "UMA76UQJD"
+        },
+        {
+          "ts": "1566553554.022500",
+          "user": "UMA76UQJD"
+        }
+      ],
+      "reply_count": 18,
+      "reply_users": [
+        "UMA76UQJD",
+        "UMKUX5CDS",
+        "UM5U1NZBL"
+      ],
+      "reply_users_count": 3,
+      "subscribed": true,
+      "team": "TMJBA78PQ",
+      "text": "Hi everyone , i'm totally on board with this channel's purpose - I have a little web &amp; mobile development agency and mostly do random freelancing gigs, would like to find some new niche and create value elsewhere tho. Someone told me recently that more and more people are getting to the top tier of maslow's hierarchy these days, and I think there's a lot of opportunity for making business out of people's need for self-actualisation. How about providing 'significance' as a service?",
+      "thread_ts": "1566452562.016500",
+      "ts": "1566452562.016500",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Y Combinator: Startup School Lectures Are Now Available as a Podcast",
+          "from_url": "https://blog.ycombinator.com/startup-school-lectures-are-now-available-as-a-podcast/",
+          "id": 1,
+          "image_bytes": 29039,
+          "image_height": 250,
+          "image_url": "https://blog.ycombinator.com/wp-content/uploads/2018/09/Startup-School-Lectures-Are-Now-Available-as-a-Podcast.png",
+          "image_width": 476,
+          "original_url": "https://blog.ycombinator.com/startup-school-lectures-are-now-available-as-a-podcast/",
+          "service_name": "Y Combinator",
+          "text": "We're now publishing the Startup School lectures as a podcast. Here's where to find them.",
+          "title": "Startup School Lectures Are Now Available as a Podcast",
+          "title_link": "https://blog.ycombinator.com/startup-school-lectures-are-now-available-as-a-podcast/"
+        }
+      ],
+      "client_msg_id": "ffc73210-4124-47d2-9881-5c7565db188b",
+      "date": "2019-08-22 03:23:52",
+      "parent_user_id": "UM76CN15G",
+      "team": "TMJBA78PQ",
+      "text": "Here is a link to the lectures in audio form: <https://blog.ycombinator.com/startup-school-lectures-are-now-available-as-a-podcast/>",
+      "thread_ts": "1566330472.006700",
+      "ts": "1566415432.008400",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    },
+    {
+      "client_msg_id": "98e0e7de-ed3c-4141-ad99-d569d9e675ec",
+      "date": "2019-08-22 00:19:26",
+      "parent_user_id": "UM76CN15G",
+      "team": "TMJBA78PQ",
+      "text": "You might be able to still audit the program, but they post the recordings on their Youtube as well - look for \"Y Combinator\" user",
+      "thread_ts": "1566330472.006700",
+      "ts": "1566404366.008100",
+      "type": "message",
+      "user": "UM4S08KK5",
+      "username": "lester.leong89"
+    },
+    {
+      "client_msg_id": "ae4fe4e7-c51c-4e0d-82e1-5292d34c4671",
+      "date": "2019-08-22 00:17:31",
+      "parent_user_id": "UM5U1NZBL",
+      "reactions": [
+        {
+          "count": 3,
+          "name": "slightly_smiling_face",
+          "users": [
+            "UM5U1NZBL",
+            "UMN7C7V71",
+            "UMG9HJLR3"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "On the plus side, still got my little company operational :grin:",
+      "thread_ts": "1566311716.005400",
+      "ts": "1566404251.007900",
+      "type": "message",
+      "user": "UM4S08KK5",
+      "username": "lester.leong89"
+    },
+    {
+      "client_msg_id": "c16ea184-92bb-4671-bcc2-ff3dd709e7bb",
+      "date": "2019-08-22 00:17:00",
+      "parent_user_id": "UM5U1NZBL",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "slightly_frowning_face",
+          "users": [
+            "UM5U1NZBL"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "I was, but their school didn't give me the group invite after I did all the stuff like weekly updates.",
+      "thread_ts": "1566311716.005400",
+      "ts": "1566404220.007700",
+      "type": "message",
+      "user": "UM4S08KK5",
+      "username": "lester.leong89"
+    },
+    {
+      "client_msg_id": "caf8ee9a-9ef6-405d-9bb6-4564820d4f07",
+      "date": "2019-08-21 08:25:58",
+      "parent_user_id": "UM76CN15G",
+      "team": "TMJBA78PQ",
+      "text": "What's the name of podcast?",
+      "thread_ts": "1566330472.006700",
+      "ts": "1566347158.007100",
+      "type": "message",
+      "user": "UMJDTNF1U",
+      "username": "vikas.rajput54"
+    },
+    {
+      "client_msg_id": "7ec491e8-0b3f-4b9b-b95a-1dceb1e84c7d",
+      "date": "2019-08-21 03:57:53",
+      "parent_user_id": "UM76CN15G",
+      "team": "TMJBA78PQ",
+      "text": "All the lectures are available as podcasts!",
+      "thread_ts": "1566330472.006700",
+      "ts": "1566331073.006800",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    },
+    {
+      "client_msg_id": "fcb58d23-a1d7-450c-b01e-e453f50c8e1d",
+      "date": "2019-08-21 03:47:52",
+      "latest_reply": "1566415432.008400",
+      "replies": [
+        {
+          "ts": "1566331073.006800",
+          "user": "UM5U1NZBL"
+        },
+        {
+          "ts": "1566347158.007100",
+          "user": "UMJDTNF1U"
+        },
+        {
+          "ts": "1566404366.008100",
+          "user": "UM4S08KK5"
+        },
+        {
+          "ts": "1566415432.008400",
+          "user": "UM5U1NZBL"
+        }
+      ],
+      "reply_count": 4,
+      "reply_users": [
+        "UM5U1NZBL",
+        "UMJDTNF1U",
+        "UM4S08KK5"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "Nop ;(",
+      "thread_ts": "1566330472.006700",
+      "ts": "1566330472.006700",
+      "type": "message",
+      "user": "UM76CN15G",
+      "username": "plcpinho"
+    },
+    {
+      "client_msg_id": "60C604D4-FDEF-424A-83E7-323E2ECC8F1D",
+      "date": "2019-08-20 22:35:19",
+      "team": "TMJBA78PQ",
+      "text": "?",
+      "ts": "1566311719.005600",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    },
+    {
+      "client_msg_id": "6B664D6B-C3DE-4F78-8A4A-E582FE1FE10B",
+      "date": "2019-08-20 22:35:16",
+      "latest_reply": "1566404251.007900",
+      "replies": [
+        {
+          "ts": "1566404220.007700",
+          "user": "UM4S08KK5"
+        },
+        {
+          "ts": "1566404251.007900",
+          "user": "UM4S08KK5"
+        }
+      ],
+      "reply_count": 2,
+      "reply_users": [
+        "UM4S08KK5"
+      ],
+      "reply_users_count": 1,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "Anyone else currently in Y Combinator Startup School ",
+      "thread_ts": "1566311716.005400",
+      "ts": "1566311716.005400",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    },
+    {
+      "date": "2019-08-20 20:21:08",
+      "subtype": "channel_join",
+      "text": "<@UM4QHUUQK> has joined the channel",
+      "ts": "1566303668.004200",
+      "type": "message",
+      "user": "UM4QHUUQK",
+      "username": "jeeheonkim0"
+    },
+    {
+      "date": "2019-08-20 19:06:52",
+      "subtype": "channel_join",
+      "text": "<@UMHEG1F4L> has joined the channel",
+      "ts": "1566299212.004000",
+      "type": "message",
+      "user": "UMHEG1F4L",
+      "username": "siddgupta1991"
+    },
+    {
+      "date": "2019-08-20 16:15:48",
+      "subtype": "channel_join",
+      "text": "<@UMG2NFHQU> has joined the channel",
+      "ts": "1566288948.003800",
+      "type": "message",
+      "user": "UMG2NFHQU",
+      "username": "killiandectot"
+    },
+    {
+      "date": "2019-08-20 16:03:49",
+      "subtype": "channel_join",
+      "text": "<@UMGD8UNFJ> has joined the channel",
+      "ts": "1566288229.003600",
+      "type": "message",
+      "user": "UMGD8UNFJ",
+      "username": "s.stein"
+    },
+    {
+      "date": "2019-08-20 15:55:46",
+      "subtype": "channel_join",
+      "text": "<@UMHP3CRFF> has joined the channel",
+      "ts": "1566287746.003400",
+      "type": "message",
+      "user": "UMHP3CRFF",
+      "username": "madhuram.yadav"
+    },
+    {
+      "date": "2019-08-20 11:51:03",
+      "subtype": "channel_join",
+      "text": "<@UMGADRUTF> has joined the channel",
+      "ts": "1566273063.003200",
+      "type": "message",
+      "user": "UMGADRUTF",
+      "username": "wilsonmar"
+    },
+    {
+      "client_msg_id": "dc30597f-3cb4-4151-bd01-7b3dbca3ee8e",
+      "date": "2019-08-20 11:21:56",
+      "team": "TMJBA78PQ",
+      "text": "<#CM650SN9Y|entrepreneurs>",
+      "ts": "1566271316.003000",
+      "type": "message",
+      "user": "UMFPZT8A0",
+      "username": "prathibha.2709"
+    },
+    {
+      "date": "2019-08-20 10:44:27",
+      "inviter": "UM5U1NZBL",
+      "subtype": "channel_join",
+      "text": "<@UM4N2MUSE> has joined the channel",
+      "ts": "1566269067.002900",
+      "type": "message",
+      "user": "UM4N2MUSE",
+      "username": "hello"
+    },
+    {
+      "date": "2019-08-20 10:44:27",
+      "inviter": "UM5U1NZBL",
+      "subtype": "channel_join",
+      "text": "<@UMJ50KPF1> has joined the channel",
+      "ts": "1566269067.002700",
+      "type": "message",
+      "user": "UMJ50KPF1",
+      "username": "mbike314"
+    },
+    {
+      "date": "2019-08-20 10:44:27",
+      "inviter": "UM5U1NZBL",
+      "subtype": "channel_join",
+      "text": "<@UMJDGRZQW> has joined the channel",
+      "ts": "1566269067.002500",
+      "type": "message",
+      "user": "UMJDGRZQW",
+      "username": "diego.ugarte"
+    },
+    {
+      "date": "2019-08-20 10:44:26",
+      "inviter": "UM5U1NZBL",
+      "subtype": "channel_join",
+      "text": "<@UM4RETPRQ> has joined the channel",
+      "ts": "1566269066.002300",
+      "type": "message",
+      "user": "UM4RETPRQ",
+      "username": "chikeluge"
+    },
+    {
+      "date": "2019-08-20 10:44:26",
+      "inviter": "UM5U1NZBL",
+      "subtype": "channel_join",
+      "text": "<@UMGEHJFEU> has joined the channel",
+      "ts": "1566269066.002100",
+      "type": "message",
+      "user": "UMGEHJFEU",
+      "username": "ssaliinc1"
+    },
+    {
+      "date": "2019-08-20 10:44:26",
+      "inviter": "UM5U1NZBL",
+      "subtype": "channel_join",
+      "text": "<@UMG97DV44> has joined the channel",
+      "ts": "1566269066.001900",
+      "type": "message",
+      "user": "UMG97DV44",
+      "username": "alissonpina"
+    },
+    {
+      "date": "2019-08-20 10:44:25",
+      "inviter": "UM5U1NZBL",
+      "subtype": "channel_join",
+      "text": "<@UMJN3HNMV> has joined the channel",
+      "ts": "1566269065.001700",
+      "type": "message",
+      "user": "UMJN3HNMV",
+      "username": "vtocco"
+    },
+    {
+      "date": "2019-08-20 10:44:25",
+      "inviter": "UM5U1NZBL",
+      "subtype": "channel_join",
+      "text": "<@UMFPZT8A0> has joined the channel",
+      "ts": "1566269065.001500",
+      "type": "message",
+      "user": "UMFPZT8A0",
+      "username": "prathibha.2709"
+    },
+    {
+      "date": "2019-08-20 10:44:25",
+      "inviter": "UM5U1NZBL",
+      "subtype": "channel_join",
+      "text": "<@UM4QE0XHR> has joined the channel",
+      "ts": "1566269065.001300",
+      "type": "message",
+      "user": "UM4QE0XHR",
+      "username": "luishurtadocolin"
+    },
+    {
+      "date": "2019-08-20 10:44:25",
+      "inviter": "UM5U1NZBL",
+      "subtype": "channel_join",
+      "text": "<@UMGC0S7C5> has joined the channel",
+      "ts": "1566269065.001100",
+      "type": "message",
+      "user": "UMGC0S7C5",
+      "username": "yichun0701"
+    },
+    {
+      "date": "2019-08-20 10:44:25",
+      "inviter": "UM5U1NZBL",
+      "subtype": "channel_join",
+      "text": "<@UM53D3GUT> has joined the channel",
+      "ts": "1566269065.000900",
+      "type": "message",
+      "user": "UM53D3GUT",
+      "username": "ljpsmolders"
+    },
+    {
+      "date": "2019-08-20 10:44:25",
+      "inviter": "UM5U1NZBL",
+      "subtype": "channel_join",
+      "text": "<@UMJDTNF1U> has joined the channel",
+      "ts": "1566269065.000700",
+      "type": "message",
+      "user": "UMJDTNF1U",
+      "username": "vikas.rajput54"
+    },
+    {
+      "date": "2019-08-20 10:44:25",
+      "inviter": "UM5U1NZBL",
+      "subtype": "channel_join",
+      "text": "<@UM9TWMKPB> has joined the channel",
+      "ts": "1566269065.000500",
+      "type": "message",
+      "user": "UM9TWMKPB",
+      "username": "yt74"
+    },
+    {
+      "date": "2019-08-20 10:44:25",
+      "purpose": "For those who want to start their own business, be their own boss and gain financial independence and freedom!",
+      "subtype": "channel_purpose",
+      "text": "<@UM5U1NZBL> set the channel purpose: For those who want to start their own business, be their own boss and gain financial independence and freedom!",
+      "ts": "1566269065.000300",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    },
+    {
+      "date": "2019-08-20 10:44:25",
+      "subtype": "channel_join",
+      "text": "<@UM5U1NZBL> has joined the channel",
+      "ts": "1566269065.000200",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    }
+  ]
+}

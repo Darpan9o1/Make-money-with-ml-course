@@ -1,0 +1,272 @@
+{
+  "channel": {
+    "created": 1566596518,
+    "creator": "UM4QL6YTD",
+    "id": "CMBBWNJNP",
+    "is_archived": false,
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "is_mpim": false,
+    "is_org_shared": false,
+    "is_private": false,
+    "is_shared": false,
+    "members": [
+      "UMKUX5CDS"
+    ],
+    "name": "surveydatasocialml",
+    "name_normalized": "surveydatasocialml",
+    "num_members": 26,
+    "previous_names": [],
+    "purpose": {
+      "creator": "UM4QL6YTD",
+      "last_set": 1566596518,
+      "value": "For those who aspire to build data from scratch and make socially impactful ML projects"
+    },
+    "topic": {
+      "creator": "",
+      "last_set": 0,
+      "value": ""
+    },
+    "unlinked": 0
+  },
+  "messages": [
+    {
+      "date": "2019-08-24 21:55:20",
+      "subtype": "channel_join",
+      "text": "<@UMKJNDH6J> has joined the channel",
+      "ts": "1566654920.005600",
+      "type": "message",
+      "user": "UMKJNDH6J",
+      "username": "seongmin.youm"
+    },
+    {
+      "date": "2019-08-24 20:44:15",
+      "subtype": "channel_join",
+      "text": "<@UM4QA7XCJ> has joined the channel",
+      "ts": "1566650655.005400",
+      "type": "message",
+      "user": "UM4QA7XCJ",
+      "username": "aravindmenon663"
+    },
+    {
+      "date": "2019-08-24 20:30:25",
+      "subtype": "channel_join",
+      "text": "<@UMJ5N2BE3> has joined the channel",
+      "ts": "1566649825.005200",
+      "type": "message",
+      "user": "UMJ5N2BE3",
+      "username": "kshitiz.omar.12"
+    },
+    {
+      "date": "2019-08-24 15:37:27",
+      "subtype": "channel_join",
+      "text": "<@UMG9291B7> has joined the channel",
+      "ts": "1566632247.005000",
+      "type": "message",
+      "user": "UMG9291B7",
+      "username": "karthi.palanisamy"
+    },
+    {
+      "date": "2019-08-24 12:14:02",
+      "subtype": "channel_join",
+      "text": "<@UMJ4QFBRV> has joined the channel",
+      "ts": "1566620042.004800",
+      "type": "message",
+      "user": "UMJ4QFBRV",
+      "username": "gopalsinghpanwar411"
+    },
+    {
+      "date": "2019-08-24 10:37:21",
+      "subtype": "channel_join",
+      "text": "<@UMR4WL10W> has joined the channel",
+      "ts": "1566614241.004600",
+      "type": "message",
+      "user": "UMR4WL10W",
+      "username": "faridkamarul"
+    },
+    {
+      "date": "2019-08-24 10:14:13",
+      "subtype": "channel_join",
+      "text": "<@UM8QDPR3M> has joined the channel",
+      "ts": "1566612853.004400",
+      "type": "message",
+      "user": "UM8QDPR3M",
+      "username": "dijonkock"
+    },
+    {
+      "date": "2019-08-24 09:08:09",
+      "subtype": "channel_join",
+      "text": "<@UMBL7GPDX> has joined the channel",
+      "ts": "1566608889.004200",
+      "type": "message",
+      "user": "UMBL7GPDX",
+      "username": "patriciojavier15"
+    },
+    {
+      "date": "2019-08-24 09:03:14",
+      "subtype": "channel_join",
+      "text": "<@UMNS378DB> has joined the channel",
+      "ts": "1566608594.004000",
+      "type": "message",
+      "user": "UMNS378DB",
+      "username": "cfranco1015"
+    },
+    {
+      "date": "2019-08-24 08:26:25",
+      "subtype": "channel_join",
+      "text": "<@UMFAGQWEM> has joined the channel",
+      "ts": "1566606385.003800",
+      "type": "message",
+      "user": "UMFAGQWEM",
+      "username": "breuss.martin"
+    },
+    {
+      "date": "2019-08-24 08:03:11",
+      "subtype": "channel_join",
+      "text": "<@UMG8KCDTP> has joined the channel",
+      "ts": "1566604991.003600",
+      "type": "message",
+      "user": "UMG8KCDTP",
+      "username": "parang17"
+    },
+    {
+      "date": "2019-08-24 07:38:24",
+      "subtype": "channel_join",
+      "text": "<@UMJFF3Z1U> has joined the channel",
+      "ts": "1566603504.003400",
+      "type": "message",
+      "user": "UMJFF3Z1U",
+      "username": "mahjouri.saamahn"
+    },
+    {
+      "date": "2019-08-24 07:21:46",
+      "subtype": "channel_join",
+      "text": "<@UM9T5CWKB> has joined the channel",
+      "ts": "1566602506.003200",
+      "type": "message",
+      "user": "UM9T5CWKB",
+      "username": "invalidipnan"
+    },
+    {
+      "date": "2019-08-24 07:19:58",
+      "subtype": "channel_join",
+      "text": "<@UMG7ZPZLY> has joined the channel",
+      "ts": "1566602398.003000",
+      "type": "message",
+      "user": "UMG7ZPZLY",
+      "username": "rhoesada"
+    },
+    {
+      "date": "2019-08-24 06:51:48",
+      "subtype": "channel_join",
+      "text": "<@UMKUX5CDS> has joined the channel",
+      "ts": "1566600708.002500",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "date": "2019-08-24 06:47:03",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "heart",
+          "users": [
+            "UM4QL6YTD"
+          ]
+        }
+      ],
+      "subtype": "channel_join",
+      "text": "<@UMH39RL13> has joined the channel",
+      "ts": "1566600423.002300",
+      "type": "message",
+      "user": "UMH39RL13",
+      "username": "victornguyen111"
+    },
+    {
+      "client_msg_id": "c0f09d24-ab8c-403a-b6c3-acc82a5a8c44",
+      "date": "2019-08-24 06:42:22",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "heart",
+          "users": [
+            "UM4QL6YTD"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "Might be super helpful during the course and project work",
+      "ts": "1566600142.002100",
+      "type": "message",
+      "user": "UMA6G7ZBK",
+      "username": "sumandas.usa"
+    },
+    {
+      "client_msg_id": "44f6f200-43b1-4d90-9443-cb8dc7e6607f",
+      "date": "2019-08-24 06:42:00",
+      "team": "TMJBA78PQ",
+      "text": "Hello! I think this is a great channel for posting links to any repositories of data that we can find",
+      "ts": "1566600120.001600",
+      "type": "message",
+      "user": "UMA6G7ZBK",
+      "username": "sumandas.usa"
+    },
+    {
+      "date": "2019-08-24 06:41:29",
+      "subtype": "channel_join",
+      "text": "<@UMA6G7ZBK> has joined the channel",
+      "ts": "1566600089.000900",
+      "type": "message",
+      "user": "UMA6G7ZBK",
+      "username": "sumandas.usa"
+    },
+    {
+      "date": "2019-08-24 06:40:17",
+      "subtype": "channel_join",
+      "text": "<@UM4QUF66N> has joined the channel",
+      "ts": "1566600017.000700",
+      "type": "message",
+      "user": "UM4QUF66N",
+      "username": "matt.fryer"
+    },
+    {
+      "date": "2019-08-24 06:00:10",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "heart",
+          "users": [
+            "UM4QL6YTD"
+          ]
+        }
+      ],
+      "subtype": "channel_join",
+      "text": "<@UMJDZMUQN> has joined the channel",
+      "ts": "1566597610.000500",
+      "type": "message",
+      "user": "UMJDZMUQN",
+      "username": "joschafer"
+    },
+    {
+      "date": "2019-08-24 05:41:58",
+      "purpose": "For those who aspire to build data from scratch and make socially impactful ML projects",
+      "subtype": "channel_purpose",
+      "text": "<@UM4QL6YTD> set the channel purpose: For those who aspire to build data from scratch and make socially impactful ML projects",
+      "ts": "1566596518.000300",
+      "type": "message",
+      "user": "UM4QL6YTD",
+      "username": "reneesyliu"
+    },
+    {
+      "date": "2019-08-24 05:41:58",
+      "subtype": "channel_join",
+      "text": "<@UM4QL6YTD> has joined the channel",
+      "ts": "1566596518.000200",
+      "type": "message",
+      "user": "UM4QL6YTD",
+      "username": "reneesyliu"
+    }
+  ]
+}

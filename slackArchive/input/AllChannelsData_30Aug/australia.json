@@ -1,0 +1,231 @@
+{
+  "channel": {
+    "created": 1566535326,
+    "creator": "UMAAC8D0A",
+    "id": "CMMQ0TJUQ",
+    "is_archived": false,
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "is_mpim": false,
+    "is_org_shared": false,
+    "is_private": false,
+    "is_shared": false,
+    "members": [
+      "UMKUX5CDS"
+    ],
+    "name": "australia",
+    "name_normalized": "australia",
+    "num_members": 9,
+    "previous_names": [],
+    "purpose": {
+      "creator": "UMAAC8D0A",
+      "last_set": 1566574484,
+      "value": "Bring together ML &amp; AI enthusiast in Australia to share ideas, knowledge and resources."
+    },
+    "topic": {
+      "creator": "",
+      "last_set": 0,
+      "value": ""
+    },
+    "unlinked": 0
+  },
+  "messages": [
+    {
+      "client_msg_id": "81bc60c1-0a78-425a-8bee-13f58bf43fa7",
+      "date": "2019-08-25 15:22:36",
+      "team": "TMJBA78PQ",
+      "text": "Hey, welcome!",
+      "ts": "1566717756.004500",
+      "type": "message",
+      "user": "UMAAC8D0A",
+      "username": "haard2014"
+    },
+    {
+      "client_msg_id": "02af5a63-a3c1-4359-90c0-d7d82b29b9bc",
+      "date": "2019-08-25 13:24:09",
+      "team": "TMJBA78PQ",
+      "text": "hey guys, I am an international student studying in Uni Sydney.Nice to meet u guys!",
+      "ts": "1566710649.004200",
+      "type": "message",
+      "user": "UM4R53UV9",
+      "username": "qingshang"
+    },
+    {
+      "date": "2019-08-25 13:22:45",
+      "subtype": "channel_join",
+      "text": "<@UM4R53UV9> has joined the channel",
+      "ts": "1566710565.002700",
+      "type": "message",
+      "user": "UM4R53UV9",
+      "username": "qingshang"
+    },
+    {
+      "client_msg_id": "f4a8992f-9ae9-4157-a351-cfbb4710527d",
+      "date": "2019-08-24 13:47:34",
+      "team": "TMJBA78PQ",
+      "text": "Nah from Brizzy",
+      "ts": "1566625654.002500",
+      "type": "message",
+      "user": "UMAAC8D0A",
+      "username": "haard2014"
+    },
+    {
+      "client_msg_id": "0DB86B4B-9548-487B-9CC7-E7854D35EAA3",
+      "date": "2019-08-24 10:46:22",
+      "team": "TMJBA78PQ",
+      "text": "I am from Sydney. Any Sydney people here?",
+      "ts": "1566614782.002000",
+      "type": "message",
+      "user": "UMD0XPF17",
+      "username": "rahul.tawde.85"
+    },
+    {
+      "client_msg_id": "A92E84DD-1520-4BA0-9534-F816BBA16B08",
+      "date": "2019-08-24 10:32:41",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "heart",
+          "users": [
+            "UMAAC8D0A"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "This is great. Coding can be learnt better with a lot of collaboration. Cheers to this channel ",
+      "ts": "1566613961.001500",
+      "type": "message",
+      "user": "UMD0XPF17",
+      "username": "rahul.tawde.85"
+    },
+    {
+      "client_msg_id": "b90b4c1c-9f67-4d8e-8c7f-d217e01809cd",
+      "date": "2019-08-24 07:00:27",
+      "team": "TMJBA78PQ",
+      "text": "Cool",
+      "ts": "1566601227.000400",
+      "type": "message",
+      "user": "UM4QW954K",
+      "username": "cullens.place"
+    },
+    {
+      "date": "2019-08-24 03:29:26",
+      "subtype": "channel_join",
+      "text": "<@UMKUX5CDS> has joined the channel",
+      "ts": "1566588566.000200",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "client_msg_id": "92bb686e-d369-427e-93a4-11b65f806401",
+      "date": "2019-08-23 23:41:30",
+      "reactions": [
+        {
+          "count": 2,
+          "name": "+1",
+          "users": [
+            "UM4QKTZ2N",
+            "UMD0XPF17"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "Hey everyone, trying to bring together members from Australia so we can all work together as a group and frame problems from Australian perspective. Feel free to add other members as well.",
+      "ts": "1566574890.002700",
+      "type": "message",
+      "user": "UMAAC8D0A",
+      "username": "haard2014"
+    },
+    {
+      "date": "2019-08-23 23:39:27",
+      "inviter": "UMAAC8D0A",
+      "subtype": "channel_join",
+      "text": "<@UMJ46Q5GF> has joined the channel",
+      "ts": "1566574767.001300",
+      "type": "message",
+      "user": "UMJ46Q5GF",
+      "username": "saurav.bakshi"
+    },
+    {
+      "date": "2019-08-23 23:38:45",
+      "inviter": "UMAAC8D0A",
+      "subtype": "channel_join",
+      "text": "<@UM4QKTZ2N> has joined the channel",
+      "ts": "1566574725.001100",
+      "type": "message",
+      "user": "UM4QKTZ2N",
+      "username": "pbulkhak"
+    },
+    {
+      "date": "2019-08-23 23:38:03",
+      "inviter": "UMAAC8D0A",
+      "subtype": "channel_join",
+      "text": "<@UM4QW954K> has joined the channel",
+      "ts": "1566574683.000900",
+      "type": "message",
+      "user": "UM4QW954K",
+      "username": "cullens.place"
+    },
+    {
+      "date": "2019-08-23 23:37:32",
+      "inviter": "UMAAC8D0A",
+      "subtype": "channel_join",
+      "text": "<@UMD0XPF17> has joined the channel",
+      "ts": "1566574652.000700",
+      "type": "message",
+      "user": "UMD0XPF17",
+      "username": "rahul.tawde.85"
+    },
+    {
+      "date": "2019-08-23 23:36:47",
+      "inviter": "UMAAC8D0A",
+      "subtype": "channel_join",
+      "text": "<@UM9SJA7G9> has joined the channel",
+      "ts": "1566574607.000500",
+      "type": "message",
+      "user": "UM9SJA7G9",
+      "username": "heemoony"
+    },
+    {
+      "date": "2019-08-23 23:35:58",
+      "inviter": "UMAAC8D0A",
+      "subtype": "channel_join",
+      "text": "<@UMJ4PGVJB> has joined the channel",
+      "ts": "1566574558.000300",
+      "type": "message",
+      "user": "UMJ4PGVJB",
+      "username": "shanteshmani"
+    },
+    {
+      "date": "2019-08-23 23:34:44",
+      "purpose": "Bring together ML &amp; AI enthusiast in Australia to share ideas, knowledge and resources.",
+      "subtype": "channel_purpose",
+      "text": "<@UMAAC8D0A> set the channel purpose: Bring together ML &amp; AI enthusiast in Australia to share ideas, knowledge and resources.",
+      "ts": "1566574484.000100",
+      "type": "message",
+      "user": "UMAAC8D0A",
+      "username": "haard2014"
+    },
+    {
+      "date": "2019-08-23 12:42:07",
+      "purpose": "Bring together ML &amp; AI enthusiast to share ideas, knowledge and resources.",
+      "subtype": "channel_purpose",
+      "text": "<@UMAAC8D0A> set the channel purpose: Bring together ML &amp; AI enthusiast to share ideas, knowledge and resources.",
+      "ts": "1566535327.000300",
+      "type": "message",
+      "user": "UMAAC8D0A",
+      "username": "haard2014"
+    },
+    {
+      "date": "2019-08-23 12:42:06",
+      "subtype": "channel_join",
+      "text": "<@UMAAC8D0A> has joined the channel",
+      "ts": "1566535326.000200",
+      "type": "message",
+      "user": "UMAAC8D0A",
+      "username": "haard2014"
+    }
+  ]
+}

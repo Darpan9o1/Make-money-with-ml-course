@@ -1,0 +1,3165 @@
+{
+  "channel": {
+    "created": 1566169700,
+    "creator": "UM4N2MUSE",
+    "id": "CM4N2MY02",
+    "is_archived": false,
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "is_mpim": false,
+    "is_org_shared": false,
+    "is_private": false,
+    "is_shared": false,
+    "members": [
+      "UM4N2MUSE",
+      "UM4QA7XCJ",
+      "UM4QAB6AE",
+      "UM4QCSJ8K",
+      "UM4QD80TC",
+      "UM4QDUVPV",
+      "UM4QE0XHR",
+      "UM4QFT0HY",
+      "UM4QGGDMZ",
+      "UM4QHLRBM",
+      "UM4QHUUQK",
+      "UM4QKTZ2N",
+      "UM4QL6YTD",
+      "UM4QLKAJX",
+      "UM4QLL2KU",
+      "UM4QS0TUJ",
+      "UM4QS3E9Y",
+      "UM4QSEABV",
+      "UM4QSN2HG",
+      "UM4QSRJAX",
+      "UM4QUCWRG",
+      "UM4QUDCN6",
+      "UM4QUF66N",
+      "UM4QUJZL2",
+      "UM4QW171R",
+      "UM4QW954K",
+      "UM4R10QF4",
+      "UM4R2G4M9",
+      "UM4R4NE1Z",
+      "UM4R53UV9",
+      "UM4RB1JUA",
+      "UM4RDDR35",
+      "UM4RDP5DZ",
+      "UM4RE1T7D",
+      "UM4RETPRQ",
+      "UM4RFC150",
+      "UM4RH0JPL",
+      "UM4RJ1P7V",
+      "UM4RJ8H51",
+      "UM4RJQ53L",
+      "UM4RSJ20K",
+      "UM4RUBPUK",
+      "UM4RWKNKD",
+      "UM4RXQ3FC",
+      "UM4S08KK5",
+      "UM4S0KG7L",
+      "UM4S28PQS",
+      "UM4S2QSLS",
+      "UM4S5HYTV",
+      "UM4S7R5DH",
+      "UM4SSEZ8A",
+      "UM4SVKXL3",
+      "UM4SZ98V8",
+      "UM4T0B7EX",
+      "UM4T14AD8",
+      "UM4T419EE",
+      "UM4TK15PC",
+      "UM4TZNTQS",
+      "UM4UPKZFD",
+      "UM4UWQCQ3",
+      "UM5017742",
+      "UM50DJB6X",
+      "UM50FKKMH",
+      "UM512Q09Y",
+      "UM525K3QS",
+      "UM527UJ1G",
+      "UM52Q27J6",
+      "UM532UR5Y",
+      "UM53AV6HG",
+      "UM53D3GUT",
+      "UM556PDCK",
+      "UM55BMJUA",
+      "UM55D7NLA",
+      "UM55JV55Z",
+      "UM55R5SR0",
+      "UM565V6TD",
+      "UM5696DT5",
+      "UM56C43L2",
+      "UM57CMN10",
+      "UM5975N9Y",
+      "UM59DKR0S",
+      "UM59L9KAN",
+      "UM5CC407L",
+      "UM5EFHG5R",
+      "UM5FCB11Q",
+      "UM5G5HXLJ",
+      "UM5GZL58S",
+      "UM5H60YDR",
+      "UM5HUP543",
+      "UM5J7EUSE",
+      "UM5K7GSJW",
+      "UM5L40TA6",
+      "UM5L54JGK",
+      "UM5MJFYD9",
+      "UM5MUAV2P",
+      "UM5NZKYBD",
+      "UM5PU816E",
+      "UM5S0KCFM",
+      "UM5SPF0LB",
+      "UM5TEKTL2",
+      "UM5U1NZBL",
+      "UM60B1YRZ",
+      "UM60N9B8B",
+      "UM61BULM9",
+      "UM61HPDJN",
+      "UM61P0KR9",
+      "UM632DBJ6",
+      "UM632Q44A",
+      "UM654V49H",
+      "UM65TTC1H",
+      "UM67R95JN",
+      "UM6C6NZQS",
+      "UM6HXHG91",
+      "UM6HZC1T5",
+      "UM6QU4E7L",
+      "UM6TZD126",
+      "UM6UEL5S6",
+      "UM6UUHYTU",
+      "UM70259RQ",
+      "UM7068751",
+      "UM71ACFPD",
+      "UM76CN15G",
+      "UM7A905MH",
+      "UM7DZPX27",
+      "UM7FJBQPM",
+      "UM7HA951Q",
+      "UM7K2C30S",
+      "UM7T87943",
+      "UM82HAZ5Y",
+      "UM83GSZ6X",
+      "UM84S229Z",
+      "UM8CPFGHZ",
+      "UM8D8P25R",
+      "UM8DCJP8S",
+      "UM8QDPR3M",
+      "UM9S7Q9J5",
+      "UM9S9L95F",
+      "UM9S9NTUH",
+      "UM9SAHU8H",
+      "UM9SJ154Z",
+      "UM9SJA7G9",
+      "UM9SJKECR",
+      "UM9SV063B",
+      "UM9SW24C9",
+      "UM9T0S7R7",
+      "UM9T28UU9",
+      "UM9T5CWKB",
+      "UM9T6FKPT",
+      "UM9T8UCDP",
+      "UM9TKTCBB",
+      "UM9TNRF2M",
+      "UM9TSRDK3",
+      "UM9TWMKPB",
+      "UM9UMQ3MX",
+      "UM9UYPYM7",
+      "UM9VAKLNM",
+      "UMA02LMAM",
+      "UMA0GMP7B",
+      "UMA0MKDJM",
+      "UMA0Y775X",
+      "UMA29N281",
+      "UMA2Y929X",
+      "UMA49NHFT",
+      "UMA4LKA81",
+      "UMA5P6XQR",
+      "UMA5R5A8J",
+      "UMA6B9GMP",
+      "UMA6G7ZBK",
+      "UMA704AUR",
+      "UMA76UQJD",
+      "UMA77AXEV",
+      "UMA80NY3D",
+      "UMA8987AM",
+      "UMA9AG6G3",
+      "UMA9NF73K",
+      "UMA9V7VK4",
+      "UMAAAASL9",
+      "UMAAC8D0A",
+      "UMAAPNWMP",
+      "UMABE0N2V",
+      "UMAE00YE5",
+      "UMAHXNMEV",
+      "UMAR243K3",
+      "UMARMBD41",
+      "UMAT7S0KB",
+      "UMAUCLS1F",
+      "UMB07E197",
+      "UMB43QS2X",
+      "UMB4ZLVBK",
+      "UMB678Z4J",
+      "UMB6B9UN5",
+      "UMB6KUCLB",
+      "UMB7C6C81",
+      "UMB846R41",
+      "UMBFAF325",
+      "UMBGV04LA",
+      "UMBGZ96MQ",
+      "UMBL7GPDX",
+      "UMBN6FA4A",
+      "UMBNDDNE6",
+      "UMBNW8G2E",
+      "UMBPA65MY",
+      "UMBR1GP35",
+      "UMBSNGYTD",
+      "UMBU2BJG3",
+      "UMC0PJ5H8",
+      "UMC25ATBL",
+      "UMC2RMWDQ",
+      "UMC3VFPNF",
+      "UMC40M8N5",
+      "UMC6SD2RH",
+      "UMC8JK13M",
+      "UMC9V4LF4",
+      "UMCFLTT6F",
+      "UMD078UEP",
+      "UMD0XPF17",
+      "UMD1RC2HZ",
+      "UMD306AH1",
+      "UMDCPRB5G",
+      "UMDDNM58T",
+      "UMDELKARG",
+      "UMDGQPVDY",
+      "UMDL506AE",
+      "UMDVD9A8H",
+      "UME2CMTS5",
+      "UME3EHCFM",
+      "UMEHYFR6D",
+      "UMENXDQE7",
+      "UMEU15ZFU",
+      "UMF092B6E",
+      "UMF2J60TV",
+      "UMF4GRXH7",
+      "UMF56CNCB",
+      "UMFAGQWEM",
+      "UMFPR8Q20",
+      "UMFPZT8A0",
+      "UMFQ5AR6G",
+      "UMFQ5UUSY",
+      "UMFQHMF5J",
+      "UMFQJ4HAQ",
+      "UMFQKAG9J",
+      "UMFQUDMEY",
+      "UMFQZKAVA",
+      "UMFR4QSLU",
+      "UMFRD6ZLL",
+      "UMFRF4NTW",
+      "UMFRF50BE",
+      "UMFRH97L4",
+      "UMFRJ42LC",
+      "UMFRP1RFW",
+      "UMFRZUU20",
+      "UMFS3S71S",
+      "UMFS8E9RS",
+      "UMFSHEAJ0",
+      "UMFSKTEMS",
+      "UMFT3Q8TE",
+      "UMFTB0V3N",
+      "UMFTQK5S8",
+      "UMFUKHLFN",
+      "UMFUQ685A",
+      "UMG0523J8",
+      "UMG0E70LU",
+      "UMG0HS6DA",
+      "UMG0LFSKW",
+      "UMG1QNFK6",
+      "UMG2NFHQU",
+      "UMG3LJCGL",
+      "UMG62M53N",
+      "UMG6Y8SDS",
+      "UMG7P6V7W",
+      "UMG7WFD9S",
+      "UMG7ZPZLY",
+      "UMG80251N",
+      "UMG81H1PA",
+      "UMG83JZCY",
+      "UMG83SYN4",
+      "UMG85372R",
+      "UMG85C9K2",
+      "UMG85NAQG",
+      "UMG8B9FPX",
+      "UMG8D2ZS4",
+      "UMG8F7D4M",
+      "UMG8FAQHE",
+      "UMG8GL4R3",
+      "UMG8K55B7",
+      "UMG8K7RM3",
+      "UMG8KCDTP",
+      "UMG8L6RK7",
+      "UMG8M7S85",
+      "UMG8NL5KP",
+      "UMG8P6PGQ",
+      "UMG8TCCG0",
+      "UMG8TF0NL",
+      "UMG8XG8F2",
+      "UMG8YH145",
+      "UMG91R0SZ",
+      "UMG9291B7",
+      "UMG97DV44",
+      "UMG98G4GG",
+      "UMG9H6Y80",
+      "UMG9HJLR3",
+      "UMG9LGHB7",
+      "UMG9TLYSC",
+      "UMG9U0UBX",
+      "UMG9WH0QG",
+      "UMG9YMMNC",
+      "UMGA0LJHK",
+      "UMGA4RZKP",
+      "UMGADRUTF",
+      "UMGAEN1SR",
+      "UMGALRRTJ",
+      "UMGASKR32",
+      "UMGAV8E93",
+      "UMGB0ELQY",
+      "UMGB0UH3P",
+      "UMGB11AEQ",
+      "UMGBFD60G",
+      "UMGBGJNTF",
+      "UMGBL7WP7",
+      "UMGBLPLN4",
+      "UMGBS8V7X",
+      "UMGC0S7C5",
+      "UMGCA14FJ",
+      "UMGCD15L5",
+      "UMGCEDPHB",
+      "UMGCGNQ77",
+      "UMGD8UNFJ",
+      "UMGDKE9NZ",
+      "UMGDMB2MN",
+      "UMGDULK3P",
+      "UMGDYTDNG",
+      "UMGE10N56",
+      "UMGE5PWR3",
+      "UMGE8P1M3",
+      "UMGEHJFEU",
+      "UMGEK8KT7",
+      "UMGEWLB6C",
+      "UMGFMM6LV",
+      "UMGG7CRU0",
+      "UMGGFPKFW",
+      "UMGHHFYQY",
+      "UMGHU9WQY",
+      "UMGJE8CMN",
+      "UMGKEDUV6",
+      "UMGLWE137",
+      "UMGLZ54P2",
+      "UMGMEUKLY",
+      "UMGNU2NCV",
+      "UMGP628MS",
+      "UMGPH3020",
+      "UMGSNFM8U",
+      "UMGTNCU01",
+      "UMGTR04SH",
+      "UMGTSQ3CG",
+      "UMGTTQUBX",
+      "UMGTVJH61",
+      "UMGTZ7T17",
+      "UMGUTQX7X",
+      "UMH0QH0DA",
+      "UMH10JANM",
+      "UMH170SBB",
+      "UMH39RL13",
+      "UMH3ERJH2",
+      "UMH3MJGSY",
+      "UMH4KV63E",
+      "UMH6TEA4V",
+      "UMH8YK0NL",
+      "UMH95PC72",
+      "UMHB33UTF",
+      "UMHBEAAP7",
+      "UMHD982U8",
+      "UMHDJC4LD",
+      "UMHEG1F4L",
+      "UMHELCRSL",
+      "UMHH6NZNU",
+      "UMHH8JL7N",
+      "UMHJGCURW",
+      "UMHJUKB5X",
+      "UMHP3CRFF",
+      "UMHQ4PHA8",
+      "UMHQ72H96",
+      "UMHQKRSQ0",
+      "UMHRNKNHE",
+      "UMHSN6PNY",
+      "UMHT76KKJ",
+      "UMHUJVDGQ",
+      "UMJ0BJN8Z",
+      "UMJ0F2Q7N",
+      "UMJ2MS0Q1",
+      "UMJ42BET1",
+      "UMJ462B8X",
+      "UMJ46HJHM",
+      "UMJ46Q5GF",
+      "UMJ4AN92T",
+      "UMJ4C4Q7R",
+      "UMJ4DNNR5",
+      "UMJ4GBQ9M",
+      "UMJ4H75TR",
+      "UMJ4K1U2K",
+      "UMJ4MCB1D",
+      "UMJ4PGVJB",
+      "UMJ4QFBRV",
+      "UMJ4QGN5D",
+      "UMJ4Y3PB7",
+      "UMJ50KPF1",
+      "UMJ53PEDD",
+      "UMJ544VTR",
+      "UMJ5N2BE3",
+      "UMJ5T6Y5V",
+      "UMJ5VH99V",
+      "UMJ65DH2B",
+      "UMJ6B2XFX",
+      "UMJ6GB9CP",
+      "UMJ6GN8PR",
+      "UMJ7EH2S3",
+      "UMJ7H6Z4P",
+      "UMJ7RQGBT",
+      "UMJ7UR2T1",
+      "UMJ8JG9QF",
+      "UMJ8PAS15",
+      "UMJ8W2Q8P",
+      "UMJ989XP1",
+      "UMJB2HJ23",
+      "UMJBFAN9F",
+      "UMJBWU7SB",
+      "UMJDGRZQW",
+      "UMJDH5UMV",
+      "UMJDHD37Y",
+      "UMJDJQKU6",
+      "UMJDMMSEA",
+      "UMJDTNF1U",
+      "UMJDWKLF8",
+      "UMJDZMUQN",
+      "UMJE2BUH4",
+      "UMJE3V8CX",
+      "UMJEDTX4N",
+      "UMJEEJ9HC",
+      "UMJEF2B6J",
+      "UMJEFQYTY",
+      "UMJEFV2QN",
+      "UMJF1GSQ7",
+      "UMJF67WR4",
+      "UMJF73V3Q",
+      "UMJF96D6J",
+      "UMJF9LEUW",
+      "UMJFF3Z1U",
+      "UMJFN5B36",
+      "UMJFQ9BL6",
+      "UMJFR6Z9C",
+      "UMJFRLWNB",
+      "UMJFTKF2A",
+      "UMJG2Q0JJ",
+      "UMJG66J87",
+      "UMJGJUTST",
+      "UMJGUV0KG",
+      "UMJH3JEQ6",
+      "UMJHKCAQN",
+      "UMJHNFX47",
+      "UMJJMBHRU",
+      "UMJJUDUUE",
+      "UMJK0RA5C",
+      "UMJKAQ589",
+      "UMJKCNH2Q",
+      "UMJLMN3QE",
+      "UMJLZBGE5",
+      "UMJM3AP2S",
+      "UMJMH00BE",
+      "UMJMR6V8E",
+      "UMJMR9VUP",
+      "UMJMVJ1ED",
+      "UMJN3HNMV",
+      "UMJPEVDC7",
+      "UMJPM3746",
+      "UMJQCHC5V",
+      "UMJS1CUNA",
+      "UMJS38ABE",
+      "UMJT3P2KG",
+      "UMJU8HNMC",
+      "UMJUCPSR4",
+      "UMJUE3LQG",
+      "UMJUGR4FQ",
+      "UMJV2BXEH",
+      "UMJV30ULF",
+      "UMJV9QVEH",
+      "UMK038JQP",
+      "UMK0A9WDV",
+      "UMK17B4ES",
+      "UMK1GKRQW",
+      "UMK1X7614",
+      "UMK1X9338",
+      "UMK22F6JK",
+      "UMK2KFU2V",
+      "UMK2YLLQP",
+      "UMK3NAJLX",
+      "UMK3U4PJ5",
+      "UMK58Q9J9",
+      "UMK6M0J85",
+      "UMKA1CY7P",
+      "UMKAWPW3Y",
+      "UMKCT4T39",
+      "UMKUX5CDS"
+    ],
+    "name": "random",
+    "name_normalized": "random",
+    "num_members": 639,
+    "previous_names": [],
+    "purpose": {
+      "creator": "UM4N2MUSE",
+      "last_set": 1566169700,
+      "value": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels."
+    },
+    "topic": {
+      "creator": "UM4N2MUSE",
+      "last_set": 1566169700,
+      "value": "Non-work banter and water cooler conversation"
+    },
+    "unlinked": 0
+  },
+  "messages": [
+    {
+      "client_msg_id": "92940f66-920e-443f-b7d7-ca4151c1cd7c",
+      "date": "2019-08-28 04:17:29",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "face_vomiting",
+          "users": [
+            "UMJDTNF1U"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "<https://twitter.com/FunMachineLearn/status/1166440007529304065>",
+      "ts": "1566937049.136600",
+      "type": "message",
+      "user": "UMJFQ9BL6",
+      "username": "gantman"
+    },
+    {
+      "client_msg_id": "86e9cb31-2372-457b-87a5-3e46cb52781b",
+      "date": "2019-08-28 01:07:09",
+      "team": "TMJBA78PQ",
+      "text": "<https://youtu.be/J6XcP4JOHmk>",
+      "ts": "1566925629.135700",
+      "type": "message",
+      "user": "UMJ53PEDD",
+      "username": "sahand68"
+    },
+    {
+      "client_msg_id": "b8310bbd-e7c4-4a62-a3fd-cbbab477e4c1",
+      "date": "2019-08-27 10:15:06",
+      "reactions": [
+        {
+          "count": 3,
+          "name": "+1",
+          "users": [
+            "UMG7ZPZLY",
+            "UMGBFD60G",
+            "UMA2Y929X"
+          ]
+        },
+        {
+          "count": 1,
+          "name": "parrot",
+          "users": [
+            "UM9TSRDK3"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "this is insightful <https://norvig.com/21-days.html>",
+      "ts": "1566872106.132500",
+      "type": "message",
+      "user": "UM5EFHG5R",
+      "username": "amitoz.sudo"
+    },
+    {
+      "attachments": [
+        {
+          "author_link": "https://www.youtube.com/user/kahleyavalon",
+          "author_name": "Avalon Emerson",
+          "fallback": "YouTube Video: Avalon Emerson - One More Fluorescent Rush",
+          "from_url": "https://youtu.be/6FWLMjWuqsM",
+          "id": 1,
+          "original_url": "https://youtu.be/6FWLMjWuqsM",
+          "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/",
+          "thumb_height": 360,
+          "thumb_url": "https://i.ytimg.com/vi/6FWLMjWuqsM/hqdefault.jpg",
+          "thumb_width": 480,
+          "title": "Avalon Emerson - One More Fluorescent Rush",
+          "title_link": "https://youtu.be/6FWLMjWuqsM",
+          "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/6FWLMjWuqsM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "video_html_height": 225,
+          "video_html_width": 400
+        }
+      ],
+      "client_msg_id": "6b3a6a8e-7a6b-4de3-92a0-7d373bb63ef9",
+      "date": "2019-08-27 06:54:03",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "discoparrot",
+          "users": [
+            "UMKUX5CDS"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "For ML study inspo:: <https://youtu.be/6FWLMjWuqsM>",
+      "ts": "1566860043.130400",
+      "type": "message",
+      "user": "UMDDNM58T",
+      "username": "devonbergstrom"
+    },
+    {
+      "client_msg_id": "be60da16-1a63-4419-b684-cddfe3f4a8a8",
+      "date": "2019-08-27 03:07:29",
+      "parent_user_id": "UMGD8UNFJ",
+      "team": "TMJBA78PQ",
+      "text": "Omg... This made me laugh so hard.... :rolling_on_the_floor_laughing:",
+      "thread_ts": "1566830534.122300",
+      "ts": "1566846449.129100",
+      "type": "message",
+      "user": "UMQGRSD96",
+      "username": "bora.shivayan"
+    },
+    {
+      "client_msg_id": "6dd4b4a6-e8b1-41db-9a54-7e9aa289910a",
+      "date": "2019-08-27 02:38:00",
+      "team": "TMJBA78PQ",
+      "text": "thanks ! :parrot:",
+      "ts": "1566844680.128700",
+      "type": "message",
+      "user": "UM9TSRDK3",
+      "username": "andrei.pastramagiu"
+    },
+    {
+      "client_msg_id": "072621c9-9345-40f2-b36d-40351aab163f",
+      "date": "2019-08-27 02:37:03",
+      "team": "TMJBA78PQ",
+      "text": "He\u2019ll release a recording of it soon",
+      "ts": "1566844623.128500",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "ae1857a5-38da-478a-8ff9-a82a7fa8b39c",
+      "date": "2019-08-27 02:36:56",
+      "team": "TMJBA78PQ",
+      "text": "To be honest, nothing really.",
+      "ts": "1566844616.128300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "a3459b12-7f4b-4068-b5d0-e8ed2d43de73",
+      "date": "2019-08-27 02:35:35",
+      "edited": {
+        "ts": "1566844548.000000",
+        "user": "UM9TSRDK3"
+      },
+      "team": "TMJBA78PQ",
+      "text": "anything particular about it? (aka: did I miss something?)",
+      "ts": "1566844535.127900",
+      "type": "message",
+      "user": "UM9TSRDK3",
+      "username": "andrei.pastramagiu"
+    },
+    {
+      "client_msg_id": "f1ed2b93-3ace-46e1-b38e-f5a41c4e7be5",
+      "date": "2019-08-27 02:35:12",
+      "team": "TMJBA78PQ",
+      "text": "oh no, i missed the live stream :disappointed: going to watch it now",
+      "ts": "1566844512.127500",
+      "type": "message",
+      "user": "UM9TSRDK3",
+      "username": "andrei.pastramagiu"
+    },
+    {
+      "client_msg_id": "404a773a-bf38-464a-aab6-9d7b4a457e1a",
+      "date": "2019-08-26 23:53:41",
+      "team": "TMJBA78PQ",
+      "text": "It's exciting to try to move in more dimensions than your space permits",
+      "ts": "1566834821.125700",
+      "type": "message",
+      "user": "UM4RDP5DZ",
+      "username": "bmjharder"
+    },
+    {
+      "client_msg_id": "19ee8738-999e-4b4c-9c40-22edffdd0ee6",
+      "date": "2019-08-26 23:52:57",
+      "team": "TMJBA78PQ",
+      "text": "Don't feel bad. Just make sure every day you are doing something to grow in the direction you wish",
+      "ts": "1566834777.125100",
+      "type": "message",
+      "user": "UMJ50KPF1",
+      "username": "mbike314"
+    },
+    {
+      "client_msg_id": "2dccb138-d503-432b-88e0-ceb5c000952a",
+      "date": "2019-08-26 23:52:27",
+      "team": "TMJBA78PQ",
+      "text": "I spent yesterday doing silly things like regular schoolwork",
+      "ts": "1566834747.124200",
+      "type": "message",
+      "user": "UM4RDP5DZ",
+      "username": "bmjharder"
+    },
+    {
+      "client_msg_id": "2b564f11-5329-49fb-aadb-4ce3468b06b5",
+      "date": "2019-08-26 23:52:02",
+      "team": "TMJBA78PQ",
+      "text": "lol it's only been one day and I feel bad for not having my work finished",
+      "ts": "1566834722.123700",
+      "type": "message",
+      "user": "UM4RDP5DZ",
+      "username": "bmjharder"
+    },
+    {
+      "client_msg_id": "50bdefc7-60c3-422d-8d8e-f962140f6fd0",
+      "date": "2019-08-26 22:42:14",
+      "display_as_bot": false,
+      "files": [
+        {
+          "created": 1566830529,
+          "display_as_bot": false,
+          "editable": false,
+          "external_type": "",
+          "filetype": "png",
+          "has_rich_preview": false,
+          "id": "FMQAP66J1",
+          "image_exif_rotation": 1,
+          "is_external": false,
+          "is_public": true,
+          "is_starred": false,
+          "mimetype": "image/png",
+          "mode": "hosted",
+          "name": "Bildschirmfoto 2019-08-26 um 15.20.01.png",
+          "original_h": 2128,
+          "original_w": 3560,
+          "permalink": "https://machinelearni-ksf7601.slack.com/files/UMGD8UNFJ/FMQAP66J1/bildschirmfoto_2019-08-26_um_15.20.01.png",
+          "permalink_public": "https://slack-files.com/TMJBA78PQ-FMQAP66J1-53290d2404",
+          "pretty_type": "PNG",
+          "public_url_shared": false,
+          "size": 986022,
+          "thumb_1024": "https://files.slack.com/files-tmb/TMJBA78PQ-FMQAP66J1-0197ef36d9/bildschirmfoto_2019-08-26_um_15.20.01_1024.png",
+          "thumb_1024_h": 612,
+          "thumb_1024_w": 1024,
+          "thumb_160": "https://files.slack.com/files-tmb/TMJBA78PQ-FMQAP66J1-0197ef36d9/bildschirmfoto_2019-08-26_um_15.20.01_160.png",
+          "thumb_360": "https://files.slack.com/files-tmb/TMJBA78PQ-FMQAP66J1-0197ef36d9/bildschirmfoto_2019-08-26_um_15.20.01_360.png",
+          "thumb_360_h": 215,
+          "thumb_360_w": 360,
+          "thumb_480": "https://files.slack.com/files-tmb/TMJBA78PQ-FMQAP66J1-0197ef36d9/bildschirmfoto_2019-08-26_um_15.20.01_480.png",
+          "thumb_480_h": 287,
+          "thumb_480_w": 480,
+          "thumb_64": "https://files.slack.com/files-tmb/TMJBA78PQ-FMQAP66J1-0197ef36d9/bildschirmfoto_2019-08-26_um_15.20.01_64.png",
+          "thumb_720": "https://files.slack.com/files-tmb/TMJBA78PQ-FMQAP66J1-0197ef36d9/bildschirmfoto_2019-08-26_um_15.20.01_720.png",
+          "thumb_720_h": 430,
+          "thumb_720_w": 720,
+          "thumb_80": "https://files.slack.com/files-tmb/TMJBA78PQ-FMQAP66J1-0197ef36d9/bildschirmfoto_2019-08-26_um_15.20.01_80.png",
+          "thumb_800": "https://files.slack.com/files-tmb/TMJBA78PQ-FMQAP66J1-0197ef36d9/bildschirmfoto_2019-08-26_um_15.20.01_800.png",
+          "thumb_800_h": 478,
+          "thumb_800_w": 800,
+          "thumb_960": "https://files.slack.com/files-tmb/TMJBA78PQ-FMQAP66J1-0197ef36d9/bildschirmfoto_2019-08-26_um_15.20.01_960.png",
+          "thumb_960_h": 574,
+          "thumb_960_w": 960,
+          "timestamp": 1566830529,
+          "title": "Bildschirmfoto 2019-08-26 um 15.20.01.png",
+          "url_private": "https://files.slack.com/files-pri/TMJBA78PQ-FMQAP66J1/bildschirmfoto_2019-08-26_um_15.20.01.png",
+          "url_private_download": "https://files.slack.com/files-pri/TMJBA78PQ-FMQAP66J1/download/bildschirmfoto_2019-08-26_um_15.20.01.png",
+          "user": "UMGD8UNFJ",
+          "username": ""
+        }
+      ],
+      "latest_reply": "1566846449.129100",
+      "reactions": [
+        {
+          "count": 5,
+          "name": "sweat_smile",
+          "users": [
+            "UM4QL6YTD",
+            "UMHP3CRFF",
+            "UM9UYPYM7",
+            "UMA02LMAM",
+            "UMN5WMFRU"
+          ]
+        },
+        {
+          "count": 1,
+          "name": "joy",
+          "users": [
+            "UMQGRSD96"
+          ]
+        }
+      ],
+      "replies": [
+        {
+          "ts": "1566846449.129100",
+          "user": "UMQGRSD96"
+        }
+      ],
+      "reply_count": 1,
+      "reply_users": [
+        "UMQGRSD96"
+      ],
+      "reply_users_count": 1,
+      "subscribed": false,
+      "text": "I guess you can kind of see why :joy:  see you in the live chat in a bit",
+      "thread_ts": "1566830534.122300",
+      "ts": "1566830534.122300",
+      "type": "message",
+      "upload": true,
+      "user": "UMGD8UNFJ",
+      "username": "s.stein"
+    },
+    {
+      "client_msg_id": "e49707c9-4ba9-4fac-a138-593211e295ab",
+      "date": "2019-08-26 22:28:02",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "heart",
+          "users": [
+            "UM4QL6YTD"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "30 minutes off. :smile:",
+      "ts": "1566829682.122100",
+      "type": "message",
+      "user": "UM4RDP5DZ",
+      "username": "bmjharder"
+    },
+    {
+      "client_msg_id": "53a21e32-69a4-42d4-9a9b-df018845652c",
+      "date": "2019-08-26 18:45:58",
+      "reactions": [
+        {
+          "count": 3,
+          "name": "parrot",
+          "users": [
+            "UMA02LMAM",
+            "UMG7ZPZLY",
+            "UM9TSRDK3"
+          ]
+        },
+        {
+          "count": 1,
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "UMGE10N56"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": ":parrot: :parrot: :parrot:",
+      "ts": "1566816358.121100",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Cult of the Party Parrot",
+          "from_url": "https://cultofthepartyparrot.com/",
+          "id": 1,
+          "image_bytes": 34742,
+          "image_height": 250,
+          "image_url": "https://cultofthepartyparrot.com/assets/og.png",
+          "image_width": 579,
+          "original_url": "https://cultofthepartyparrot.com/",
+          "service_name": "cultofthepartyparrot.com",
+          "text": "THE PARROT INSISTS",
+          "title": "Cult of the Party Parrot",
+          "title_link": "https://cultofthepartyparrot.com/"
+        }
+      ],
+      "client_msg_id": "c47dbf23-23a8-40e1-a09f-8b28103fa382",
+      "date": "2019-08-26 18:45:35",
+      "team": "TMJBA78PQ",
+      "text": "long live party parrot! <https://cultofthepartyparrot.com/>",
+      "ts": "1566816335.120600",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "client_msg_id": "cdf52945-58ba-4139-ba0f-04b75b6da6cf",
+      "date": "2019-08-26 13:39:08",
+      "edited": {
+        "ts": "1566798438.000000",
+        "user": "UMJDWKLF8"
+      },
+      "team": "TMJBA78PQ",
+      "text": "<@UMPMWET53> Click on the Channels link in the Slack UI on the top left.  It\u2019ll list all the channels currently made.  Connect to as many as you like.",
+      "ts": "1566797948.119500",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "1CE86986-F2B8-41A1-9D8C-A02578CCE610",
+      "date": "2019-08-26 11:21:27",
+      "team": "TMJBA78PQ",
+      "text": "What good channels are there on this slack group? Shaaaare then please! :grimacing:",
+      "ts": "1566789687.118500",
+      "type": "message",
+      "user": "UMPMWET53",
+      "username": "aupchurch167"
+    },
+    {
+      "client_msg_id": "f9f790a0-5386-48df-9890-4635c8c6214c",
+      "date": "2019-08-26 08:28:54",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "UMM3TGTP0"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "LOL",
+      "ts": "1566779334.117200",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "260d7c33-518f-4f5a-bb0e-53198a52c46a",
+      "date": "2019-08-26 08:28:29",
+      "team": "TMJBA78PQ",
+      "text": "seizure in [3, 2, 1] heh",
+      "ts": "1566779309.116900",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "giphy: https://giphy.com/gifs/13L8ZgIiLZDjz2",
+          "footer": "Posted using /giphy",
+          "id": 1,
+          "image_bytes": 353292,
+          "image_height": 281,
+          "image_url": "https://media2.giphy.com/media/13L8ZgIiLZDjz2/giphy-downsized.gif?cid=6104955e2255647a6143f48db4f082d15c112aa93d63536c&rid=giphy-downsized.gif",
+          "image_width": 500,
+          "is_animated": true,
+          "title": "banana dance",
+          "title_link": "https://giphy.com/gifs/13L8ZgIiLZDjz2"
+        }
+      ],
+      "bot_id": "BMFRJGKFE",
+      "date": "2019-08-26 08:27:51",
+      "team": "TMJBA78PQ",
+      "text": "",
+      "ts": "1566779271.116300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "4a09dc55-019e-4ce6-a8ba-9149330b4cd4",
+      "date": "2019-08-26 08:26:35",
+      "team": "TMJBA78PQ",
+      "text": "Oops. Not the right one",
+      "ts": "1566779195.115700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "476eeb34-2d0d-4cb2-9549-09d02f0f5964",
+      "date": "2019-08-26 08:26:34",
+      "team": "TMJBA78PQ",
+      "text": "lulz",
+      "ts": "1566779194.115600",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "giphy: https://giphy.com/gifs/manning-eli-banana-costume-3o7TKEfWvUk3eUEWwo",
+          "footer": "Posted using /giphy",
+          "id": 1,
+          "image_bytes": 1116745,
+          "image_height": 140,
+          "image_url": "https://media0.giphy.com/media/3o7TKEfWvUk3eUEWwo/giphy-tumblr.gif?cid=6104955e44a6ce3d3d040ede92bfdda2910f7c8e600858fb&rid=giphy-tumblr.gif",
+          "image_width": 250,
+          "is_animated": true,
+          "title": "banana dance",
+          "title_link": "https://giphy.com/gifs/manning-eli-banana-costume-3o7TKEfWvUk3eUEWwo"
+        }
+      ],
+      "bot_id": "BMFRJGKFE",
+      "date": "2019-08-26 08:26:14",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "UMGALRRTJ"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "",
+      "ts": "1566779174.115300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "467be8d3-82fc-4c7c-bde8-fe5e58f492af",
+      "date": "2019-08-26 08:26:05",
+      "team": "TMJBA78PQ",
+      "text": "love it, still on the hunt for a a good `thank you ` one thats not hard to decipher.",
+      "ts": "1566779165.115100",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "client_msg_id": "83038b01-c68b-449c-9093-50a22668a145",
+      "date": "2019-08-26 08:26:05",
+      "team": "TMJBA78PQ",
+      "text": "So is...",
+      "ts": "1566779165.115000",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "9500f006-bfe4-42a7-a855-3936be96a339",
+      "date": "2019-08-26 08:25:56",
+      "team": "TMJBA78PQ",
+      "text": "The parrot is one of my favourites",
+      "ts": "1566779156.114600",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "d1ad1d47-8ab6-4e6c-bc59-c21a60e060f7",
+      "date": "2019-08-26 08:20:15",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "ty",
+          "users": [
+            "UMM3TGTP0"
+          ]
+        },
+        {
+          "count": 2,
+          "name": "parrot",
+          "users": [
+            "UMJDWKLF8",
+            "UMFAGQWEM"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "we have a few good ones",
+      "ts": "1566778815.113400",
+      "type": "message",
+      "user": "UM9TSRDK3",
+      "username": "andrei.pastramagiu"
+    },
+    {
+      "client_msg_id": "6ee8e1b5-bf2e-4c6e-bb83-140f04abbcdf",
+      "date": "2019-08-26 08:19:45",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "opensourceparrot",
+          "users": [
+            "UMG8XG8F2"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": ":parrot::squirrel::thankyou::pride::darth_vedar::shocking: :smile:",
+      "ts": "1566778785.113200",
+      "type": "message",
+      "user": "UM9TSRDK3",
+      "username": "andrei.pastramagiu"
+    },
+    {
+      "client_msg_id": "b25012a9-de63-4e44-b85e-e2f7ada63ab3",
+      "date": "2019-08-26 08:01:28",
+      "team": "TMJBA78PQ",
+      "text": "you bet!",
+      "ts": "1566777688.112600",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "client_msg_id": "26124f47-7e56-4657-819d-f760df66c410",
+      "date": "2019-08-26 08:01:19",
+      "team": "TMJBA78PQ",
+      "text": "I'll add some of mine when I get home. Please share yours!",
+      "ts": "1566777679.112400",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "53e53870-bbef-4592-abd2-cc4066d71509",
+      "date": "2019-08-26 08:01:07",
+      "team": "TMJBA78PQ",
+      "text": "Lmao :joy:",
+      "ts": "1566777667.112000",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "6bc8324e-07f8-45b1-bdb1-0e8238944319",
+      "date": "2019-08-26 08:00:39",
+      "team": "TMJBA78PQ",
+      "text": "Many Thanks <@UMJDWKLF8> ! I guess folk on my team must of added those custom. I see a few members have also added some here, Looks like folks are big fans of dancing parots, and darth :slightly_smiling_face:",
+      "ts": "1566777639.111800",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "client_msg_id": "4cfe460c-1988-491c-8990-140646f8df15",
+      "date": "2019-08-26 07:58:16",
+      "team": "TMJBA78PQ",
+      "text": "Only works on the desktop and web app. You won't see it on mobile.",
+      "ts": "1566777496.110500",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "6636721b-d543-4932-b36e-68a91fa10104",
+      "date": "2019-08-26 07:57:54",
+      "team": "TMJBA78PQ",
+      "text": "You can add your own emojis there.",
+      "ts": "1566777474.110100",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "37321175-9070-49f1-a105-947d7f54a674",
+      "date": "2019-08-26 07:57:50",
+      "team": "TMJBA78PQ",
+      "text": "<@UMM3TGTP0> go to customize slack on the main drop down menu at the top left.",
+      "ts": "1566777470.109800",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "f04a8a22-fdb0-4bc1-af8c-13daabc076f9",
+      "date": "2019-08-26 07:55:31",
+      "team": "TMJBA78PQ",
+      "text": "Anyone know how to add more emoji's My day job has many more, and a few favorites like `thank you` which is not currently available.",
+      "ts": "1566777331.109100",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Learning to Represent Programs with Graphs | Main Stream | A.I. Socratic Circles (#AISC)",
+          "from_url": "https://aisc.ai.science/events/2018-06-25",
+          "id": 1,
+          "image_bytes": 619578,
+          "image_height": 250,
+          "image_url": "https://aisc.ai.science/static/images/socrates.jpeg",
+          "image_width": 600,
+          "original_url": "https://aisc.ai.science/events/2018-06-25",
+          "service_icon": "https://aisc.ai.science/static/aisc-logo.ico",
+          "service_name": "aisc.ai.science",
+          "text": "lead: Amir Feizpour, facilitators: ;",
+          "title": "Learning to Represent Programs with Graphs | Main Stream | A.I. Socratic Circles (#AISC)",
+          "title_link": "https://aisc.ai.science/events/2018-06-25"
+        }
+      ],
+      "client_msg_id": "8a92927e-2e8e-46c2-aca1-0ea613176d2a",
+      "date": "2019-08-26 07:41:23",
+      "parent_user_id": "UM4RDP5DZ",
+      "team": "TMJBA78PQ",
+      "text": "Yes, Software 2.0 can help Software 1.0 :slightly_smiling_face: <https://aisc.ai.science/events/2018-06-25>",
+      "thread_ts": "1566676333.100700",
+      "ts": "1566776483.108100",
+      "type": "message",
+      "user": "UM6UUHYTU",
+      "username": "chris"
+    },
+    {
+      "client_msg_id": "aacda296-031f-4982-9cc5-693891e355ba",
+      "date": "2019-08-25 18:43:06",
+      "parent_user_id": "UMJM3AP2S",
+      "team": "TMJBA78PQ",
+      "text": "I was just pulling your leg <@UMJM3AP2S> :smile:",
+      "thread_ts": "1566371732.065900",
+      "ts": "1566729786.103400",
+      "type": "message",
+      "user": "UMHP3CRFF",
+      "username": "madhuram.yadav"
+    },
+    {
+      "client_msg_id": "d40141b3-69d9-4e99-99f9-239fb5c99c0b",
+      "date": "2019-08-25 14:08:52",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "slightly_smiling_face",
+          "users": [
+            "UM6UUHYTU"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "<https://twitter.com/FunMachineLearn/status/1165433919115841537/photo/1>",
+      "ts": "1566713332.102900",
+      "type": "message",
+      "user": "UMJFQ9BL6",
+      "username": "gantman"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Medium: Software 2.0",
+          "fields": [
+            {
+              "short": true,
+              "title": "Reading time",
+              "value": "8 min read"
+            }
+          ],
+          "from_url": "https://medium.com/@karpathy/software-2-0-a64152b37c35",
+          "id": 1,
+          "image_bytes": 82480,
+          "image_height": 234,
+          "image_url": "https://miro.medium.com/max/1017/1*CHcu2L0NmAZwCpQgmS1ByA.jpeg",
+          "image_width": 1017,
+          "original_url": "https://medium.com/@karpathy/software-2-0-a64152b37c35",
+          "service_icon": "https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png",
+          "service_name": "Medium",
+          "text": "I sometimes see people refer to neural networks as just \u201canother tool in your machine learning toolbox\u201d. They have some pros and cons, they\u2026",
+          "title": "Software 2.0",
+          "title_link": "https://medium.com/@karpathy/software-2-0-a64152b37c35",
+          "ts": 1528908193
+        }
+      ],
+      "client_msg_id": "9e1ab1e4-8bc8-497d-8b7f-e525527074db",
+      "date": "2019-08-25 05:08:41",
+      "parent_user_id": "UM4RDP5DZ",
+      "team": "TMJBA78PQ",
+      "text": "Andrej Karpathy calls this Software 2.0 :slightly_smiling_face:.  <https://medium.com/@karpathy/software-2-0-a64152b37c35>",
+      "thread_ts": "1566676333.100700",
+      "ts": "1566680921.101500",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "1056x1052px image",
+          "from_url": "https://hackernoon.com/hn-images/1*ZLHl65vQIvyBajnVo0iG1Q.jpeg",
+          "id": 1,
+          "image_bytes": 145525,
+          "image_height": 1052,
+          "image_url": "https://hackernoon.com/hn-images/1*ZLHl65vQIvyBajnVo0iG1Q.jpeg",
+          "image_width": 1056,
+          "original_url": "https://hackernoon.com/hn-images/1*ZLHl65vQIvyBajnVo0iG1Q.jpeg"
+        }
+      ],
+      "client_msg_id": "8a7155f6-de35-4f76-b487-db31aee16d7d",
+      "date": "2019-08-25 03:52:13",
+      "latest_reply": "1566776483.108100",
+      "reactions": [
+        {
+          "count": 2,
+          "name": "+1",
+          "users": [
+            "UMM3TGTP0",
+            "UMBGZ96MQ"
+          ]
+        }
+      ],
+      "replies": [
+        {
+          "ts": "1566680921.101500",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566776483.108100",
+          "user": "UM6UUHYTU"
+        }
+      ],
+      "reply_count": 2,
+      "reply_users": [
+        "UMJDWKLF8",
+        "UM6UUHYTU"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "<https://hackernoon.com/hn-images/1*ZLHl65vQIvyBajnVo0iG1Q.jpeg>",
+      "thread_ts": "1566676333.100700",
+      "ts": "1566676333.100700",
+      "type": "message",
+      "user": "UM4RDP5DZ",
+      "username": "bmjharder"
+    },
+    {
+      "client_msg_id": "6227c039-b98c-40f7-86a6-f91eabedca1b",
+      "date": "2019-08-24 21:41:15",
+      "parent_user_id": "UMJ50KPF1",
+      "team": "TMJBA78PQ",
+      "text": "Sorry. I haven't used it on Windows app.",
+      "thread_ts": "1566653891.097900",
+      "ts": "1566654075.099200",
+      "type": "message",
+      "user": "UMJ50KPF1",
+      "username": "mbike314"
+    },
+    {
+      "client_msg_id": "07cccb88-f4c0-4e61-977b-f9839ccccc54",
+      "date": "2019-08-24 21:40:25",
+      "parent_user_id": "UMJ50KPF1",
+      "team": "TMJBA78PQ",
+      "text": "yes on mobile I know its native but not on the Wndows app",
+      "thread_ts": "1566653891.097900",
+      "ts": "1566654025.099000",
+      "type": "message",
+      "user": "UMA0GMP7B",
+      "username": "noel.kim99"
+    },
+    {
+      "client_msg_id": "218fa36e-9a7b-4147-b3ec-87d8534bd5f3",
+      "date": "2019-08-24 21:39:03",
+      "team": "TMJBA78PQ",
+      "text": "<@UMA0GMP7B>",
+      "ts": "1566653943.098900",
+      "type": "message",
+      "user": "UMJ50KPF1",
+      "username": "mbike314"
+    },
+    {
+      "client_msg_id": "b0c4f10d-d16c-42e8-9439-0f42586c9dfe",
+      "date": "2019-08-24 21:38:41",
+      "team": "TMJBA78PQ",
+      "text": "That is how you put it in dark mode",
+      "ts": "1566653921.098700",
+      "type": "message",
+      "user": "UMJ50KPF1",
+      "username": "mbike314"
+    },
+    {
+      "client_msg_id": "04d146b0-3a76-41b8-aa58-6a843620ca2b",
+      "date": "2019-08-24 21:38:11",
+      "files": [
+        {
+          "created": 1566653889,
+          "display_as_bot": false,
+          "editable": false,
+          "external_type": "",
+          "filetype": "jpg",
+          "has_rich_preview": false,
+          "id": "FMGPA24F3",
+          "image_exif_rotation": 1,
+          "is_external": false,
+          "is_public": true,
+          "is_starred": false,
+          "mimetype": "image/jpeg",
+          "mode": "hosted",
+          "name": "Screenshot_20190824-093654_Slack.jpg",
+          "original_h": 2220,
+          "original_w": 1080,
+          "permalink": "https://machinelearni-ksf7601.slack.com/files/UMJ50KPF1/FMGPA24F3/screenshot_20190824-093654_slack.jpg",
+          "permalink_public": "https://slack-files.com/TMJBA78PQ-FMGPA24F3-a07119abdf",
+          "pretty_type": "JPEG",
+          "public_url_shared": false,
+          "size": 575800,
+          "thumb_1024": "https://files.slack.com/files-tmb/TMJBA78PQ-FMGPA24F3-6f7f252a42/screenshot_20190824-093654_slack_1024.jpg",
+          "thumb_1024_h": 1024,
+          "thumb_1024_w": 498,
+          "thumb_160": "https://files.slack.com/files-tmb/TMJBA78PQ-FMGPA24F3-6f7f252a42/screenshot_20190824-093654_slack_160.jpg",
+          "thumb_360": "https://files.slack.com/files-tmb/TMJBA78PQ-FMGPA24F3-6f7f252a42/screenshot_20190824-093654_slack_360.jpg",
+          "thumb_360_h": 360,
+          "thumb_360_w": 175,
+          "thumb_480": "https://files.slack.com/files-tmb/TMJBA78PQ-FMGPA24F3-6f7f252a42/screenshot_20190824-093654_slack_480.jpg",
+          "thumb_480_h": 480,
+          "thumb_480_w": 234,
+          "thumb_64": "https://files.slack.com/files-tmb/TMJBA78PQ-FMGPA24F3-6f7f252a42/screenshot_20190824-093654_slack_64.jpg",
+          "thumb_720": "https://files.slack.com/files-tmb/TMJBA78PQ-FMGPA24F3-6f7f252a42/screenshot_20190824-093654_slack_720.jpg",
+          "thumb_720_h": 720,
+          "thumb_720_w": 350,
+          "thumb_80": "https://files.slack.com/files-tmb/TMJBA78PQ-FMGPA24F3-6f7f252a42/screenshot_20190824-093654_slack_80.jpg",
+          "thumb_800": "https://files.slack.com/files-tmb/TMJBA78PQ-FMGPA24F3-6f7f252a42/screenshot_20190824-093654_slack_800.jpg",
+          "thumb_800_h": 1644,
+          "thumb_800_w": 800,
+          "thumb_960": "https://files.slack.com/files-tmb/TMJBA78PQ-FMGPA24F3-6f7f252a42/screenshot_20190824-093654_slack_960.jpg",
+          "thumb_960_h": 960,
+          "thumb_960_w": 467,
+          "timestamp": 1566653889,
+          "title": "Screenshot_20190824-093654_Slack.jpg",
+          "url_private": "https://files.slack.com/files-pri/TMJBA78PQ-FMGPA24F3/screenshot_20190824-093654_slack.jpg",
+          "url_private_download": "https://files.slack.com/files-pri/TMJBA78PQ-FMGPA24F3/download/screenshot_20190824-093654_slack.jpg",
+          "user": "UMJ50KPF1",
+          "username": ""
+        },
+        {
+          "created": 1566653889,
+          "display_as_bot": false,
+          "editable": false,
+          "external_type": "",
+          "filetype": "jpg",
+          "has_rich_preview": false,
+          "id": "FMBM91R5G",
+          "image_exif_rotation": 1,
+          "is_external": false,
+          "is_public": true,
+          "is_starred": false,
+          "mimetype": "image/jpeg",
+          "mode": "hosted",
+          "name": "Screenshot_20190824-093719_Slack.jpg",
+          "original_h": 2220,
+          "original_w": 1080,
+          "permalink": "https://machinelearni-ksf7601.slack.com/files/UMJ50KPF1/FMBM91R5G/screenshot_20190824-093719_slack.jpg",
+          "permalink_public": "https://slack-files.com/TMJBA78PQ-FMBM91R5G-e9a4088f56",
+          "pretty_type": "JPEG",
+          "public_url_shared": false,
+          "size": 266159,
+          "thumb_1024": "https://files.slack.com/files-tmb/TMJBA78PQ-FMBM91R5G-6d4804ce00/screenshot_20190824-093719_slack_1024.jpg",
+          "thumb_1024_h": 1024,
+          "thumb_1024_w": 498,
+          "thumb_160": "https://files.slack.com/files-tmb/TMJBA78PQ-FMBM91R5G-6d4804ce00/screenshot_20190824-093719_slack_160.jpg",
+          "thumb_360": "https://files.slack.com/files-tmb/TMJBA78PQ-FMBM91R5G-6d4804ce00/screenshot_20190824-093719_slack_360.jpg",
+          "thumb_360_h": 360,
+          "thumb_360_w": 175,
+          "thumb_480": "https://files.slack.com/files-tmb/TMJBA78PQ-FMBM91R5G-6d4804ce00/screenshot_20190824-093719_slack_480.jpg",
+          "thumb_480_h": 480,
+          "thumb_480_w": 234,
+          "thumb_64": "https://files.slack.com/files-tmb/TMJBA78PQ-FMBM91R5G-6d4804ce00/screenshot_20190824-093719_slack_64.jpg",
+          "thumb_720": "https://files.slack.com/files-tmb/TMJBA78PQ-FMBM91R5G-6d4804ce00/screenshot_20190824-093719_slack_720.jpg",
+          "thumb_720_h": 720,
+          "thumb_720_w": 350,
+          "thumb_80": "https://files.slack.com/files-tmb/TMJBA78PQ-FMBM91R5G-6d4804ce00/screenshot_20190824-093719_slack_80.jpg",
+          "thumb_800": "https://files.slack.com/files-tmb/TMJBA78PQ-FMBM91R5G-6d4804ce00/screenshot_20190824-093719_slack_800.jpg",
+          "thumb_800_h": 1644,
+          "thumb_800_w": 800,
+          "thumb_960": "https://files.slack.com/files-tmb/TMJBA78PQ-FMBM91R5G-6d4804ce00/screenshot_20190824-093719_slack_960.jpg",
+          "thumb_960_h": 960,
+          "thumb_960_w": 467,
+          "timestamp": 1566653889,
+          "title": "Screenshot_20190824-093719_Slack.jpg",
+          "url_private": "https://files.slack.com/files-pri/TMJBA78PQ-FMBM91R5G/screenshot_20190824-093719_slack.jpg",
+          "url_private_download": "https://files.slack.com/files-pri/TMJBA78PQ-FMBM91R5G/download/screenshot_20190824-093719_slack.jpg",
+          "user": "UMJ50KPF1",
+          "username": ""
+        }
+      ],
+      "latest_reply": "1566654075.099200",
+      "reactions": [
+        {
+          "count": 3,
+          "name": "heart",
+          "users": [
+            "UM4QL6YTD",
+            "UMJDTNF1U",
+            "UMGE10N56"
+          ]
+        }
+      ],
+      "replies": [
+        {
+          "ts": "1566654025.099000",
+          "user": "UMA0GMP7B"
+        },
+        {
+          "ts": "1566654075.099200",
+          "user": "UMJ50KPF1"
+        }
+      ],
+      "reply_count": 2,
+      "reply_users": [
+        "UMA0GMP7B",
+        "UMJ50KPF1"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "text": "",
+      "thread_ts": "1566653891.097900",
+      "ts": "1566653891.097900",
+      "type": "message",
+      "upload": true,
+      "user": "UMJ50KPF1",
+      "username": "mbike314"
+    },
+    {
+      "client_msg_id": "e9280835-fe2c-404c-a897-9630d2d2b166",
+      "date": "2019-08-24 21:35:28",
+      "edited": {
+        "ts": "1566653741.000000",
+        "user": "UMA0GMP7B"
+      },
+      "team": "TMJBA78PQ",
+      "text": "Does someone knows how to put Slack app in dark mode in windows ? I have searched long and found old tricks that used a javascript file that does not exist anymore in the repo of Slack. Help me save my eyes pls :persevere::sob:",
+      "ts": "1566653728.097700",
+      "type": "message",
+      "user": "UMA0GMP7B",
+      "username": "noel.kim99"
+    },
+    {
+      "client_msg_id": "f56384ac-f9dc-42df-8645-a6143d37c27e",
+      "date": "2019-08-24 21:20:46",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "+1",
+          "users": [
+            "UMM3TGTP0"
+          ]
+        },
+        {
+          "count": 1,
+          "name": "raised_hands",
+          "users": [
+            "UMFAGQWEM"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "<!here> hey guys, feel free to join <#CMR0UM0UF|africa> . Let's collaborate to solve problems for our people and drive our continent forward using Artificial Intelligence",
+      "ts": "1566652846.095800",
+      "type": "message",
+      "user": "UMA2Y929X",
+      "username": "mubarak4show"
+    },
+    {
+      "client_msg_id": "86b713fe-b67d-448c-aa61-e9cec64bc795",
+      "date": "2019-08-24 08:32:37",
+      "display_as_bot": false,
+      "edited": {
+        "ts": "1566606767.000000",
+        "user": "UMGTVJH61"
+      },
+      "files": [
+        {
+          "created": 1566606754,
+          "display_as_bot": false,
+          "editable": false,
+          "external_type": "",
+          "filetype": "png",
+          "has_rich_preview": false,
+          "id": "FMNE16HT6",
+          "image_exif_rotation": 1,
+          "is_external": false,
+          "is_public": true,
+          "is_starred": false,
+          "mimetype": "image/png",
+          "mode": "hosted",
+          "name": "image.png",
+          "original_h": 369,
+          "original_w": 490,
+          "permalink": "https://machinelearni-ksf7601.slack.com/files/UMGTVJH61/FMNE16HT6/image.png",
+          "permalink_public": "https://slack-files.com/TMJBA78PQ-FMNE16HT6-f285027c7b",
+          "pretty_type": "PNG",
+          "public_url_shared": false,
+          "size": 312114,
+          "thumb_160": "https://files.slack.com/files-tmb/TMJBA78PQ-FMNE16HT6-e10d0e8d65/image_160.png",
+          "thumb_360": "https://files.slack.com/files-tmb/TMJBA78PQ-FMNE16HT6-e10d0e8d65/image_360.png",
+          "thumb_360_h": 271,
+          "thumb_360_w": 360,
+          "thumb_480": "https://files.slack.com/files-tmb/TMJBA78PQ-FMNE16HT6-e10d0e8d65/image_480.png",
+          "thumb_480_h": 361,
+          "thumb_480_w": 480,
+          "thumb_64": "https://files.slack.com/files-tmb/TMJBA78PQ-FMNE16HT6-e10d0e8d65/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/TMJBA78PQ-FMNE16HT6-e10d0e8d65/image_80.png",
+          "timestamp": 1566606754,
+          "title": "image.png",
+          "url_private": "https://files.slack.com/files-pri/TMJBA78PQ-FMNE16HT6/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/TMJBA78PQ-FMNE16HT6/download/image.png",
+          "user": "UMGTVJH61",
+          "username": ""
+        }
+      ],
+      "reactions": [
+        {
+          "count": 6,
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "UMM3TGTP0",
+            "UMJDTNF1U",
+            "UMGTR04SH",
+            "UMKUX5CDS",
+            "UMJ4C4Q7R",
+            "UMGE10N56"
+          ]
+        }
+      ],
+      "text": "I can't keep up with it",
+      "ts": "1566606757.092200",
+      "type": "message",
+      "upload": true,
+      "user": "UMGTVJH61",
+      "username": "bruno"
+    },
+    {
+      "client_msg_id": "7f6e1e5f-6e87-4a38-ac22-80e26c95e283",
+      "date": "2019-08-24 07:59:23",
+      "parent_user_id": "UMJM3AP2S",
+      "team": "TMJBA78PQ",
+      "text": "lol",
+      "thread_ts": "1566371732.065900",
+      "ts": "1566604763.091900",
+      "type": "message",
+      "user": "UMPT2URF1",
+      "username": "laura.dahlberg"
+    },
+    {
+      "attachments": [
+        {
+          "author_link": "https://vimeo.com/user91722408",
+          "author_name": "SPRIGS B.V",
+          "fallback": "Vimeo Video: Boarding Pass Checker - SPRIGS",
+          "from_url": "https://vimeo.com/355620732",
+          "id": 1,
+          "original_url": "https://vimeo.com/355620732",
+          "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/vimeo.png",
+          "service_name": "Vimeo",
+          "service_url": "https://vimeo.com/",
+          "text": "Prototyping a boarding pass checking system using facial recognition",
+          "thumb_height": 166,
+          "thumb_url": "https://i.vimeocdn.com/video/808464389_295x166.jpg",
+          "thumb_width": 295,
+          "title": "Boarding Pass Checker - SPRIGS",
+          "title_link": "https://vimeo.com/355620732",
+          "video_html": "<iframe src=\"https://player.vimeo.com/video/355620732?autoplay=1&amp;app_id=122963\" width=\"400\" height=\"225\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"Boarding Pass Checker - SPRIGS\"></iframe>",
+          "video_html_height": 225,
+          "video_html_width": 400
+        }
+      ],
+      "client_msg_id": "db0f9cf2-9edd-49b4-8233-593605987409",
+      "date": "2019-08-24 04:37:26",
+      "team": "TMJBA78PQ",
+      "text": "Some more face recognition xD\n<https://vimeo.com/355620732>",
+      "ts": "1566592646.091500",
+      "type": "message",
+      "user": "UMFTQK5S8",
+      "username": "kreshnik.hasanaj"
+    },
+    {
+      "client_msg_id": "b80e3dff-27f1-4205-a1b6-a7dcf944329d",
+      "date": "2019-08-24 04:16:04",
+      "display_as_bot": false,
+      "files": [
+        {
+          "created": 1566591362,
+          "display_as_bot": false,
+          "editable": false,
+          "external_type": "",
+          "filetype": "png",
+          "has_rich_preview": false,
+          "id": "FMNNKV0E4",
+          "image_exif_rotation": 1,
+          "is_external": false,
+          "is_public": true,
+          "is_starred": false,
+          "mimetype": "image/png",
+          "mode": "hosted",
+          "name": "Screenshot_2019-08-24_04-14-08.png",
+          "original_h": 817,
+          "original_w": 784,
+          "permalink": "https://machinelearni-ksf7601.slack.com/files/UMKUX5CDS/FMNNKV0E4/screenshot_2019-08-24_04-14-08.png",
+          "permalink_public": "https://slack-files.com/TMJBA78PQ-FMNNKV0E4-f3c224f46f",
+          "pretty_type": "PNG",
+          "public_url_shared": false,
+          "size": 58697,
+          "thumb_160": "https://files.slack.com/files-tmb/TMJBA78PQ-FMNNKV0E4-0ce87e7a14/screenshot_2019-08-24_04-14-08_160.png",
+          "thumb_360": "https://files.slack.com/files-tmb/TMJBA78PQ-FMNNKV0E4-0ce87e7a14/screenshot_2019-08-24_04-14-08_360.png",
+          "thumb_360_h": 360,
+          "thumb_360_w": 345,
+          "thumb_480": "https://files.slack.com/files-tmb/TMJBA78PQ-FMNNKV0E4-0ce87e7a14/screenshot_2019-08-24_04-14-08_480.png",
+          "thumb_480_h": 480,
+          "thumb_480_w": 461,
+          "thumb_64": "https://files.slack.com/files-tmb/TMJBA78PQ-FMNNKV0E4-0ce87e7a14/screenshot_2019-08-24_04-14-08_64.png",
+          "thumb_720": "https://files.slack.com/files-tmb/TMJBA78PQ-FMNNKV0E4-0ce87e7a14/screenshot_2019-08-24_04-14-08_720.png",
+          "thumb_720_h": 720,
+          "thumb_720_w": 691,
+          "thumb_80": "https://files.slack.com/files-tmb/TMJBA78PQ-FMNNKV0E4-0ce87e7a14/screenshot_2019-08-24_04-14-08_80.png",
+          "thumb_800": "https://files.slack.com/files-tmb/TMJBA78PQ-FMNNKV0E4-0ce87e7a14/screenshot_2019-08-24_04-14-08_800.png",
+          "thumb_800_h": 800,
+          "thumb_800_w": 768,
+          "timestamp": 1566591362,
+          "title": "Screenshot_2019-08-24_04-14-08.png",
+          "url_private": "https://files.slack.com/files-pri/TMJBA78PQ-FMNNKV0E4/screenshot_2019-08-24_04-14-08.png",
+          "url_private_download": "https://files.slack.com/files-pri/TMJBA78PQ-FMNNKV0E4/download/screenshot_2019-08-24_04-14-08.png",
+          "user": "UMKUX5CDS",
+          "username": ""
+        }
+      ],
+      "parent_user_id": "UM512Q09Y",
+      "text": "just signed up :thumbsup: it allows registration from anywhere, and this list for preferred job location:",
+      "thread_ts": "1566572391.084900",
+      "ts": "1566591364.090400",
+      "type": "message",
+      "upload": true,
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "client_msg_id": "122c9d32-1f8e-4b37-a13e-3980fbd3e622",
+      "date": "2019-08-24 01:13:21",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "+1",
+          "users": [
+            "UM4RDP5DZ"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "We are all excited.",
+      "ts": "1566580401.089200",
+      "type": "message",
+      "user": "UMFQKAG9J",
+      "username": "nilashisbladeroy"
+    },
+    {
+      "client_msg_id": "465a3318-10d2-4b14-b1ee-8c907f3c9012",
+      "date": "2019-08-24 01:12:23",
+      "reactions": [
+        {
+          "count": 8,
+          "name": "+1",
+          "users": [
+            "UMM3TGTP0",
+            "UMN5WMFRU",
+            "UMPFL6BTQ",
+            "UM4QUF66N",
+            "UMN7C7V71",
+            "UM4T0B7EX",
+            "UMA6B9GMP",
+            "UMG62M53N"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "It's incredibly humbling and exciting to be within a peer group that includes so many accomplished developers and academics. I can't say that I'm excited to collaborate because I'm a bit of a loner, but it's endlessly exciting to me to imagine the amount of productivity that's going to come out of this group.",
+      "ts": "1566580343.088400",
+      "type": "message",
+      "user": "UM4RDP5DZ",
+      "username": "bmjharder"
+    },
+    {
+      "client_msg_id": "8ea2ec23-b972-49a8-b6df-326dbe7ffa65",
+      "date": "2019-08-23 23:28:13",
+      "parent_user_id": "UM512Q09Y",
+      "team": "TMJBA78PQ",
+      "text": "Is this just for European students?",
+      "thread_ts": "1566572391.084900",
+      "ts": "1566574093.085100",
+      "type": "message",
+      "user": "UMAAC8D0A",
+      "username": "haard2014"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "talent.io: Great Jobs for Great Developers",
+          "from_url": "https://www.talent.io/ref/yUTs4R3i",
+          "id": 1,
+          "image_bytes": 987468,
+          "image_height": 250,
+          "image_url": "https://s3.eu-west-1.amazonaws.com/hacker42/social_media/Sharing+Picture.png",
+          "image_width": 498,
+          "original_url": "https://www.talent.io/ref/yUTs4R3i",
+          "service_icon": "https://d1oxm68mlyfn64.cloudfront.net/assets/favicon/apple-touch-icon-5c26e9f31e6d749d2359fa276ff78ddf2d14a159f8fe9dee6cfe985ebd6c79c6.png",
+          "service_name": "talent.io",
+          "text": "Job search made simple for developers in Europe. Build your profile in 5 minutes, receive 5 job offers that match your skills, and get hired.",
+          "title": "Great Jobs for Great Developers",
+          "title_link": "https://www.talent.io/ref/yUTs4R3i"
+        }
+      ],
+      "client_msg_id": "894985ef-3bc9-4a81-8761-a2d30f2a6934",
+      "date": "2019-08-23 22:59:51",
+      "last_read": "1566591364.090400",
+      "latest_reply": "1566591364.090400",
+      "reactions": [
+        {
+          "count": 4,
+          "name": "+1",
+          "users": [
+            "UMJM3AP2S",
+            "UMJEFV2QN",
+            "UM61P0KR9",
+            "UMGE10N56"
+          ]
+        }
+      ],
+      "replies": [
+        {
+          "ts": "1566574093.085100",
+          "user": "UMAAC8D0A"
+        },
+        {
+          "ts": "1566591364.090400",
+          "user": "UMKUX5CDS"
+        }
+      ],
+      "reply_count": 2,
+      "reply_users": [
+        "UMAAC8D0A",
+        "UMKUX5CDS"
+      ],
+      "reply_users_count": 2,
+      "subscribed": true,
+      "team": "TMJBA78PQ",
+      "text": "<https://www.talent.io/ref/yUTs4R3i>\n\nSign Up to <http://Talent.io|Talent.io> as a Data Scientist so that you can be ready for a position after this Course",
+      "thread_ts": "1566572391.084900",
+      "ts": "1566572391.084900",
+      "type": "message",
+      "user": "UM512Q09Y",
+      "username": "smkabz"
+    },
+    {
+      "client_msg_id": "83fa8308-f7b6-4031-9156-e91a80f03654",
+      "date": "2019-08-22 22:35:20",
+      "parent_user_id": "UMB846R41",
+      "team": "TMJBA78PQ",
+      "text": "Really appreciate the responses - I've used similar platforms to <http://ahrefs.com|ahrefs.com> - looking into that one now... thanks.",
+      "thread_ts": "1566415086.077700",
+      "ts": "1566484520.081800",
+      "type": "message",
+      "user": "UMB846R41",
+      "username": "adempc"
+    },
+    {
+      "client_msg_id": "255a6363-8cc9-4e87-992d-01cd98a78acd",
+      "date": "2019-08-22 22:34:13",
+      "edited": {
+        "ts": "1566484556.000000",
+        "user": "UMB846R41"
+      },
+      "parent_user_id": "UMB846R41",
+      "team": "TMJBA78PQ",
+      "text": "<@UM4RE1T7D> Again - how does the web scraping offer traffic analysis?",
+      "thread_ts": "1566415086.077700",
+      "ts": "1566484453.081600",
+      "type": "message",
+      "user": "UMB846R41",
+      "username": "adempc"
+    },
+    {
+      "client_msg_id": "9a687239-9287-4fc2-a00c-5512722078bb",
+      "date": "2019-08-22 13:38:20",
+      "parent_user_id": "UMB846R41",
+      "team": "TMJBA78PQ",
+      "text": "Simple, Do web scraping",
+      "thread_ts": "1566415086.077700",
+      "ts": "1566452300.080900",
+      "type": "message",
+      "user": "UM4RE1T7D",
+      "username": "hanuma958"
+    },
+    {
+      "client_msg_id": "5d648951-e1d6-499d-b93e-dd35d19f0825",
+      "date": "2019-08-22 09:54:17",
+      "parent_user_id": "UMB846R41",
+      "team": "TMJBA78PQ",
+      "text": "wow, yeah that def looks way more intuitive than <http://alexa.com|alexa.com> good find.",
+      "thread_ts": "1566415086.077700",
+      "ts": "1566438857.080000",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "client_msg_id": "30fedead-5c3f-4aeb-8e0e-02cdc1265e82",
+      "date": "2019-08-22 09:52:01",
+      "parent_user_id": "UMB846R41",
+      "team": "TMJBA78PQ",
+      "text": "I\u2019d give <http://ahrefs.com|ahrefs.com> a go.",
+      "thread_ts": "1566415086.077700",
+      "ts": "1566438721.079800",
+      "type": "message",
+      "user": "UM9T6FKPT",
+      "username": "avillacorta27"
+    },
+    {
+      "client_msg_id": "5267f35d-5b9c-44ec-9d9f-6e89d07a7842",
+      "date": "2019-08-22 09:50:05",
+      "parent_user_id": "UMB846R41",
+      "team": "TMJBA78PQ",
+      "text": "not my field of expertise but I was thinking wow, web crawlers have really advanced in a crazy way lol.",
+      "thread_ts": "1566415086.077700",
+      "ts": "1566438605.079600",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "client_msg_id": "c92c572d-2371-4875-9c4a-28b01b62f5d1",
+      "date": "2019-08-22 09:48:26",
+      "parent_user_id": "UMB846R41",
+      "team": "TMJBA78PQ",
+      "text": "oooh wow  <@UMM3TGTP0> you\u2019re right I misread the last part of the post.",
+      "thread_ts": "1566415086.077700",
+      "ts": "1566438506.079400",
+      "type": "message",
+      "user": "UM9T6FKPT",
+      "username": "avillacorta27"
+    },
+    {
+      "client_msg_id": "d1576845-0d94-4a4f-8213-efbbe0cde1d3",
+      "date": "2019-08-22 09:24:03",
+      "parent_user_id": "UMB846R41",
+      "team": "TMJBA78PQ",
+      "text": "How would crawling/scraping a competitors site give remedy to any traffic analytics? Perhaps I misread the original request, but I thought he was wanting to take a  competitor site and have the visited pages ranked via user traffic. That would need a dns aggregator like <http://alexa.com|alexa.com> that monitors network ip traffic?  I not an expert so would be very interested and likely facinated how a web crawler would achieve this. I thought web crawler was a user web indexing agent.",
+      "thread_ts": "1566415086.077700",
+      "ts": "1566437043.079100",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "client_msg_id": "63f41f66-97b8-4f65-8f39-578433743f7b",
+      "date": "2019-08-22 09:15:48",
+      "parent_user_id": "UMB846R41",
+      "team": "TMJBA78PQ",
+      "text": "you can check to see if it has a sitemap.xml page to get a complete list and then crawl them programmatically. Just be nice with the amount of requests you send.",
+      "thread_ts": "1566415086.077700",
+      "ts": "1566436548.078800",
+      "type": "message",
+      "user": "UM9T6FKPT",
+      "username": "avillacorta27"
+    },
+    {
+      "client_msg_id": "59398ad3-ac38-4b5e-9166-165d3c75bb45",
+      "date": "2019-08-22 03:33:16",
+      "parent_user_id": "UMB846R41",
+      "team": "TMJBA78PQ",
+      "text": "Those are great ideas - thanks.",
+      "thread_ts": "1566415086.077700",
+      "ts": "1566415996.078300",
+      "type": "message",
+      "user": "UMB846R41",
+      "username": "adempc"
+    },
+    {
+      "client_msg_id": "88cb29c5-d905-4648-aa98-24009b0fbc7f",
+      "date": "2019-08-22 03:30:52",
+      "parent_user_id": "UMB846R41",
+      "team": "TMJBA78PQ",
+      "text": "Check if the eCommerce website provides some public API. If not, see if the site loads products via AJAX if so you could try to call that URL in the browser. If none of the above you could apply online crawling services or use Scrapy to write your own, in case you are familiar with Python.",
+      "thread_ts": "1566415086.077700",
+      "ts": "1566415852.078100",
+      "type": "message",
+      "user": "UMFTQK5S8",
+      "username": "kreshnik.hasanaj"
+    },
+    {
+      "client_msg_id": "589191ab-6d67-485a-bff8-3be65ca01970",
+      "date": "2019-08-22 03:20:33",
+      "edited": {
+        "ts": "1566415268.000000",
+        "user": "UMM3TGTP0"
+      },
+      "parent_user_id": "UMB846R41",
+      "team": "TMJBA78PQ",
+      "text": "You might possibly be able to write some scripts and query Alexa. <https://www.alexa.com/topsites>",
+      "thread_ts": "1566415086.077700",
+      "ts": "1566415233.077800",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "client_msg_id": "7a0080fb-d929-4c5b-8c26-819338f9e3a8",
+      "date": "2019-08-22 03:18:06",
+      "latest_reply": "1566484520.081800",
+      "replies": [
+        {
+          "ts": "1566415233.077800",
+          "user": "UMM3TGTP0"
+        },
+        {
+          "ts": "1566415852.078100",
+          "user": "UMFTQK5S8"
+        },
+        {
+          "ts": "1566415996.078300",
+          "user": "UMB846R41"
+        },
+        {
+          "ts": "1566436548.078800",
+          "user": "UM9T6FKPT"
+        },
+        {
+          "ts": "1566437043.079100",
+          "user": "UMM3TGTP0"
+        },
+        {
+          "ts": "1566438506.079400",
+          "user": "UM9T6FKPT"
+        },
+        {
+          "ts": "1566438605.079600",
+          "user": "UMM3TGTP0"
+        },
+        {
+          "ts": "1566438721.079800",
+          "user": "UM9T6FKPT"
+        },
+        {
+          "ts": "1566438857.080000",
+          "user": "UMM3TGTP0"
+        },
+        {
+          "ts": "1566452300.080900",
+          "user": "UM4RE1T7D"
+        },
+        {
+          "ts": "1566484453.081600",
+          "user": "UMB846R41"
+        },
+        {
+          "ts": "1566484520.081800",
+          "user": "UMB846R41"
+        }
+      ],
+      "reply_count": 12,
+      "reply_users": [
+        "UMM3TGTP0",
+        "UMFTQK5S8",
+        "UMB846R41",
+        "UM9T6FKPT",
+        "UM4RE1T7D"
+      ],
+      "reply_users_count": 5,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "Random SEO/Ecommerce question - suppose I'm looking at a competitor's Ecommerce site - is there a way to get a list of their product pages (URLs), in order of visit frequency. i.e. I want to look at a competitor's website and figure out which of their products are being viewed the most, and the order there of.",
+      "thread_ts": "1566415086.077700",
+      "ts": "1566415086.077700",
+      "type": "message",
+      "user": "UMB846R41",
+      "username": "adempc"
+    },
+    {
+      "client_msg_id": "b4264107-f048-493e-8e5c-ad3279158b16",
+      "date": "2019-08-22 02:41:15",
+      "display_as_bot": false,
+      "files": [
+        {
+          "created": 1566412869,
+          "display_as_bot": false,
+          "editable": false,
+          "external_type": "",
+          "filetype": "png",
+          "has_rich_preview": false,
+          "id": "FMKURSWQM",
+          "image_exif_rotation": 1,
+          "is_external": false,
+          "is_public": true,
+          "is_starred": false,
+          "mimetype": "image/png",
+          "mode": "hosted",
+          "name": "image.png",
+          "original_h": 2625,
+          "original_w": 3000,
+          "permalink": "https://machinelearni-ksf7601.slack.com/files/UMM3TGTP0/FMKURSWQM/image.png",
+          "permalink_public": "https://slack-files.com/TMJBA78PQ-FMKURSWQM-0af6c91cda",
+          "pretty_type": "PNG",
+          "public_url_shared": false,
+          "size": 1961256,
+          "thumb_1024": "https://files.slack.com/files-tmb/TMJBA78PQ-FMKURSWQM-ac8a1cd425/image_1024.png",
+          "thumb_1024_h": 896,
+          "thumb_1024_w": 1024,
+          "thumb_160": "https://files.slack.com/files-tmb/TMJBA78PQ-FMKURSWQM-ac8a1cd425/image_160.png",
+          "thumb_360": "https://files.slack.com/files-tmb/TMJBA78PQ-FMKURSWQM-ac8a1cd425/image_360.png",
+          "thumb_360_h": 315,
+          "thumb_360_w": 360,
+          "thumb_480": "https://files.slack.com/files-tmb/TMJBA78PQ-FMKURSWQM-ac8a1cd425/image_480.png",
+          "thumb_480_h": 420,
+          "thumb_480_w": 480,
+          "thumb_64": "https://files.slack.com/files-tmb/TMJBA78PQ-FMKURSWQM-ac8a1cd425/image_64.png",
+          "thumb_720": "https://files.slack.com/files-tmb/TMJBA78PQ-FMKURSWQM-ac8a1cd425/image_720.png",
+          "thumb_720_h": 630,
+          "thumb_720_w": 720,
+          "thumb_80": "https://files.slack.com/files-tmb/TMJBA78PQ-FMKURSWQM-ac8a1cd425/image_80.png",
+          "thumb_800": "https://files.slack.com/files-tmb/TMJBA78PQ-FMKURSWQM-ac8a1cd425/image_800.png",
+          "thumb_800_h": 700,
+          "thumb_800_w": 800,
+          "thumb_960": "https://files.slack.com/files-tmb/TMJBA78PQ-FMKURSWQM-ac8a1cd425/image_960.png",
+          "thumb_960_h": 840,
+          "thumb_960_w": 960,
+          "timestamp": 1566412869,
+          "title": "image.png",
+          "url_private": "https://files.slack.com/files-pri/TMJBA78PQ-FMKURSWQM/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/TMJBA78PQ-FMKURSWQM/download/image.png",
+          "user": "UMM3TGTP0",
+          "username": ""
+        }
+      ],
+      "parent_user_id": "UMFTQK5S8",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "laughing",
+          "users": [
+            "UMFTQK5S8"
+          ]
+        }
+      ],
+      "text": "",
+      "thread_ts": "1566412259.074400",
+      "ts": "1566412875.074700",
+      "type": "message",
+      "upload": true,
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "attachments": [
+        {
+          "author_link": "https://vimeo.com/user91722408",
+          "author_name": "SPRIGS B.V",
+          "fallback": "Vimeo Video: Digital HR with face recognition - SPRIGS HAL 9000",
+          "from_url": "https://vimeo.com/355160954",
+          "id": 1,
+          "original_url": "https://vimeo.com/355160954",
+          "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/vimeo.png",
+          "service_name": "Vimeo",
+          "service_url": "https://vimeo.com/",
+          "text": "A prototype that we have built here at SPRIGS, it serves as digital HR and we have named it therefore HAL 9000 xD",
+          "thumb_height": 166,
+          "thumb_url": "https://i.vimeocdn.com/video/807872450_295x166.jpg",
+          "thumb_width": 295,
+          "title": "Digital HR with face recognition - SPRIGS HAL 9000",
+          "title_link": "https://vimeo.com/355160954",
+          "video_html": "<iframe src=\"https://player.vimeo.com/video/355160954?autoplay=1&app_id=122963\" width=\"400\" height=\"225\" frameborder=\"0\" title=\"Digital HR with face recognition - SPRIGS HAL 9000\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe>",
+          "video_html_height": 225,
+          "video_html_width": 400
+        }
+      ],
+      "client_msg_id": "5eb7ccef-1f36-4886-a810-3e7e30681a05",
+      "date": "2019-08-22 02:30:59",
+      "latest_reply": "1566412875.074700",
+      "reactions": [
+        {
+          "count": 2,
+          "name": "sunglasses",
+          "users": [
+            "UMAUCLS1F",
+            "UMFTQK5S8"
+          ]
+        }
+      ],
+      "replies": [
+        {
+          "ts": "1566412875.074700",
+          "user": "UMM3TGTP0"
+        }
+      ],
+      "reply_count": 1,
+      "reply_users": [
+        "UMM3TGTP0"
+      ],
+      "reply_users_count": 1,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "A prototype that we have build at our place <https://vimeo.com/355160954>",
+      "thread_ts": "1566412259.074400",
+      "ts": "1566412259.074400",
+      "type": "message",
+      "user": "UMFTQK5S8",
+      "username": "kreshnik.hasanaj"
+    },
+    {
+      "client_msg_id": "8bb18e1e-1c84-49d5-a114-1f09ca4c257b",
+      "date": "2019-08-22 01:13:16",
+      "parent_user_id": "UMG0LFSKW",
+      "team": "TMJBA78PQ",
+      "text": "Doing it as well it is a great refresher, as someone with experience in web dev :slightly_smiling_face:",
+      "thread_ts": "1566389211.069100",
+      "ts": "1566407596.073200",
+      "type": "message",
+      "user": "UM61P0KR9",
+      "username": "sonny.darji"
+    },
+    {
+      "client_msg_id": "7095fda6-4bdf-4bb1-aa3e-01a586b7b186",
+      "date": "2019-08-22 00:14:29",
+      "parent_user_id": "UMJM3AP2S",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "joy",
+          "users": [
+            "UMHEG1F4L"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "I saw a new one has a monthly payment of $99/month.  You can easily cover that with data science :car:",
+      "thread_ts": "1566371732.065900",
+      "ts": "1566404069.072900",
+      "type": "message",
+      "user": "UM4S08KK5",
+      "username": "lester.leong89"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Demystified Regression: Stepping slowly into Regression",
+          "from_url": "https://link.medium.com/ZNggUFbWkZ",
+          "id": 1,
+          "image_bytes": 183000,
+          "image_height": 250,
+          "image_url": "https://cdn-images-1.medium.com/1*xeRPWFAsM8f_UkXWTkuM4g.png",
+          "image_width": 444,
+          "original_url": "https://link.medium.com/ZNggUFbWkZ",
+          "service_icon": "https://cdn-images-1.medium.com/1*xeRPWFAsM8f_UkXWTkuM4g.png",
+          "service_name": "link.medium.com",
+          "text": "Understanding why Regression is needed.",
+          "title": "Demystified Regression: Stepping slowly into Regression",
+          "title_link": "https://link.medium.com/ZNggUFbWkZ"
+        }
+      ],
+      "client_msg_id": "3c8d490c-9a6e-4f8a-a1be-8a320819b372",
+      "date": "2019-08-21 23:27:40",
+      "team": "TMJBA78PQ",
+      "text": "\u201cDemystified Regression: Stepping slowly into Regression\u201d by Nilashis Roy <https://link.medium.com/ZNggUFbWkZ>",
+      "ts": "1566401260.072700",
+      "type": "message",
+      "user": "UMFQKAG9J",
+      "username": "nilashisbladeroy"
+    },
+    {
+      "client_msg_id": "872ae086-8435-46a3-b280-1d8b51a8d14a",
+      "date": "2019-08-21 23:19:45",
+      "team": "TMJBA78PQ",
+      "text": "Hopefully this is useful to someone, happy to answer questions",
+      "ts": "1566400785.072500",
+      "type": "message",
+      "user": "UMJDHD37Y",
+      "username": "amralicc"
+    },
+    {
+      "attachments": [
+        {
+          "app_unfurl_url": "https://github.com/amrali/waver",
+          "bot_id": "BM553JDUJ",
+          "color": "24292f",
+          "fallback": "amrali/waver",
+          "fields": [
+            {
+              "short": true,
+              "title": "Stars",
+              "value": "1"
+            },
+            {
+              "short": true,
+              "title": "Language",
+              "value": "Rust"
+            }
+          ],
+          "footer": "<https://github.com/amrali/waver|amrali/waver>",
+          "footer_icon": "https://github.githubassets.com/favicon.ico",
+          "id": 1,
+          "is_app_unfurl": true,
+          "mrkdwn_in": [
+            "text",
+            "fields"
+          ],
+          "text": "Waver: A waveform generation library for Rust",
+          "title": "amrali/waver",
+          "ts": 1566075462
+        }
+      ],
+      "client_msg_id": "eed86a93-7787-4e17-a434-281cb1121021",
+      "date": "2019-08-21 23:19:04",
+      "edited": {
+        "ts": "1566400845.000000",
+        "user": "UMJDHD37Y"
+      },
+      "team": "TMJBA78PQ",
+      "text": "Just published a signal (actually a waveform) generation Rust library. For all the Rustaceans in the house. <https://github.com/amrali/waver>",
+      "ts": "1566400744.071700",
+      "type": "message",
+      "user": "UMJDHD37Y",
+      "username": "amralicc"
+    },
+    {
+      "client_msg_id": "bae2a21d-dfe5-48fb-aa75-fbdd036d8b95",
+      "date": "2019-08-21 22:44:55",
+      "parent_user_id": "UMJM3AP2S",
+      "team": "TMJBA78PQ",
+      "text": "I see what you did there haha",
+      "thread_ts": "1566371732.065900",
+      "ts": "1566398695.070400",
+      "type": "message",
+      "user": "UMJN3HNMV",
+      "username": "vtocco"
+    },
+    {
+      "client_msg_id": "79469f38-04cb-4355-b476-d26614cf6e91",
+      "date": "2019-08-21 20:51:59",
+      "parent_user_id": "UMJM3AP2S",
+      "team": "TMJBA78PQ",
+      "text": "lol yes exactly!",
+      "thread_ts": "1566371732.065900",
+      "ts": "1566391919.069600",
+      "type": "message",
+      "user": "UMJM3AP2S",
+      "username": "dr.cross.data"
+    },
+    {
+      "client_msg_id": "f8b09e3e-b8ac-47e4-bb91-31e1114037f4",
+      "date": "2019-08-21 20:11:59",
+      "parent_user_id": "UMG0LFSKW",
+      "team": "TMJBA78PQ",
+      "text": "Yes, it does easier than looks !  I am also doing it now. Lol.",
+      "thread_ts": "1566389211.069100",
+      "ts": "1566389519.069400",
+      "type": "message",
+      "user": "UMHUJVDGQ",
+      "username": "kyug.shim"
+    },
+    {
+      "client_msg_id": "86baefcd-4b70-4a2e-82b8-ba7da1697432",
+      "date": "2019-08-21 20:09:42",
+      "parent_user_id": "UMJM3AP2S",
+      "team": "TMJBA78PQ",
+      "text": "I like it, pay for the viper with python",
+      "thread_ts": "1566371732.065900",
+      "ts": "1566389382.069200",
+      "type": "message",
+      "user": "UM532UR5Y",
+      "username": "kyle.bronstein"
+    },
+    {
+      "client_msg_id": "3f8eac37-92a8-409d-bb3d-eb59c2c10f3f",
+      "date": "2019-08-21 20:06:51",
+      "latest_reply": "1566407596.073200",
+      "replies": [
+        {
+          "ts": "1566389519.069400",
+          "user": "UMHUJVDGQ"
+        },
+        {
+          "ts": "1566407596.073200",
+          "user": "UM61P0KR9"
+        }
+      ],
+      "reply_count": 2,
+      "reply_users": [
+        "UMHUJVDGQ",
+        "UM61P0KR9"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "How's everyone doing with the HTML CSS tutorials? I just started it, and it's really interesting and easier than I thought.",
+      "thread_ts": "1566389211.069100",
+      "ts": "1566389211.069100",
+      "type": "message",
+      "user": "UMG0LFSKW",
+      "username": "dipu18"
+    },
+    {
+      "client_msg_id": "0cc8c23a-83e8-49f2-8f4a-87a2c3335349",
+      "date": "2019-08-21 18:00:07",
+      "parent_user_id": "UM4RDP5DZ",
+      "team": "TMJBA78PQ",
+      "text": "\"Automate the boring stuff\" is awesome. Warm recommendations. :relaxed:",
+      "thread_ts": "1566263424.057100",
+      "ts": "1566381607.067100",
+      "type": "message",
+      "user": "UMGCGNQ77",
+      "username": "petar.prenc"
+    },
+    {
+      "client_msg_id": "b70fd4c1-d4a9-42e9-a01f-7d4f64d1176c",
+      "date": "2019-08-21 17:08:33",
+      "parent_user_id": "UMJM3AP2S",
+      "team": "TMJBA78PQ",
+      "text": "that car is from about 1998, you can't lease those anymore. it's not something I'm looking to buy for \"transportation purposes\", it's more of a hobby. kinda like video games for other people. the value of a PS4 will go down over time, but you buy it so you can enjoy playing with it.",
+      "thread_ts": "1566371732.065900",
+      "ts": "1566378513.066800",
+      "type": "message",
+      "user": "UMJM3AP2S",
+      "username": "dr.cross.data"
+    },
+    {
+      "client_msg_id": "e0b26cba-ee4c-4fb1-9233-f0ccde51197d",
+      "date": "2019-08-21 16:11:43",
+      "parent_user_id": "UMJM3AP2S",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "+1",
+          "users": [
+            "UMHEG1F4L"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "Why invest in a degradable asset. better lease",
+      "thread_ts": "1566371732.065900",
+      "ts": "1566375103.066500",
+      "type": "message",
+      "user": "UMHP3CRFF",
+      "username": "madhuram.yadav"
+    },
+    {
+      "client_msg_id": "5e337f14-8347-43c0-9bb4-37d7d4aed6c8",
+      "date": "2019-08-21 15:15:32",
+      "display_as_bot": false,
+      "files": [
+        {
+          "created": 1566371732,
+          "display_as_bot": false,
+          "editable": false,
+          "external_type": "",
+          "filetype": "jpg",
+          "has_rich_preview": false,
+          "id": "FMCNQFT89",
+          "image_exif_rotation": 1,
+          "is_external": false,
+          "is_public": true,
+          "is_starred": false,
+          "mimetype": "image/jpeg",
+          "mode": "hosted",
+          "name": "20190821_031403.jpg",
+          "original_h": 328,
+          "original_w": 328,
+          "permalink": "https://machinelearni-ksf7601.slack.com/files/UMJM3AP2S/FMCNQFT89/20190821_031403.jpg",
+          "permalink_public": "https://slack-files.com/TMJBA78PQ-FMCNQFT89-9f8f9408ac",
+          "pretty_type": "JPEG",
+          "public_url_shared": false,
+          "size": 88854,
+          "thumb_160": "https://files.slack.com/files-tmb/TMJBA78PQ-FMCNQFT89-d7544d6ec6/20190821_031403_160.jpg",
+          "thumb_360": "https://files.slack.com/files-tmb/TMJBA78PQ-FMCNQFT89-d7544d6ec6/20190821_031403_360.jpg",
+          "thumb_360_h": 328,
+          "thumb_360_w": 328,
+          "thumb_64": "https://files.slack.com/files-tmb/TMJBA78PQ-FMCNQFT89-d7544d6ec6/20190821_031403_64.jpg",
+          "thumb_80": "https://files.slack.com/files-tmb/TMJBA78PQ-FMCNQFT89-d7544d6ec6/20190821_031403_80.jpg",
+          "timestamp": 1566371732,
+          "title": "20190821_031403.jpg",
+          "url_private": "https://files.slack.com/files-pri/TMJBA78PQ-FMCNQFT89/20190821_031403.jpg",
+          "url_private_download": "https://files.slack.com/files-pri/TMJBA78PQ-FMCNQFT89/download/20190821_031403.jpg",
+          "user": "UMJM3AP2S",
+          "username": ""
+        }
+      ],
+      "latest_reply": "1566729786.103400",
+      "replies": [
+        {
+          "ts": "1566375103.066500",
+          "user": "UMHP3CRFF"
+        },
+        {
+          "ts": "1566378513.066800",
+          "user": "UMJM3AP2S"
+        },
+        {
+          "ts": "1566389382.069200",
+          "user": "UM532UR5Y"
+        },
+        {
+          "ts": "1566391919.069600",
+          "user": "UMJM3AP2S"
+        },
+        {
+          "ts": "1566398695.070400",
+          "user": "UMJN3HNMV"
+        },
+        {
+          "ts": "1566404069.072900",
+          "user": "UM4S08KK5"
+        },
+        {
+          "ts": "1566604763.091900",
+          "user": "UMPT2URF1"
+        },
+        {
+          "ts": "1566729786.103400",
+          "user": "UMHP3CRFF"
+        }
+      ],
+      "reply_count": 8,
+      "reply_users": [
+        "UMHP3CRFF",
+        "UMJM3AP2S",
+        "UM532UR5Y",
+        "UMJN3HNMV",
+        "UM4S08KK5",
+        "UMPT2URF1"
+      ],
+      "reply_users_count": 6,
+      "subscribed": false,
+      "text": "I'm not a materialistic person, but if I really did make some big bucks, I'd probably get an old cheap viper to complement my python.",
+      "thread_ts": "1566371732.065900",
+      "ts": "1566371732.065900",
+      "type": "message",
+      "upload": true,
+      "user": "UMJM3AP2S",
+      "username": "dr.cross.data"
+    },
+    {
+      "client_msg_id": "B9D8A56E-C8A4-4639-BE5A-C0AA5315F014",
+      "date": "2019-08-21 01:20:25",
+      "team": "TMJBA78PQ",
+      "text": "<#CM4N2MY02|random> :+1::joy:",
+      "ts": "1566321625.061900",
+      "type": "message",
+      "user": "UMG8GL4R3",
+      "username": "usacricket"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Humble Bundle: Humble Book Bundle: Python Programming by No Starch Press",
+          "from_url": "https://www.humblebundle.com/books/python-programming-no-starch-books?hmb_source=navbar&hmb_medium=product_tile&hmb_campaign=tile_index_1",
+          "id": 1,
+          "image_bytes": 111574,
+          "image_height": 250,
+          "image_url": "https://hb.imgix.net/1c1060330b4cb93b810883409fa7d17434fc424b.png?auto=compress,format&h=630&w=1200&s=28576ebd5af85583e20658f60b3648a7",
+          "image_width": 478,
+          "original_url": "https://www.humblebundle.com/books/python-programming-no-starch-books?hmb_source=navbar&amp;hmb_medium=product_tile&amp;hmb_campaign=tile_index_1",
+          "service_icon": "https://humblebundle-a.akamaihd.net/static/hashed/03df0490a53d595fd930f9fff52038366d60a05d.png",
+          "service_name": "Humble Bundle",
+          "text": "Pay what you want for awesome ebooks and support charity!",
+          "title": "Humble Book Bundle: Python Programming by No Starch Press",
+          "title_link": "https://www.humblebundle.com/books/python-programming-no-starch-books?hmb_source=navbar&hmb_medium=product_tile&hmb_campaign=tile_index_1"
+        }
+      ],
+      "client_msg_id": "8dfed0c2-7a8b-494a-af11-43bdd5f3935b",
+      "date": "2019-08-20 09:10:24",
+      "latest_reply": "1566381607.067100",
+      "reactions": [
+        {
+          "count": 2,
+          "name": "+1",
+          "users": [
+            "UMFQUDMEY",
+            "UMGCGNQ77"
+          ]
+        }
+      ],
+      "replies": [
+        {
+          "ts": "1566381607.067100",
+          "user": "UMGCGNQ77"
+        }
+      ],
+      "reply_count": 1,
+      "reply_users": [
+        "UMGCGNQ77"
+      ],
+      "reply_users_count": 1,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "<https://www.humblebundle.com/books/python-programming-no-starch-books?hmb_source=navbar&amp;hmb_medium=product_tile&amp;hmb_campaign=tile_index_1>",
+      "thread_ts": "1566263424.057100",
+      "ts": "1566263424.057100",
+      "type": "message",
+      "user": "UM4RDP5DZ",
+      "username": "bmjharder"
+    },
+    {
+      "client_msg_id": "fde0531c-c17e-42a3-b832-54ad0b261e9a",
+      "date": "2019-08-20 09:07:55",
+      "edited": {
+        "ts": "1566263421.000000",
+        "user": "UM4RDP5DZ"
+      },
+      "parent_user_id": "UM4RDP5DZ",
+      "team": "TMJBA78PQ",
+      "text": "I was being careful in case of policy against links to products or something, although it's better to ask forgiveness than permission",
+      "thread_ts": "1566247431.051100",
+      "ts": "1566263275.055800",
+      "type": "message",
+      "user": "UM4RDP5DZ",
+      "username": "bmjharder"
+    },
+    {
+      "client_msg_id": "068d4020-8e0b-41af-a08c-cdababfd9388",
+      "date": "2019-08-20 09:02:42",
+      "parent_user_id": "UM4RDP5DZ",
+      "team": "TMJBA78PQ",
+      "text": "A link helps",
+      "thread_ts": "1566247431.051100",
+      "ts": "1566262962.055400",
+      "type": "message",
+      "user": "UMGJE8CMN",
+      "username": "awebdesigner09"
+    },
+    {
+      "client_msg_id": "86cae542-d190-48ce-b703-c055d9ef38f5",
+      "date": "2019-08-20 09:01:14",
+      "team": "TMJBA78PQ",
+      "text": "Joined <#CM4N2MY02|random>",
+      "ts": "1566262874.055300",
+      "type": "message",
+      "user": "UMGJE8CMN",
+      "username": "awebdesigner09"
+    },
+    {
+      "client_msg_id": "ed00c552-ddff-4c81-8b33-e9bc8bb3a791",
+      "date": "2019-08-20 04:49:09",
+      "parent_user_id": "UM4RDP5DZ",
+      "team": "TMJBA78PQ",
+      "text": "Which book? The bundle consists of many books",
+      "thread_ts": "1566247431.051100",
+      "ts": "1566247749.051700",
+      "type": "message",
+      "user": "UM4RDP5DZ",
+      "username": "bmjharder"
+    },
+    {
+      "client_msg_id": "1266b21c-89fd-4f10-8415-78a2f7f94d92",
+      "date": "2019-08-20 04:45:56",
+      "parent_user_id": "UM4RDP5DZ",
+      "team": "TMJBA78PQ",
+      "text": "Do you have a copy of its ebook?",
+      "thread_ts": "1566247431.051100",
+      "ts": "1566247556.051500",
+      "type": "message",
+      "user": "UMFQKAG9J",
+      "username": "nilashisbladeroy"
+    },
+    {
+      "client_msg_id": "4cc663b7-72f7-46c1-b78f-d96a90a1cdb1",
+      "date": "2019-08-20 04:43:51",
+      "latest_reply": "1566263275.055800",
+      "replies": [
+        {
+          "ts": "1566247556.051500",
+          "user": "UMFQKAG9J"
+        },
+        {
+          "ts": "1566247749.051700",
+          "user": "UM4RDP5DZ"
+        },
+        {
+          "ts": "1566262962.055400",
+          "user": "UMGJE8CMN"
+        },
+        {
+          "ts": "1566263275.055800",
+          "user": "UM4RDP5DZ"
+        }
+      ],
+      "reply_count": 4,
+      "reply_users": [
+        "UMFQKAG9J",
+        "UM4RDP5DZ",
+        "UMGJE8CMN"
+      ],
+      "reply_users_count": 3,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "Mentioning in case it's helpful to those learning Python; Humble Bundle just put out a book bundle on Python programming by No Starch Press.",
+      "thread_ts": "1566247431.051100",
+      "ts": "1566247431.051100",
+      "type": "message",
+      "user": "UM4RDP5DZ",
+      "username": "bmjharder"
+    },
+    {
+      "client_msg_id": "480d700f-8c00-4e12-b029-4586bead2956",
+      "date": "2019-08-20 02:24:33",
+      "parent_user_id": "UM4RDP5DZ",
+      "reactions": [
+        {
+          "count": 2,
+          "name": "+1",
+          "users": [
+            "UM4RDP5DZ",
+            "UM61P0KR9"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "Me neither!",
+      "thread_ts": "1566237662.043600",
+      "ts": "1566239073.044300",
+      "type": "message",
+      "user": "UMJ46HJHM",
+      "username": "darchuletajr"
+    },
+    {
+      "client_msg_id": "cef4525b-2c8f-4a82-b2ca-a82c07fa4040",
+      "date": "2019-08-20 02:11:10",
+      "parent_user_id": "UM4RDP5DZ",
+      "reactions": [
+        {
+          "count": 4,
+          "name": "+1",
+          "users": [
+            "UM4RDP5DZ",
+            "UMA2Y929X",
+            "UM4QHUUQK",
+            "UM61P0KR9"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "Same! Glad that you said it for me haha. I feel like a nerdy elementary child again.",
+      "thread_ts": "1566237662.043600",
+      "ts": "1566238270.043800",
+      "type": "message",
+      "user": "UM4QL6YTD",
+      "username": "reneesyliu"
+    },
+    {
+      "client_msg_id": "97e2baf3-0efc-4f5c-88a7-b9d5d6e2439f",
+      "date": "2019-08-20 02:01:02",
+      "latest_reply": "1566239073.044300",
+      "reactions": [
+        {
+          "count": 6,
+          "name": "heart",
+          "users": [
+            "UM4QL6YTD",
+            "UMJ46HJHM",
+            "UMJDTNF1U",
+            "UMA2Y929X",
+            "UM4QHUUQK",
+            "UM61P0KR9"
+          ]
+        }
+      ],
+      "replies": [
+        {
+          "ts": "1566238270.043800",
+          "user": "UM4QL6YTD"
+        },
+        {
+          "ts": "1566239073.044300",
+          "user": "UMJ46HJHM"
+        }
+      ],
+      "reply_count": 2,
+      "reply_users": [
+        "UM4QL6YTD",
+        "UMJ46HJHM"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "I don't know that it's necessarily off-topic, but I've never been so excited to learn before, and I just had to say it.",
+      "thread_ts": "1566237662.043600",
+      "ts": "1566237662.043600",
+      "type": "message",
+      "user": "UM4RDP5DZ",
+      "username": "bmjharder"
+    },
+    {
+      "attachments": [
+        {
+          "author_link": "https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A",
+          "author_name": "Siraj Raval",
+          "fallback": "YouTube Video: Introduction - Learn Python for Data Science #1",
+          "from_url": "https://www.youtube.com/watch?v=T5pRlIbr6gg&amp;index=2&amp;t=0s",
+          "id": 1,
+          "original_url": "https://www.youtube.com/watch?v=T5pRlIbr6gg&amp;list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&amp;index=2&amp;t=0s",
+          "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/",
+          "thumb_height": 360,
+          "thumb_url": "https://i.ytimg.com/vi/T5pRlIbr6gg/hqdefault.jpg",
+          "thumb_width": 480,
+          "title": "Introduction - Learn Python for Data Science #1",
+          "title_link": "https://www.youtube.com/watch?v=T5pRlIbr6gg&amp;index=2&amp;t=0s",
+          "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/T5pRlIbr6gg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "video_html_height": 225,
+          "video_html_width": 400
+        }
+      ],
+      "client_msg_id": "8aad95f7-9f76-439d-819d-7b977aeabbce",
+      "date": "2019-08-20 02:00:53",
+      "team": "TMJBA78PQ",
+      "text": "- How about Emacs?\n- NO!\n\nI'm still laughing hahaha <https://www.youtube.com/watch?v=T5pRlIbr6gg&amp;list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&amp;index=2&amp;t=0s>",
+      "ts": "1566237653.043200",
+      "type": "message",
+      "user": "UMGTVJH61",
+      "username": "bruno"
+    },
+    {
+      "client_msg_id": "7d355f8f-89d4-48a8-8aca-9e8708167e1c",
+      "date": "2019-08-20 01:48:18",
+      "parent_user_id": "UMJDHD37Y",
+      "team": "TMJBA78PQ",
+      "text": "von neumann :slightly_smiling_face:",
+      "thread_ts": "1566231554.039400",
+      "ts": "1566236898.041800",
+      "type": "message",
+      "user": "UMJB2HJ23",
+      "username": "patrick.datascientist"
+    },
+    {
+      "client_msg_id": "13a0dcd6-0428-4769-b987-0c8e7d9a0980",
+      "date": "2019-08-20 00:19:14",
+      "latest_reply": "1566236898.041800",
+      "replies": [
+        {
+          "ts": "1566236898.041800",
+          "user": "UMJB2HJ23"
+        }
+      ],
+      "reply_count": 1,
+      "reply_users": [
+        "UMJB2HJ23"
+      ],
+      "reply_users_count": 1,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin.",
+      "thread_ts": "1566231554.039400",
+      "ts": "1566231554.039400",
+      "type": "message",
+      "user": "UMJDHD37Y",
+      "username": "amralicc"
+    },
+    {
+      "client_msg_id": "445e5725-8041-478f-8f6f-34c0d66f9020",
+      "date": "2019-08-19 21:50:22",
+      "reactions": [
+        {
+          "count": 2,
+          "name": "open_mouth",
+          "users": [
+            "UMA02LMAM",
+            "UM4T419EE"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "the 3 was randomly picked",
+      "ts": "1566222622.036100",
+      "type": "message",
+      "user": "UM53AV6HG",
+      "username": "sebastian_siraj"
+    },
+    {
+      "client_msg_id": "faeca19b-c945-4b05-97bc-5960bf4e5b07",
+      "date": "2019-08-19 21:50:16",
+      "reactions": [
+        {
+          "count": 8,
+          "name": "joy",
+          "users": [
+            "UMGCA14FJ",
+            "UMGEWLB6C",
+            "UMG81H1PA",
+            "UMB07E197",
+            "UMGJE8CMN",
+            "UMJM3AP2S",
+            "UM9T6FKPT",
+            "UMGBFD60G"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "```def random():\n  return 3;```",
+      "ts": "1566222616.035800",
+      "type": "message",
+      "user": "UM53AV6HG",
+      "username": "sebastian_siraj"
+    },
+    {
+      "client_msg_id": "729e4e09-129f-4164-8d21-5247a1774175",
+      "date": "2019-08-19 21:49:54",
+      "team": "TMJBA78PQ",
+      "text": "I remember one \"random\" function",
+      "ts": "1566222594.035300",
+      "type": "message",
+      "user": "UM53AV6HG",
+      "username": "sebastian_siraj"
+    },
+    {
+      "client_msg_id": "F86AC5E9-58AC-4B2E-B4D5-F515A4D7B3CE",
+      "date": "2019-08-19 21:49:26",
+      "team": "TMJBA78PQ",
+      "text": "Maybe it\u2018s totally random :man-shrugging::joy:",
+      "ts": "1566222566.035100",
+      "type": "message",
+      "user": "UMA02LMAM",
+      "username": "florianwoelki"
+    },
+    {
+      "client_msg_id": "5c1068cb-efc3-480e-a7bf-0f8730b3e005",
+      "date": "2019-08-19 21:48:40",
+      "team": "TMJBA78PQ",
+      "text": "why are you pasting the name of the channel?",
+      "ts": "1566222520.034700",
+      "type": "message",
+      "user": "UM53AV6HG",
+      "username": "sebastian_siraj"
+    },
+    {
+      "client_msg_id": "75421882-8be4-48ea-a867-34c840d318e2",
+      "date": "2019-08-19 21:48:34",
+      "team": "TMJBA78PQ",
+      "text": "guys",
+      "ts": "1566222514.034500",
+      "type": "message",
+      "user": "UM53AV6HG",
+      "username": "sebastian_siraj"
+    },
+    {
+      "client_msg_id": "3fca4793-4337-4e9f-bbf6-c97c1f841953",
+      "date": "2019-08-19 21:31:25",
+      "team": "TMJBA78PQ",
+      "text": "<#CM4N2MY02|random>",
+      "ts": "1566221485.034100",
+      "type": "message",
+      "user": "UM4T419EE",
+      "username": "mahadevan.rajamani"
+    },
+    {
+      "client_msg_id": "749797a4-74c3-4ea8-8def-c03c5caffad7",
+      "date": "2019-08-19 20:06:28",
+      "team": "TMJBA78PQ",
+      "text": "<#CM4N2MY02|random>",
+      "ts": "1566216388.031700",
+      "type": "message",
+      "user": "UM512Q09Y",
+      "username": "smkabz"
+    },
+    {
+      "client_msg_id": "430bd56f-89d6-46da-804c-6340f232fc9e",
+      "date": "2019-08-19 12:50:43",
+      "team": "TMJBA78PQ",
+      "text": "joined <#CM4N2MY02|random>",
+      "ts": "1566190243.018300",
+      "type": "message",
+      "user": "UMJ5VH99V",
+      "username": "jabhijeetv"
+    },
+    {
+      "client_msg_id": "3cc5f02c-9751-406f-821c-8865c732fefd",
+      "date": "2019-08-19 10:52:59",
+      "team": "TMJBA78PQ",
+      "text": "<#CM4N2MY02|random>",
+      "ts": "1566183179.006900",
+      "type": "message",
+      "user": "UMFPZT8A0",
+      "username": "prathibha.2709"
+    },
+    {
+      "date": "2019-08-19 10:31:57",
+      "subtype": "channel_join",
+      "text": "<@UM4QD80TC> has joined the channel",
+      "ts": "1566181917.004000",
+      "type": "message",
+      "user": "UM4QD80TC",
+      "username": "mlc"
+    },
+    {
+      "date": "2019-08-19 10:28:31",
+      "subtype": "channel_join",
+      "text": "<@UM9SAHU8H> has joined the channel",
+      "ts": "1566181711.003800",
+      "type": "message",
+      "user": "UM9SAHU8H",
+      "username": "samarthgiripura"
+    },
+    {
+      "date": "2019-08-19 10:27:51",
+      "subtype": "channel_join",
+      "text": "<@UMG81H1PA> has joined the channel",
+      "ts": "1566181671.003600",
+      "type": "message",
+      "user": "UMG81H1PA",
+      "username": "mattwilliams1515"
+    },
+    {
+      "date": "2019-08-19 10:27:42",
+      "subtype": "channel_join",
+      "text": "<@UMJDJQKU6> has joined the channel",
+      "ts": "1566181662.003400",
+      "type": "message",
+      "user": "UMJDJQKU6",
+      "username": "harshakancham"
+    },
+    {
+      "date": "2019-08-19 10:27:30",
+      "subtype": "channel_join",
+      "text": "<@UM4QE0XHR> has joined the channel",
+      "ts": "1566181650.003200",
+      "type": "message",
+      "user": "UM4QE0XHR",
+      "username": "luishurtadocolin"
+    },
+    {
+      "date": "2019-08-19 10:27:24",
+      "subtype": "channel_join",
+      "text": "<@UM4QDUVPV> has joined the channel",
+      "ts": "1566181644.003000",
+      "type": "message",
+      "user": "UM4QDUVPV",
+      "username": "joshuadsills"
+    },
+    {
+      "date": "2019-08-19 10:26:32",
+      "subtype": "channel_join",
+      "text": "<@UM9S9NTUH> has joined the channel",
+      "ts": "1566181592.002800",
+      "type": "message",
+      "user": "UM9S9NTUH",
+      "username": "mike25ko"
+    },
+    {
+      "date": "2019-08-19 10:26:21",
+      "subtype": "channel_join",
+      "text": "<@UM9S9L95F> has joined the channel",
+      "ts": "1566181581.002600",
+      "type": "message",
+      "user": "UM9S9L95F",
+      "username": "pelapudiabhinav1993"
+    },
+    {
+      "date": "2019-08-19 10:25:28",
+      "subtype": "channel_join",
+      "text": "<@UM4QAB6AE> has joined the channel",
+      "ts": "1566181528.002400",
+      "type": "message",
+      "user": "UM4QAB6AE",
+      "username": "desmond.singh"
+    },
+    {
+      "date": "2019-08-19 10:25:17",
+      "subtype": "channel_join",
+      "text": "<@UMFPR8Q20> has joined the channel",
+      "ts": "1566181517.002200",
+      "type": "message",
+      "user": "UMFPR8Q20",
+      "username": "yutangjuan"
+    },
+    {
+      "date": "2019-08-19 10:25:14",
+      "subtype": "channel_join",
+      "text": "<@UM4QA7XCJ> has joined the channel",
+      "ts": "1566181514.002000",
+      "type": "message",
+      "user": "UM4QA7XCJ",
+      "username": "aravindmenon663"
+    },
+    {
+      "date": "2019-08-19 10:24:52",
+      "subtype": "channel_join",
+      "text": "<@UM4QCSJ8K> has joined the channel",
+      "ts": "1566181492.001800",
+      "type": "message",
+      "user": "UM4QCSJ8K",
+      "username": "fxrahul7"
+    },
+    {
+      "date": "2019-08-19 10:24:30",
+      "subtype": "channel_join",
+      "text": "<@UMJDHD37Y> has joined the channel",
+      "ts": "1566181470.001600",
+      "type": "message",
+      "user": "UMJDHD37Y",
+      "username": "amralicc"
+    },
+    {
+      "date": "2019-08-19 10:24:23",
+      "subtype": "channel_join",
+      "text": "<@UMJ42BET1> has joined the channel",
+      "ts": "1566181463.001400",
+      "type": "message",
+      "user": "UMJ42BET1",
+      "username": "kovo9362"
+    },
+    {
+      "date": "2019-08-19 10:24:22",
+      "subtype": "channel_join",
+      "text": "<@UMG80251N> has joined the channel",
+      "ts": "1566181462.001200",
+      "type": "message",
+      "user": "UMG80251N",
+      "username": "nic"
+    },
+    {
+      "date": "2019-08-19 10:23:44",
+      "subtype": "channel_join",
+      "text": "<@UMG7ZPZLY> has joined the channel",
+      "ts": "1566181424.001000",
+      "type": "message",
+      "user": "UMG7ZPZLY",
+      "username": "rhoesada"
+    },
+    {
+      "date": "2019-08-19 10:23:12",
+      "subtype": "channel_join",
+      "text": "<@UMJDGRZQW> has joined the channel",
+      "ts": "1566181392.000800",
+      "type": "message",
+      "user": "UMJDGRZQW",
+      "username": "diego.ugarte"
+    },
+    {
+      "date": "2019-08-19 10:22:03",
+      "subtype": "channel_join",
+      "text": "<@UM9S7Q9J5> has joined the channel",
+      "ts": "1566181323.000600",
+      "type": "message",
+      "user": "UM9S7Q9J5",
+      "username": "vishweshshrimali5"
+    },
+    {
+      "date": "2019-08-19 10:21:47",
+      "subtype": "channel_join",
+      "text": "<@UMG85372R> has joined the channel",
+      "ts": "1566181307.000400",
+      "type": "message",
+      "user": "UMG85372R",
+      "username": "jesusemanuelluna"
+    },
+    {
+      "date": "2019-08-19 07:08:20",
+      "subtype": "channel_join",
+      "text": "<@UM4N2MUSE> has joined the channel",
+      "ts": "1566169700.000200",
+      "type": "message",
+      "user": "UM4N2MUSE",
+      "username": "hello"
+    }
+  ]
+}

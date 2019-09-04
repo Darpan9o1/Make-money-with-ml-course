@@ -1,0 +1,189 @@
+{
+  "channel": {
+    "created": 1566339832,
+    "creator": "UMJ4QFBRV",
+    "id": "CM7BLBZB5",
+    "is_archived": false,
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "is_mpim": false,
+    "is_org_shared": false,
+    "is_private": false,
+    "is_shared": false,
+    "members": [
+      "UMKUX5CDS"
+    ],
+    "name": "questionandanswer",
+    "name_normalized": "questionandanswer",
+    "num_members": 15,
+    "previous_names": [],
+    "purpose": {
+      "creator": "UMJ4QFBRV",
+      "last_set": 1566339833,
+      "value": "ask your questions only."
+    },
+    "topic": {
+      "creator": "",
+      "last_set": 0,
+      "value": ""
+    },
+    "unlinked": 0
+  },
+  "messages": [
+    {
+      "date": "2019-08-28 05:57:40",
+      "subtype": "channel_join",
+      "text": "<@UMK1GKRQW> has joined the channel",
+      "ts": "1566943060.000400",
+      "type": "message",
+      "user": "UMK1GKRQW",
+      "username": "williamsburgman"
+    },
+    {
+      "date": "2019-08-27 16:15:14",
+      "subtype": "channel_join",
+      "text": "<@UM4QW954K> has joined the channel",
+      "ts": "1566893714.000200",
+      "type": "message",
+      "user": "UM4QW954K",
+      "username": "cullens.place"
+    },
+    {
+      "date": "2019-08-27 00:13:34",
+      "subtype": "channel_join",
+      "text": "<@UMPFL6BTQ> has joined the channel",
+      "ts": "1566836014.002300",
+      "type": "message",
+      "user": "UMPFL6BTQ",
+      "username": "joanmelchor99"
+    },
+    {
+      "date": "2019-08-27 00:08:05",
+      "subtype": "channel_join",
+      "text": "<@UMGKEDUV6> has joined the channel",
+      "ts": "1566835685.002100",
+      "type": "message",
+      "user": "UMGKEDUV6",
+      "username": "thibo.jacques"
+    },
+    {
+      "date": "2019-08-24 23:18:13",
+      "subtype": "channel_join",
+      "text": "<@UM61P0KR9> has joined the channel",
+      "ts": "1566659893.000200",
+      "type": "message",
+      "user": "UM61P0KR9",
+      "username": "sonny.darji"
+    },
+    {
+      "date": "2019-08-23 16:16:56",
+      "subtype": "channel_join",
+      "text": "<@UMGD8UNFJ> has joined the channel",
+      "ts": "1566548216.000400",
+      "type": "message",
+      "user": "UMGD8UNFJ",
+      "username": "s.stein"
+    },
+    {
+      "date": "2019-08-23 12:39:43",
+      "subtype": "channel_join",
+      "text": "<@UMAAC8D0A> has joined the channel",
+      "ts": "1566535183.000200",
+      "type": "message",
+      "user": "UMAAC8D0A",
+      "username": "haard2014"
+    },
+    {
+      "date": "2019-08-22 22:33:35",
+      "subtype": "channel_join",
+      "text": "<@UM4QA7XCJ> has joined the channel",
+      "ts": "1566484415.000400",
+      "type": "message",
+      "user": "UM4QA7XCJ",
+      "username": "aravindmenon663"
+    },
+    {
+      "date": "2019-08-22 22:19:18",
+      "subtype": "channel_join",
+      "text": "<@UMKUX5CDS> has joined the channel",
+      "ts": "1566483558.000200",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "date": "2019-08-21 20:09:13",
+      "subtype": "channel_join",
+      "text": "<@UMHUJVDGQ> has joined the channel",
+      "ts": "1566389353.000200",
+      "type": "message",
+      "user": "UMHUJVDGQ",
+      "username": "kyug.shim"
+    },
+    {
+      "date": "2019-08-21 18:59:35",
+      "subtype": "channel_join",
+      "text": "<@UMM8CJMGW> has joined the channel",
+      "ts": "1566385175.000600",
+      "type": "message",
+      "user": "UMM8CJMGW",
+      "username": "kaliprasadeducation"
+    },
+    {
+      "date": "2019-08-21 17:33:19",
+      "subtype": "channel_join",
+      "text": "<@UMA76UQJD> has joined the channel",
+      "ts": "1566379999.000400",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "date": "2019-08-21 17:01:49",
+      "subtype": "channel_join",
+      "text": "<@UMFQZKAVA> has joined the channel",
+      "ts": "1566378109.000200",
+      "type": "message",
+      "user": "UMFQZKAVA",
+      "username": "nishuchoudhary786"
+    },
+    {
+      "date": "2019-08-21 15:58:01",
+      "subtype": "channel_join",
+      "text": "<@UMA02LMAM> has joined the channel",
+      "ts": "1566374281.000200",
+      "type": "message",
+      "user": "UMA02LMAM",
+      "username": "florianwoelki"
+    },
+    {
+      "date": "2019-08-21 13:21:46",
+      "subtype": "channel_join",
+      "text": "<@UMG2NFHQU> has joined the channel",
+      "ts": "1566364906.000200",
+      "type": "message",
+      "user": "UMG2NFHQU",
+      "username": "killiandectot"
+    },
+    {
+      "date": "2019-08-21 06:23:53",
+      "purpose": "ask your questions only.",
+      "subtype": "channel_purpose",
+      "text": "<@UMJ4QFBRV> set the channel purpose: ask your questions only.",
+      "ts": "1566339833.000300",
+      "type": "message",
+      "user": "UMJ4QFBRV",
+      "username": "gopalsinghpanwar411"
+    },
+    {
+      "date": "2019-08-21 06:23:53",
+      "subtype": "channel_join",
+      "text": "<@UMJ4QFBRV> has joined the channel",
+      "ts": "1566339833.000200",
+      "type": "message",
+      "user": "UMJ4QFBRV",
+      "username": "gopalsinghpanwar411"
+    }
+  ]
+}

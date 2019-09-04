@@ -1,0 +1,1058 @@
+{
+  "channel": {
+    "created": 1566594144,
+    "creator": "UMJDWKLF8",
+    "id": "CMNA84HHS",
+    "is_archived": false,
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "is_mpim": false,
+    "is_org_shared": false,
+    "is_private": false,
+    "is_shared": false,
+    "members": [
+      "UMKUX5CDS"
+    ],
+    "name": "computer-vision",
+    "name_normalized": "computer-vision",
+    "num_members": 66,
+    "previous_names": [],
+    "purpose": {
+      "creator": "UMJDWKLF8",
+      "last_set": 1566594144,
+      "value": "For asking computer vision questions and discussing related topics"
+    },
+    "topic": {
+      "creator": "",
+      "last_set": 0,
+      "value": ""
+    },
+    "unlinked": 0
+  },
+  "messages": [
+    {
+      "client_msg_id": "dbcba9fe-492c-4823-bb5a-3937e0f416a7",
+      "date": "2019-08-27 02:32:19",
+      "team": "TMJBA78PQ",
+      "text": "anything you suggest about deep unsupervised learning... im all for",
+      "ts": "1566844339.072900",
+      "type": "message",
+      "user": "UM9UYPYM7",
+      "username": "cltngwn"
+    },
+    {
+      "client_msg_id": "10d2a877-f596-479e-a668-fec944c4262e",
+      "date": "2019-08-27 02:20:47",
+      "root": {
+        "client_msg_id": "7c80c493-cdd5-454c-bb2f-b7f9eaa9168e",
+        "latest_reply": "1566843647.072200",
+        "replies": [
+          {
+            "ts": "1566843647.072200",
+            "user": "UM9UYPYM7"
+          }
+        ],
+        "reply_count": 1,
+        "reply_users": [
+          "UM9UYPYM7"
+        ],
+        "reply_users_count": 1,
+        "subscribed": false,
+        "team": "TMJBA78PQ",
+        "text": "What exactly are you running tsne on?",
+        "thread_ts": "1566596684.010400",
+        "ts": "1566596684.010400",
+        "type": "message",
+        "user": "UMJDWKLF8"
+      },
+      "subtype": "thread_broadcast",
+      "text": "hiya, so I went back to check on my tsne... and I did run the images through a CNN trained on VGG16 then did a PCA on those CNN-features and finally did the t-sne on that output for 300 principal components.\n\nWhat does more cutting edge DL say to do? Just play around with the other pre-trained CNNs? As to my original question, it would be fun to see exactly which features are represented on the t-sne axes. As well, if it is possible, to get the clustering to be biased towards things like shape, color ,texture.",
+      "thread_ts": "1566596684.010400",
+      "ts": "1566843647.072200",
+      "type": "message",
+      "user": "UM9UYPYM7",
+      "username": "cltngwn"
+    },
+    {
+      "client_msg_id": "14bf2348-7ee4-4ecf-8c15-4efdabdc7bcb",
+      "date": "2019-08-26 13:12:56",
+      "parent_user_id": "UMGBGJNTF",
+      "team": "TMJBA78PQ",
+      "text": "Barcelona + AI bootcamp sounds dreamy , cool stuff , good luck with the start :raised_hands:",
+      "thread_ts": "1566672326.039700",
+      "ts": "1566796376.071500",
+      "type": "message",
+      "user": "UM8QDPR3M",
+      "username": "dijonkock"
+    },
+    {
+      "client_msg_id": "eca0bd42-504c-4bee-aab8-6a921c077f64",
+      "date": "2019-08-25 05:17:14",
+      "team": "TMJBA78PQ",
+      "text": "*slic algorithm",
+      "ts": "1566681434.071000",
+      "type": "message",
+      "user": "UM654V49H",
+      "username": "phenol666384"
+    },
+    {
+      "client_msg_id": "505d7c55-b634-46ee-bb99-8b90871d30b0",
+      "date": "2019-08-25 05:15:19",
+      "team": "TMJBA78PQ",
+      "text": "I just the sift algorithm and found that I was also doing the same thing, using different color spaces and kmeans to cluster them. I also tried to apply on the patches of image, so I will see how I can improve my work by incorporating the ideas from Sift algorithm",
+      "ts": "1566681319.070600",
+      "type": "message",
+      "user": "UM654V49H",
+      "username": "phenol666384"
+    },
+    {
+      "client_msg_id": "cb8dac7d-54e4-4fab-9d7f-6e71b66d2c64",
+      "date": "2019-08-25 05:12:07",
+      "team": "TMJBA78PQ",
+      "text": "Operating at the pixel level itself is too granular.  For your purposes, you should try going a bit more abstract.",
+      "ts": "1566681127.066300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "4aebbaa8-766d-408e-bfe1-b42b4e2f2506",
+      "date": "2019-08-25 05:11:27",
+      "team": "TMJBA78PQ",
+      "text": "That\u2019s how SIFT works - it works over multiple scales so the size of the object is irrelevant.",
+      "ts": "1566681087.065900",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "c1501458-0a0f-4e8b-909c-792c61de7490",
+      "date": "2019-08-25 05:11:14",
+      "team": "TMJBA78PQ",
+      "text": "Remember that feature descriptors describe a patch of pixels as a feature vector.",
+      "ts": "1566681074.065600",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "6fc2cf51-54bb-4bf2-9cf6-f41a3413db15",
+      "date": "2019-08-25 05:11:02",
+      "team": "TMJBA78PQ",
+      "text": "You can represent the superpixels as one feature vector",
+      "ts": "1566681062.065300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "a197b7cc-1f6d-4591-a22a-7d57e1e388b4",
+      "date": "2019-08-25 05:09:18",
+      "team": "TMJBA78PQ",
+      "text": "I wanted to make the vectors of features same size before passing to clustering , that's why I am interested in per Pixel values :sweat_smile:",
+      "ts": "1566680958.065000",
+      "type": "message",
+      "user": "UM654V49H",
+      "username": "phenol666384"
+    },
+    {
+      "client_msg_id": "99b7898e-07c5-47ff-a641-2dc5a5abc01c",
+      "date": "2019-08-25 05:07:11",
+      "team": "TMJBA78PQ",
+      "text": "<http://www.vlfeat.org/overview/slic.html>",
+      "ts": "1566680831.062500",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "447042e7-e7e0-443d-88ca-20fa8ece40ce",
+      "date": "2019-08-25 05:07:03",
+      "team": "TMJBA78PQ",
+      "text": "Also something interesting to try is to look at a superpixel algorithm.  Perhaps cluster based on groups of pixels rather than individual pixels",
+      "ts": "1566680823.062300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "1f8c94b6-840c-471e-89ae-b7cdb05032f8",
+      "date": "2019-08-25 05:06:59",
+      "team": "TMJBA78PQ",
+      "text": "Thank you so much:heart: :star-struck:",
+      "ts": "1566680819.062100",
+      "type": "message",
+      "user": "UM654V49H",
+      "username": "phenol666384"
+    },
+    {
+      "client_msg_id": "d58b34bd-5525-4f7c-90d0-709c94532f71",
+      "date": "2019-08-25 05:06:09",
+      "team": "TMJBA78PQ",
+      "text": "<https://scikit-image.org/>\n<http://www.vlfeat.org/>",
+      "ts": "1566680769.061000",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "ffe41606-434a-4c88-be15-cf3cd16c4981",
+      "date": "2019-08-25 05:05:32",
+      "team": "TMJBA78PQ",
+      "text": "ORB is also available in scikit-image.  SIFT is also available in VLFeat too.",
+      "ts": "1566680732.060500",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "8e3483d8-e565-4f73-8d08-271a394a7fd9",
+      "date": "2019-08-25 05:04:44",
+      "team": "TMJBA78PQ",
+      "text": "All of these descriptors (HOG, SIFT, ORB) are in OpenCV.  Take note that for SIFT you need to have the contrib modules installed.  If you\u2019re using Python, you can do this through `pip`: `pip install opencv-contrib-python`.",
+      "ts": "1566680684.060100",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "616b070b-0895-43e4-8faf-ff4c1a9044f7",
+      "date": "2019-08-25 05:04:01",
+      "team": "TMJBA78PQ",
+      "text": "Any descriptor from OpenCV would be worth to try.  If you want something compact, try ORB features too",
+      "ts": "1566680641.059300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "e09db182-9b69-40f1-844f-0e0bff15de26",
+      "date": "2019-08-25 05:03:41",
+      "team": "TMJBA78PQ",
+      "text": "or try SIFT / SURF descriptors too",
+      "ts": "1566680621.058900",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "f6109403-0ed6-4239-898f-871c859a2644",
+      "date": "2019-08-25 05:03:22",
+      "team": "TMJBA78PQ",
+      "text": "If your images have a lot of nice and distinct edges, the HOG descriptor might be something to try",
+      "ts": "1566680602.058600",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "daa69dc4-8525-4074-85fd-997538a91a79",
+      "date": "2019-08-25 05:02:42",
+      "team": "TMJBA78PQ",
+      "text": "I have already used color spaces",
+      "ts": "1566680562.058200",
+      "type": "message",
+      "user": "UM654V49H",
+      "username": "phenol666384"
+    },
+    {
+      "client_msg_id": "04886be7-d394-44de-beb6-1a3b0c713f1e",
+      "date": "2019-08-25 05:02:21",
+      "team": "TMJBA78PQ",
+      "text": "Thank you so much I will try them. Could you suggest some features that I can include to segment using clustering?",
+      "ts": "1566680541.057600",
+      "type": "message",
+      "user": "UM654V49H",
+      "username": "phenol666384"
+    },
+    {
+      "client_msg_id": "852c7479-a0f4-4903-942f-0ba8f5b1adbd",
+      "date": "2019-08-25 05:00:10",
+      "team": "TMJBA78PQ",
+      "text": "Which is why I say it\u2019s a heuristic.",
+      "ts": "1566680410.055800",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "779d634c-3303-4075-bae8-cf9956a46883",
+      "date": "2019-08-25 04:59:58",
+      "edited": {
+        "ts": "1566680429.000000",
+        "user": "UMJDWKLF8"
+      },
+      "team": "TMJBA78PQ",
+      "text": "take a look at whatever you\u2019re trying to segment or analyze\u2026 say it\u2019s the width of a stem or something.  Measure what the width of this stem would typically be in the image in pixels, then divide this by 6 to get the sigma.  However this completely ignores scale and distance of what you\u2019re capturing to the camera.",
+      "ts": "1566680398.055600",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "44ded7bc-041c-47fa-9de9-be3afdf21f5a",
+      "date": "2019-08-25 04:58:37",
+      "team": "TMJBA78PQ",
+      "text": "By feature means the gray value of that pixel?",
+      "ts": "1566680317.054600",
+      "type": "message",
+      "user": "UM654V49H",
+      "username": "phenol666384"
+    },
+    {
+      "client_msg_id": "44f9e8a9-4fb6-466d-a8c8-22cd1f0960a7",
+      "date": "2019-08-25 04:57:48",
+      "team": "TMJBA78PQ",
+      "text": "the full width would technically be 6*sigma, so to calculate sigma it would be (smallest_feature_in_pixels / 6)",
+      "ts": "1566680268.053800",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "55e3e2cc-3645-47c2-ae00-b2c01c93ef2b",
+      "date": "2019-08-25 04:57:29",
+      "team": "TMJBA78PQ",
+      "text": "You usually use the half width / 3*sigma rule.  Look at the feature in your image that is the smallest, and make that 3*sigma",
+      "ts": "1566680249.053400",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "1c0ea916-b7f8-4f20-b19b-2114988dd9a5",
+      "date": "2019-08-25 04:56:46",
+      "team": "TMJBA78PQ",
+      "text": "But is there any value that I can start with by looking at the image?",
+      "ts": "1566680206.052700",
+      "type": "message",
+      "user": "UM654V49H",
+      "username": "phenol666384"
+    },
+    {
+      "client_msg_id": "5ddb5e7e-ceb2-4b86-b6c5-f3360d2c498a",
+      "date": "2019-08-25 04:55:19",
+      "team": "TMJBA78PQ",
+      "text": "Unfortunately with Gabor Filters, you have to try various filter sizes to get the most optimal one.  This is why deep learning is preferred for automatic feature learning.",
+      "ts": "1566680119.051000",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "622015e3-026f-4073-9dd7-d3688d0c9b12",
+      "date": "2019-08-25 04:50:35",
+      "team": "TMJBA78PQ",
+      "text": "I am trying extract features from image of soil and  vegetation/plants. I was working with gabor filters to extract textures for each Pixel and clustering the same texture pattern. \n1.But I don't know how to choose frequency, size of the gabor filter?\n2. Also what should be the standard deviation for the gaussian in gabor filter?\nI know I can try different combinations but is there some specific way to estimate these parameters?",
+      "ts": "1566679835.048800",
+      "type": "message",
+      "user": "UM654V49H",
+      "username": "phenol666384"
+    },
+    {
+      "client_msg_id": "8489f3c6-2872-4f68-8e0a-a2a5e1ba077f",
+      "date": "2019-08-25 02:45:26",
+      "latest_reply": "1566796376.071500",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "+1",
+          "users": [
+            "UM8QDPR3M"
+          ]
+        }
+      ],
+      "replies": [
+        {
+          "ts": "1566796376.071500",
+          "user": "UM8QDPR3M"
+        }
+      ],
+      "reply_count": 1,
+      "reply_users": [
+        "UM8QDPR3M"
+      ],
+      "reply_users_count": 1,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "This week was intense, been immersed with computer vision all week long, was lucky to get a job to teach it in a Artificial Intelligence bootcamp in Barcelona, so for the last month I've been preparing the syllabus, notebooks and presentations to impart the classes, and I'm really happy because the students got to learn a lot and today they demonstrated their new acquired skill with the presentation of the mini-projects that were proposed, now looking forward to start this course!",
+      "thread_ts": "1566672326.039700",
+      "ts": "1566672326.039700",
+      "type": "message",
+      "user": "UMGBGJNTF",
+      "username": "gnstudenko"
+    },
+    {
+      "client_msg_id": "3443d390-1a26-4baf-b41c-8368c6a3cfd5",
+      "date": "2019-08-25 02:26:55",
+      "parent_user_id": "UM9UYPYM7",
+      "team": "TMJBA78PQ",
+      "text": "did you try with saliency maps? or maybe changing the image to HSV color map and isolating what you need?, not sure exactly how the images might look like so cant really give you better advice",
+      "thread_ts": "1566595627.007800",
+      "ts": "1566671215.038900",
+      "type": "message",
+      "user": "UMGBGJNTF",
+      "username": "gnstudenko"
+    },
+    {
+      "client_msg_id": "5369402e-df39-4456-b655-77682ce54a00",
+      "date": "2019-08-25 02:19:07",
+      "parent_user_id": "UMJL2139V",
+      "team": "TMJBA78PQ",
+      "text": "When do you want to start?",
+      "thread_ts": "1566613027.014900",
+      "ts": "1566670747.038600",
+      "type": "message",
+      "user": "UMJL2139V",
+      "username": "shah.yash183"
+    },
+    {
+      "client_msg_id": "5cb6592a-2fcd-46d8-9612-3a83b5392e67",
+      "date": "2019-08-24 22:01:20",
+      "parent_user_id": "UMJL2139V",
+      "team": "TMJBA78PQ",
+      "text": "i\u2019m down!",
+      "thread_ts": "1566613027.014900",
+      "ts": "1566655280.037900",
+      "type": "message",
+      "user": "UMKJNDH6J",
+      "username": "seongmin.youm"
+    },
+    {
+      "client_msg_id": "cd861b83-cc2e-4678-9f88-96f762fa2a16",
+      "date": "2019-08-24 12:54:46",
+      "team": "TMJBA78PQ",
+      "text": "this was before deep learning took off.  We used classical image segmentation techniques to do that",
+      "ts": "1566622486.036600",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "e72579d4-0972-4d61-b224-5eb4cf9b70c5",
+      "date": "2019-08-24 12:54:34",
+      "team": "TMJBA78PQ",
+      "text": "Yes, that's a very popular application.  I used to work at a medical imaging startup... a long time ago",
+      "ts": "1566622474.036200",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "b99bf8cc-6e89-4d2d-a004-604ed347e444",
+      "date": "2019-08-24 12:52:44",
+      "team": "TMJBA78PQ",
+      "text": "Yes, but I was really intrigued by the idea of creating an AI app for healthcare purposes. This app can detect cancer tumours, lung problems, and also can refer users to best and affordable doctors based upon their respective areas.",
+      "ts": "1566622364.035400",
+      "type": "message",
+      "user": "UMJ4QFBRV",
+      "username": "gopalsinghpanwar411"
+    },
+    {
+      "client_msg_id": "71167a17-f2ae-44c9-98f0-b8c154314db7",
+      "date": "2019-08-24 12:48:11",
+      "team": "TMJBA78PQ",
+      "text": "I'll bet something in recognition.",
+      "ts": "1566622091.032200",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "58c16e88-5dc6-4e12-8466-689d681ac04b",
+      "date": "2019-08-24 12:46:49",
+      "team": "TMJBA78PQ",
+      "text": "you're welcome :slightly_smiling_face: well think about it... when you think of computer vision, what do you think of right off the top of your head?",
+      "ts": "1566622009.031800",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "a008b909-9bec-4aa4-8b3d-89a3b3bd8454",
+      "date": "2019-08-24 12:45:14",
+      "team": "TMJBA78PQ",
+      "text": "Thank you for your insights. Really helped. :smile::smile::smiley:",
+      "ts": "1566621914.031400",
+      "type": "message",
+      "user": "UMJ4QFBRV",
+      "username": "gopalsinghpanwar411"
+    },
+    {
+      "client_msg_id": "cdbf7b44-37be-498e-9e3c-af20244ff935",
+      "date": "2019-08-24 12:44:32",
+      "team": "TMJBA78PQ",
+      "text": "Some other advocates may say otherwise, but the most customer facing and prominent application in my experience is recognition",
+      "ts": "1566621872.030700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "112d4118-6b87-4561-b26c-4458033151cb",
+      "date": "2019-08-24 12:44:13",
+      "team": "TMJBA78PQ",
+      "text": "Getting a computer to understand what is inside an image given just the pixels.",
+      "ts": "1566621853.030100",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "7f7565a3-5d65-48d7-9c9e-91aa126720ed",
+      "date": "2019-08-24 12:44:02",
+      "team": "TMJBA78PQ",
+      "text": "face recognition, object recognition, image recognition, etc.",
+      "ts": "1566621842.029800",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "8837466b-a5ba-44df-aa51-b7e00dced678",
+      "date": "2019-08-24 12:43:50",
+      "team": "TMJBA78PQ",
+      "text": "So to answer your question... which industry has CV touched the most?.... personally, it's anything dealing with recognition",
+      "ts": "1566621830.029500",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "6b051e14-cd58-4a5b-9f45-662242f519be",
+      "date": "2019-08-24 12:43:07",
+      "team": "TMJBA78PQ",
+      "text": "yeah lol.  Well it makes sense if you think about it.  All of his toilet samples were white.",
+      "ts": "1566621787.029100",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "8f6c7398-f209-4e4b-8177-294dfc99a06c",
+      "date": "2019-08-24 12:42:15",
+      "team": "TMJBA78PQ",
+      "text": "yikes :joy:",
+      "ts": "1566621735.028700",
+      "type": "message",
+      "user": "UMJ4QFBRV",
+      "username": "gopalsinghpanwar411"
+    },
+    {
+      "client_msg_id": "ec524e41-58ec-45ab-8d50-9cd2b41e616b",
+      "date": "2019-08-24 12:41:50",
+      "team": "TMJBA78PQ",
+      "text": "it was a pretty fun demo.  When he was setting up his webcam and got his classifier going, he bent over to grab something and there was a white pillar behind him.  His YOLO classifier classified it as a toilet :grimacing:",
+      "ts": "1566621710.028400",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "e5896fa5-5813-42dd-922d-f957af227690",
+      "date": "2019-08-24 12:41:17",
+      "team": "TMJBA78PQ",
+      "text": "I was present during his talk at CVPR when he demoed YOLO.",
+      "ts": "1566621677.027700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "f0c716f0-8d78-4b8c-8cf1-62856c2fd12b",
+      "date": "2019-08-24 12:40:43",
+      "team": "TMJBA78PQ",
+      "text": "There are times where deep learning solutions are inapplicable, so we fall back to traditional methods.",
+      "ts": "1566621643.027300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "359a1e74-45a7-4f8f-9591-7500d1d567cd",
+      "date": "2019-08-24 12:40:26",
+      "team": "TMJBA78PQ",
+      "text": "this is traditional CV, which I can argue still has merit in this day and age where deep learning has taken over everything.",
+      "ts": "1566621626.026800",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "2926d79b-85d9-4ee9-9425-ce898466a9bc",
+      "date": "2019-08-24 12:40:05",
+      "team": "TMJBA78PQ",
+      "text": "There is a lot of rigour and they teach the right fundamentals",
+      "ts": "1566621605.026400",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "7856b3ef-a69e-402d-809a-93602406d2e5",
+      "date": "2019-08-24 12:39:57",
+      "team": "TMJBA78PQ",
+      "text": "He covers it with just enough cadence that you can keep up.  However, I recommend Udacity's Computer Vision course from Georgia Tech",
+      "ts": "1566621597.026000",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "99a50ed0-a45f-42cc-9662-61068b4f3086",
+      "date": "2019-08-24 12:39:39",
+      "team": "TMJBA78PQ",
+      "text": "Yeah",
+      "ts": "1566621579.025600",
+      "type": "message",
+      "user": "UMJ4QFBRV",
+      "username": "gopalsinghpanwar411"
+    },
+    {
+      "client_msg_id": "44f1123d-e054-42dc-aa1e-3257cf353dba",
+      "date": "2019-08-24 12:39:30",
+      "team": "TMJBA78PQ",
+      "text": "That's a great course.  Joseph Redmon right?",
+      "ts": "1566621570.025300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "7178bb7e-d9d6-4ba3-b617-58a91593fdca",
+      "date": "2019-08-24 12:39:15",
+      "team": "TMJBA78PQ",
+      "text": "What do you think about the course  \"The ancient secret of computer vision\", is it enough to understand CV to good extent?",
+      "ts": "1566621555.025100",
+      "type": "message",
+      "user": "UMJ4QFBRV",
+      "username": "gopalsinghpanwar411"
+    },
+    {
+      "client_msg_id": "fc64d92d-7662-456c-9f3e-c355419fa301",
+      "date": "2019-08-24 12:38:21",
+      "team": "TMJBA78PQ",
+      "text": "so each application that uses CV... you can argue that they \"use it the most\"",
+      "ts": "1566621501.023900",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "c889ddd4-3870-445d-be86-652faf134ff8",
+      "date": "2019-08-24 12:35:45",
+      "team": "TMJBA78PQ",
+      "text": "Computer vision by its very definition is the study of allowing computers to interpret the world the way we do",
+      "ts": "1566621345.022800",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "4c64c646-5c28-4f11-8dc7-9c70aa9d597d",
+      "date": "2019-08-24 12:35:16",
+      "team": "TMJBA78PQ",
+      "text": "There is no one correct answer to this.",
+      "ts": "1566621316.021900",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "cfbb9aaf-674f-457b-a66b-ca4514079254",
+      "date": "2019-08-24 12:35:11",
+      "team": "TMJBA78PQ",
+      "text": "Computer vision is a very broad field.  Each area of CV is used \"quite often\" in different subsets and fields.",
+      "ts": "1566621311.021700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "d54bb4df-9c0f-42b5-9ce1-2da23e2d9c73",
+      "date": "2019-08-24 12:34:57",
+      "team": "TMJBA78PQ",
+      "text": "Yes that's what I meant <@UMJDWKLF8>.",
+      "ts": "1566621297.021400",
+      "type": "message",
+      "user": "UMJ4QFBRV",
+      "username": "gopalsinghpanwar411"
+    },
+    {
+      "client_msg_id": "5a36955d-1b5c-48c0-9cc8-6d7c6b38e612",
+      "date": "2019-08-24 12:34:25",
+      "edited": {
+        "ts": "1566621514.000000",
+        "user": "UMJDWKLF8"
+      },
+      "team": "TMJBA78PQ",
+      "text": "Are you saying.. which industry or area has computer vision been used the most?  That is a highly subjective question.",
+      "ts": "1566621265.020600",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "e5f6766d-2a19-4c57-9b01-cfa07d0dcbd5",
+      "date": "2019-08-24 12:34:11",
+      "team": "TMJBA78PQ",
+      "text": "no no nothing is every a bad question.  I'm just trying to understand what you mean",
+      "ts": "1566621251.020200",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "0043e9e5-c576-4d3c-8d4d-f4d501a27e69",
+      "date": "2019-08-24 12:30:04",
+      "team": "TMJBA78PQ",
+      "text": "Yeah that was a bad question :face_with_rolling_eyes::face_with_rolling_eyes:.",
+      "ts": "1566621004.019900",
+      "type": "message",
+      "user": "UMJ4QFBRV",
+      "username": "gopalsinghpanwar411"
+    },
+    {
+      "client_msg_id": "3aa32c98-f8da-41cf-a43b-ba9781f57374",
+      "date": "2019-08-24 12:26:09",
+      "team": "TMJBA78PQ",
+      "text": "It has become so ubiquitous that nearly every space uses it in some aspect.",
+      "ts": "1566620769.017300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "b1decbeb-0704-4d30-80e1-f3070325eec8",
+      "date": "2019-08-24 12:25:46",
+      "team": "TMJBA78PQ",
+      "text": "I don't understand this question.",
+      "ts": "1566620746.016700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "d246f68e-c01f-4c48-b303-0158b1ffcafc",
+      "date": "2019-08-24 12:23:24",
+      "team": "TMJBA78PQ",
+      "text": "In what field computer vision has been used the most of the times?",
+      "ts": "1566620604.016400",
+      "type": "message",
+      "user": "UMJ4QFBRV",
+      "username": "gopalsinghpanwar411"
+    },
+    {
+      "client_msg_id": "33da92c4-bee9-447a-ad54-640c401ee3ee",
+      "date": "2019-08-24 10:18:16",
+      "team": "TMJBA78PQ",
+      "text": "Be prepared - it's a lot of work.",
+      "ts": "1566613096.015400",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "3b74c607-596a-4113-908c-1599fa37761f",
+      "date": "2019-08-24 10:18:09",
+      "team": "TMJBA78PQ",
+      "text": "I took that course when it first came out in 2016.  Great course.",
+      "ts": "1566613089.015200",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "652fce28-014f-4dca-a91d-a698deb132ba",
+      "date": "2019-08-24 10:17:07",
+      "latest_reply": "1566670747.038600",
+      "replies": [
+        {
+          "ts": "1566655280.037900",
+          "user": "UMKJNDH6J"
+        },
+        {
+          "ts": "1566670747.038600",
+          "user": "UMJL2139V"
+        }
+      ],
+      "reply_count": 2,
+      "reply_users": [
+        "UMKJNDH6J",
+        "UMJL2139V"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "Is anyone interested in forming a study group and do CS231n by Standford? <http://cs231n.stanford.edu/>  - supposed to be agreat course",
+      "thread_ts": "1566613027.014900",
+      "ts": "1566613027.014900",
+      "type": "message",
+      "user": "UMJL2139V",
+      "username": "shah.yash183"
+    },
+    {
+      "date": "2019-08-24 08:02:51",
+      "subtype": "channel_join",
+      "text": "<@UMG8KCDTP> has joined the channel",
+      "ts": "1566604971.013500",
+      "type": "message",
+      "user": "UMG8KCDTP",
+      "username": "parang17"
+    },
+    {
+      "date": "2019-08-24 07:58:44",
+      "subtype": "channel_join",
+      "text": "<@UMJF96D6J> has joined the channel",
+      "ts": "1566604724.013300",
+      "type": "message",
+      "user": "UMJF96D6J",
+      "username": "jesusgrossi64"
+    },
+    {
+      "date": "2019-08-24 07:38:33",
+      "subtype": "channel_join",
+      "text": "<@UMJFF3Z1U> has joined the channel",
+      "ts": "1566603513.013100",
+      "type": "message",
+      "user": "UMJFF3Z1U",
+      "username": "mahjouri.saamahn"
+    },
+    {
+      "date": "2019-08-24 07:21:19",
+      "subtype": "channel_join",
+      "text": "<@UM9T5CWKB> has joined the channel",
+      "ts": "1566602479.012900",
+      "type": "message",
+      "user": "UM9T5CWKB",
+      "username": "invalidipnan"
+    },
+    {
+      "date": "2019-08-24 07:19:50",
+      "subtype": "channel_join",
+      "text": "<@UMG7ZPZLY> has joined the channel",
+      "ts": "1566602390.012700",
+      "type": "message",
+      "user": "UMG7ZPZLY",
+      "username": "rhoesada"
+    },
+    {
+      "date": "2019-08-24 06:47:08",
+      "subtype": "channel_join",
+      "text": "<@UMH39RL13> has joined the channel",
+      "ts": "1566600428.012500",
+      "type": "message",
+      "user": "UMH39RL13",
+      "username": "victornguyen111"
+    },
+    {
+      "date": "2019-08-24 06:40:08",
+      "subtype": "channel_join",
+      "text": "<@UM4QUF66N> has joined the channel",
+      "ts": "1566600008.012300",
+      "type": "message",
+      "user": "UM4QUF66N",
+      "username": "matt.fryer"
+    },
+    {
+      "client_msg_id": "6c45da74-d9dc-4df2-903c-2a041d31f173",
+      "date": "2019-08-24 06:08:14",
+      "edited": {
+        "ts": "1566616678.000000",
+        "user": "UMJDWKLF8"
+      },
+      "team": "TMJBA78PQ",
+      "text": "I also recommend using Tensorflow's projector. Upload the embeddings and the corresponding labels. You can also generate a series of sprite images so it'll show the corresponding image with the embedding so it gives you a better sense of what images get paired with what labels.",
+      "ts": "1566598094.012100",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "date": "2019-08-24 05:45:11",
+      "subtype": "channel_join",
+      "text": "<@UMFQKAG9J> has joined the channel",
+      "ts": "1566596711.010600",
+      "type": "message",
+      "user": "UMFQKAG9J",
+      "username": "nilashisbladeroy"
+    },
+    {
+      "client_msg_id": "7c80c493-cdd5-454c-bb2f-b7f9eaa9168e",
+      "date": "2019-08-24 05:44:44",
+      "latest_reply": "1566843647.072200",
+      "replies": [
+        {
+          "ts": "1566843647.072200",
+          "user": "UM9UYPYM7"
+        }
+      ],
+      "reply_count": 1,
+      "reply_users": [
+        "UM9UYPYM7"
+      ],
+      "reply_users_count": 1,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "What exactly are you running tsne on?",
+      "thread_ts": "1566596684.010400",
+      "ts": "1566596684.010400",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "b8b86fbe-19d3-4ca0-8504-21288027c6c4",
+      "date": "2019-08-24 05:43:48",
+      "team": "TMJBA78PQ",
+      "text": "<@UM9UYPYM7> it may be useful to run tsne on the actual embeddings than the images themselves.",
+      "ts": "1566596628.009300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "date": "2019-08-24 05:40:31",
+      "subtype": "channel_join",
+      "text": "<@UM4QL6YTD> has joined the channel",
+      "ts": "1566596431.008600",
+      "type": "message",
+      "user": "UM4QL6YTD",
+      "username": "reneesyliu"
+    },
+    {
+      "date": "2019-08-24 05:37:36",
+      "subtype": "channel_join",
+      "text": "<@UMJDZMUQN> has joined the channel",
+      "ts": "1566596256.008400",
+      "type": "message",
+      "user": "UMJDZMUQN",
+      "username": "joschafer"
+    },
+    {
+      "date": "2019-08-24 05:35:26",
+      "subtype": "channel_join",
+      "text": "<@UMJL2139V> has joined the channel",
+      "ts": "1566596126.008200",
+      "type": "message",
+      "user": "UMJL2139V",
+      "username": "shah.yash183"
+    },
+    {
+      "date": "2019-08-24 05:29:27",
+      "subtype": "channel_join",
+      "text": "<@UMGKEDUV6> has joined the channel",
+      "ts": "1566595767.008000",
+      "type": "message",
+      "user": "UMGKEDUV6",
+      "username": "thibo.jacques"
+    },
+    {
+      "client_msg_id": "f86c0764-314e-4111-9588-0d534fc01954",
+      "date": "2019-08-24 05:27:07",
+      "latest_reply": "1566671215.038900",
+      "replies": [
+        {
+          "ts": "1566671215.038900",
+          "user": "UMGBGJNTF"
+        }
+      ],
+      "reply_count": 1,
+      "reply_users": [
+        "UMGBGJNTF"
+      ],
+      "reply_users_count": 1,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "hi, i've been thinking about unsupervised learning with images. i've done the basics with t-sne with my data (biological specimens which have been segmented out of their backgrounds). I was both happy to see distinct clusters, but at the same time it was difficult to discern visual patterns in said clusters. I was wondering if there is a method of deep clustering that would enable weights for characteristics of the images, for example, the shape or color.\n\nI read my first paper about autoencoders today and tried searching for variations that would enable this to no luck. I was curious if anyone knew of a direction or keywords that would be useful.",
+      "thread_ts": "1566595627.007800",
+      "ts": "1566595627.007800",
+      "type": "message",
+      "user": "UM9UYPYM7",
+      "username": "cltngwn"
+    },
+    {
+      "date": "2019-08-24 05:22:31",
+      "subtype": "channel_join",
+      "text": "<@UM4QHUUQK> has joined the channel",
+      "ts": "1566595351.003900",
+      "type": "message",
+      "user": "UM4QHUUQK",
+      "username": "jeeheonkim0"
+    },
+    {
+      "date": "2019-08-24 05:21:25",
+      "subtype": "channel_join",
+      "text": "<@UM5U1NZBL> has joined the channel",
+      "ts": "1566595285.002400",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    },
+    {
+      "date": "2019-08-24 05:14:27",
+      "subtype": "channel_join",
+      "text": "<@UMKUX5CDS> has joined the channel",
+      "ts": "1566594867.001300",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "date": "2019-08-24 05:13:46",
+      "subtype": "channel_join",
+      "text": "<@UM9UYPYM7> has joined the channel",
+      "ts": "1566594826.001100",
+      "type": "message",
+      "user": "UM9UYPYM7",
+      "username": "cltngwn"
+    },
+    {
+      "date": "2019-08-24 05:12:19",
+      "subtype": "channel_join",
+      "text": "<@UMGB11AEQ> has joined the channel",
+      "ts": "1566594739.000900",
+      "type": "message",
+      "user": "UMGB11AEQ",
+      "username": "jason"
+    },
+    {
+      "date": "2019-08-24 05:09:49",
+      "subtype": "channel_join",
+      "text": "<@UMA6G7ZBK> has joined the channel",
+      "ts": "1566594589.000700",
+      "type": "message",
+      "user": "UMA6G7ZBK",
+      "username": "sumandas.usa"
+    },
+    {
+      "date": "2019-08-24 05:08:14",
+      "subtype": "channel_join",
+      "text": "<@UM654V49H> has joined the channel",
+      "ts": "1566594494.000500",
+      "type": "message",
+      "user": "UM654V49H",
+      "username": "phenol666384"
+    },
+    {
+      "date": "2019-08-24 05:02:24",
+      "purpose": "For asking computer vision questions and discussing related topics",
+      "subtype": "channel_purpose",
+      "text": "<@UMJDWKLF8> set the channel purpose: For asking computer vision questions and discussing related topics",
+      "ts": "1566594144.000300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "date": "2019-08-24 05:02:24",
+      "subtype": "channel_join",
+      "text": "<@UMJDWKLF8> has joined the channel",
+      "ts": "1566594144.000200",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    }
+  ]
+}

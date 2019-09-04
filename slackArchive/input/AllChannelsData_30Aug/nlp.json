@@ -1,0 +1,225 @@
+{
+  "channel": {
+    "created": 1566387843,
+    "creator": "UMFRP1RFW",
+    "id": "CM7TZTLBD",
+    "is_archived": false,
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "is_mpim": false,
+    "is_org_shared": false,
+    "is_private": false,
+    "is_shared": false,
+    "members": [
+      "UMKUX5CDS"
+    ],
+    "name": "nlp",
+    "name_normalized": "nlp",
+    "num_members": 21,
+    "previous_names": [],
+    "purpose": {
+      "creator": "UMFRP1RFW",
+      "last_set": 1566387844,
+      "value": "Text analytics and NLP"
+    },
+    "topic": {
+      "creator": "",
+      "last_set": 0,
+      "value": ""
+    },
+    "unlinked": 0
+  },
+  "messages": [
+    {
+      "date": "2019-08-28 04:44:30",
+      "subtype": "channel_join",
+      "text": "<@UMGE10N56> has joined the channel",
+      "ts": "1566938670.003800",
+      "type": "message",
+      "user": "UMGE10N56",
+      "username": "darpanarorabe"
+    },
+    {
+      "date": "2019-08-28 00:48:38",
+      "subtype": "channel_join",
+      "text": "<@UMJ53PEDD> has joined the channel",
+      "ts": "1566924518.003600",
+      "type": "message",
+      "user": "UMJ53PEDD",
+      "username": "sahand68"
+    },
+    {
+      "date": "2019-08-26 14:11:51",
+      "subtype": "channel_join",
+      "text": "<@UMLRDRBL7> has joined the channel",
+      "ts": "1566799911.003400",
+      "type": "message",
+      "user": "UMLRDRBL7",
+      "username": "samehta91"
+    },
+    {
+      "date": "2019-08-26 04:10:50",
+      "subtype": "channel_join",
+      "text": "<@UMJ4Y3PB7> has joined the channel",
+      "ts": "1566763850.003200",
+      "type": "message",
+      "user": "UMJ4Y3PB7",
+      "username": "akulshyna.daria"
+    },
+    {
+      "date": "2019-08-26 01:24:14",
+      "subtype": "channel_join",
+      "text": "<@UMKM2M2RL> has joined the channel",
+      "ts": "1566753854.003000",
+      "type": "message",
+      "user": "UMKM2M2RL",
+      "username": "ortega"
+    },
+    {
+      "date": "2019-08-25 04:10:27",
+      "subtype": "channel_join",
+      "text": "<@UMG8TCCG0> has joined the channel",
+      "ts": "1566677427.002800",
+      "type": "message",
+      "user": "UMG8TCCG0",
+      "username": "julianormgalli"
+    },
+    {
+      "date": "2019-08-25 00:36:00",
+      "subtype": "channel_join",
+      "text": "<@UMG7ZPZLY> has joined the channel",
+      "ts": "1566664560.002600",
+      "type": "message",
+      "user": "UMG7ZPZLY",
+      "username": "rhoesada"
+    },
+    {
+      "date": "2019-08-24 23:23:58",
+      "subtype": "channel_join",
+      "text": "<@UM61P0KR9> has joined the channel",
+      "ts": "1566660238.002400",
+      "type": "message",
+      "user": "UM61P0KR9",
+      "username": "sonny.darji"
+    },
+    {
+      "date": "2019-08-24 17:40:22",
+      "subtype": "channel_join",
+      "text": "<@UMFQZKAVA> has joined the channel",
+      "ts": "1566639622.002200",
+      "type": "message",
+      "user": "UMFQZKAVA",
+      "username": "nishuchoudhary786"
+    },
+    {
+      "date": "2019-08-24 05:21:47",
+      "subtype": "channel_join",
+      "text": "<@UM5U1NZBL> has joined the channel",
+      "ts": "1566595307.002000",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    },
+    {
+      "date": "2019-08-24 04:15:26",
+      "subtype": "channel_join",
+      "text": "<@UMPFL6BTQ> has joined the channel",
+      "ts": "1566591326.001800",
+      "type": "message",
+      "user": "UMPFL6BTQ",
+      "username": "joanmelchor99"
+    },
+    {
+      "date": "2019-08-23 20:36:10",
+      "subtype": "channel_join",
+      "text": "<@UMA02LMAM> has joined the channel",
+      "ts": "1566563770.001600",
+      "type": "message",
+      "user": "UMA02LMAM",
+      "username": "florianwoelki"
+    },
+    {
+      "date": "2019-08-23 17:55:25",
+      "subtype": "channel_join",
+      "text": "<@UMJDTNF1U> has joined the channel",
+      "ts": "1566554125.001400",
+      "type": "message",
+      "user": "UMJDTNF1U",
+      "username": "vikas.rajput54"
+    },
+    {
+      "date": "2019-08-23 16:23:23",
+      "subtype": "channel_join",
+      "text": "<@UMGD8UNFJ> has joined the channel",
+      "ts": "1566548603.001200",
+      "type": "message",
+      "user": "UMGD8UNFJ",
+      "username": "s.stein"
+    },
+    {
+      "date": "2019-08-23 05:39:08",
+      "subtype": "channel_join",
+      "text": "<@UMKUX5CDS> has joined the channel",
+      "ts": "1566509948.001000",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "date": "2019-08-22 22:33:49",
+      "subtype": "channel_join",
+      "text": "<@UM4QA7XCJ> has joined the channel",
+      "ts": "1566484429.000800",
+      "type": "message",
+      "user": "UM4QA7XCJ",
+      "username": "aravindmenon663"
+    },
+    {
+      "date": "2019-08-22 20:26:48",
+      "subtype": "channel_join",
+      "text": "<@UM84S229Z> has joined the channel",
+      "ts": "1566476808.000600",
+      "type": "message",
+      "user": "UM84S229Z",
+      "username": "diederickvanderlee"
+    },
+    {
+      "date": "2019-08-22 13:03:49",
+      "subtype": "channel_join",
+      "text": "<@UM5GZL58S> has joined the channel",
+      "ts": "1566450229.000400",
+      "type": "message",
+      "user": "UM5GZL58S",
+      "username": "trent_steen"
+    },
+    {
+      "date": "2019-08-22 06:37:01",
+      "subtype": "channel_join",
+      "text": "<@UMJFF3Z1U> has joined the channel",
+      "ts": "1566427021.000200",
+      "type": "message",
+      "user": "UMJFF3Z1U",
+      "username": "mahjouri.saamahn"
+    },
+    {
+      "date": "2019-08-21 19:44:04",
+      "purpose": "Text analytics and NLP",
+      "subtype": "channel_purpose",
+      "text": "<@UMFRP1RFW> set the channel purpose: Text analytics and NLP",
+      "ts": "1566387844.000300",
+      "type": "message",
+      "user": "UMFRP1RFW",
+      "username": "mailsh4k"
+    },
+    {
+      "date": "2019-08-21 19:44:03",
+      "subtype": "channel_join",
+      "text": "<@UMFRP1RFW> has joined the channel",
+      "ts": "1566387843.000200",
+      "type": "message",
+      "user": "UMFRP1RFW",
+      "username": "mailsh4k"
+    }
+  ]
+}

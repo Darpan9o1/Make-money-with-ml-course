@@ -1,0 +1,600 @@
+{
+  "channel": {
+    "created": 1566420241,
+    "creator": "UMK17B4ES",
+    "id": "CMKKFED1A",
+    "is_archived": false,
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "is_mpim": false,
+    "is_org_shared": false,
+    "is_private": false,
+    "is_shared": false,
+    "members": [
+      "UMKUX5CDS"
+    ],
+    "name": "machine-learning-study-group",
+    "name_normalized": "machine-learning-study-group",
+    "num_members": 51,
+    "previous_names": [],
+    "purpose": {
+      "creator": "UMK17B4ES",
+      "last_set": 1566445008,
+      "value": "To study and practice week 1 topics in Siraj\u2019s \u201cMake Money with Machine Learning\u201d course."
+    },
+    "topic": {
+      "creator": "UMK17B4ES",
+      "last_set": 1566420352,
+      "value": "Week-1"
+    },
+    "unlinked": 0
+  },
+  "messages": [
+    {
+      "client_msg_id": "952495aa-add7-46ce-ab88-e4df4f494476",
+      "date": "2019-08-28 18:38:43",
+      "team": "TMJBA78PQ",
+      "text": "What's the rubric for the first homework ? Can anyone please clarify ? Thank you very much",
+      "ts": "1566988723.001400",
+      "type": "message",
+      "user": "UMR3LD6UV",
+      "username": "maheshbabugorantla"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Calmly Writer: The Ultimate Distraction-Free Writing Tool     ",
+          "from_url": "https://www.calmlywriter.com/",
+          "id": 1,
+          "original_url": "https://www.calmlywriter.com/",
+          "service_icon": "https://www.calmlywriter.com/favicon.ico",
+          "service_name": "calmlywriter.com",
+          "text": "Distraction-free text editor for Mac, Windows, Linux and ChromeOS.",
+          "title": "Calmly Writer: The Ultimate Distraction-Free Writing Tool     ",
+          "title_link": "https://www.calmlywriter.com/"
+        }
+      ],
+      "client_msg_id": "79096c68-dfa0-41c0-9f4b-4aa934f22042",
+      "date": "2019-08-27 18:07:09",
+      "parent_user_id": "UMK17B4ES",
+      "team": "TMJBA78PQ",
+      "text": "a handy way to do it that can easily be exported to github is by using a writing app like : <https://www.calmlywriter.com/>",
+      "thread_ts": "1566765516.002700",
+      "ts": "1566900429.006100",
+      "type": "message",
+      "user": "UM8QDPR3M",
+      "username": "dijonkock"
+    },
+    {
+      "client_msg_id": "b7207221-3557-4474-9062-5c1bd05b5867",
+      "date": "2019-08-27 17:48:53",
+      "parent_user_id": "UMK17B4ES",
+      "team": "TMJBA78PQ",
+      "text": "thats fast, awesome! good job!",
+      "thread_ts": "1566885932.005300",
+      "ts": "1566899333.005900",
+      "type": "message",
+      "user": "UM8QDPR3M",
+      "username": "dijonkock"
+    },
+    {
+      "client_msg_id": "3b6dec77-e053-44d9-ac69-1ead049c29f5",
+      "date": "2019-08-27 14:05:32",
+      "latest_reply": "1566899333.005900",
+      "reactions": [
+        {
+          "count": 2,
+          "name": "+1",
+          "users": [
+            "UM8QDPR3M",
+            "UMJ0BJN8Z"
+          ]
+        }
+      ],
+      "replies": [
+        {
+          "ts": "1566899333.005900",
+          "user": "UM8QDPR3M"
+        }
+      ],
+      "reply_count": 1,
+      "reply_users": [
+        "UM8QDPR3M"
+      ],
+      "reply_users_count": 1,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "Completed the homework assignment and learnt javascript a little along the way.  A good experience !!",
+      "thread_ts": "1566885932.005300",
+      "ts": "1566885932.005300",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "attachments": [
+        {
+          "author_icon": "https://secure.gravatar.com/avatar/1e8e75563099121c8772f745ac2b4018.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F136bc%2Fimg%2Favatars%2Fuser_shapes%2Fava_0001-48.png",
+          "author_id": "UMBNDDNE6",
+          "author_link": "https://machinelearni-ksf7601.slack.com/team/UMBNDDNE6",
+          "author_name": "Rodrigo Moraes Silveira",
+          "author_subname": "Rodrigo Moraes Silveira",
+          "channel_id": "CM4N5CXJP",
+          "channel_name": "machine-learning-course",
+          "color": "D0D0D0",
+          "fallback": "[August 25th, 2019 2:50 PM] rodrigoms2004: Hi",
+          "footer": "Posted in #machine-learning-course",
+          "from_url": "https://machinelearni-ksf7601.slack.com/archives/CM4N5CXJP/p1566762652433100",
+          "is_msg_unfurl": true,
+          "is_share": true,
+          "mrkdwn_in": [
+            "text"
+          ],
+          "text": "Hi",
+          "ts": "1566762652.433100"
+        }
+      ],
+      "date": "2019-08-26 04:38:36",
+      "latest_reply": "1566900429.006100",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "+1",
+          "users": [
+            "UM8QDPR3M"
+          ]
+        }
+      ],
+      "replies": [
+        {
+          "ts": "1566900429.006100",
+          "user": "UM8QDPR3M"
+        }
+      ],
+      "reply_count": 1,
+      "reply_users": [
+        "UM8QDPR3M"
+      ],
+      "reply_users_count": 1,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "I found <@UMBNDDNE6> method of uploading notes and To-Do lists to GitHub, really useful. Started following the same. Thanks <@UMBNDDNE6>!!",
+      "thread_ts": "1566765516.002700",
+      "ts": "1566765516.002700",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "date": "2019-08-24 10:47:33",
+      "subtype": "channel_join",
+      "text": "<@UMD0XPF17> has joined the channel",
+      "ts": "1566614853.001000",
+      "type": "message",
+      "user": "UMD0XPF17",
+      "username": "rahul.tawde.85"
+    },
+    {
+      "date": "2019-08-24 10:02:04",
+      "subtype": "channel_join",
+      "text": "<@UMA6G7ZBK> has joined the channel",
+      "ts": "1566612124.000800",
+      "type": "message",
+      "user": "UMA6G7ZBK",
+      "username": "sumandas.usa"
+    },
+    {
+      "date": "2019-08-24 06:51:44",
+      "subtype": "channel_join",
+      "text": "<@UMG9TLYSC> has joined the channel",
+      "ts": "1566600704.000600",
+      "type": "message",
+      "user": "UMG9TLYSC",
+      "username": "vijaybendigeri"
+    },
+    {
+      "date": "2019-08-24 06:47:26",
+      "subtype": "channel_join",
+      "text": "<@UMH39RL13> has joined the channel",
+      "ts": "1566600446.000400",
+      "type": "message",
+      "user": "UMH39RL13",
+      "username": "victornguyen111"
+    },
+    {
+      "date": "2019-08-24 04:24:08",
+      "subtype": "channel_join",
+      "text": "<@UMKUX5CDS> has joined the channel",
+      "ts": "1566591848.000200",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "client_msg_id": "00EFD316-4DC3-435E-A4F9-461893DBF701",
+      "date": "2019-08-24 02:23:41",
+      "parent_user_id": "UM512Q09Y",
+      "team": "TMJBA78PQ",
+      "text": "Iam a beginner too .. just started going through <http://w3schools.com|w3schools.com> course in javascript.",
+      "thread_ts": "1566570551.000700",
+      "ts": "1566584621.001200",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "date": "2019-08-24 01:36:28",
+      "subtype": "channel_join",
+      "text": "<@UMLAMN2KS> has joined the channel",
+      "ts": "1566581788.001200",
+      "type": "message",
+      "user": "UMLAMN2KS",
+      "username": "vanamateja"
+    },
+    {
+      "client_msg_id": "EE857CAF-21EC-4AC8-9EFD-07843D76D742",
+      "date": "2019-08-23 23:37:07",
+      "parent_user_id": "UM512Q09Y",
+      "team": "TMJBA78PQ",
+      "text": "I am down ",
+      "thread_ts": "1566570551.000700",
+      "ts": "1566574627.000900",
+      "type": "message",
+      "user": "UMA02LMAM",
+      "username": "florianwoelki"
+    },
+    {
+      "client_msg_id": "897b34c5-2d85-4c6f-880a-c2da4b71510f",
+      "date": "2019-08-23 22:29:11",
+      "latest_reply": "1566584621.001200",
+      "replies": [
+        {
+          "ts": "1566574627.000900",
+          "user": "UMA02LMAM"
+        },
+        {
+          "ts": "1566584621.001200",
+          "user": "UMK17B4ES"
+        }
+      ],
+      "reply_count": 2,
+      "reply_users": [
+        "UMA02LMAM",
+        "UMK17B4ES"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "anyone ready to teach me alil javascript",
+      "thread_ts": "1566570551.000700",
+      "ts": "1566570551.000700",
+      "type": "message",
+      "user": "UM512Q09Y",
+      "username": "smkabz"
+    },
+    {
+      "client_msg_id": "85f5d9dd-79dc-4ab4-bf42-9296d349ae2b",
+      "date": "2019-08-23 22:28:59",
+      "team": "TMJBA78PQ",
+      "text": "Hey Guyz",
+      "ts": "1566570539.000300",
+      "type": "message",
+      "user": "UM512Q09Y",
+      "username": "smkabz"
+    },
+    {
+      "date": "2019-08-23 20:35:57",
+      "subtype": "channel_join",
+      "text": "<@UMA02LMAM> has joined the channel",
+      "ts": "1566563757.000200",
+      "type": "message",
+      "user": "UMA02LMAM",
+      "username": "florianwoelki"
+    },
+    {
+      "client_msg_id": "6496B2A1-3BA9-4A7B-9169-64568CBF8763",
+      "date": "2019-08-23 20:17:04",
+      "parent_user_id": "UMK17B4ES",
+      "team": "TMJBA78PQ",
+      "text": "Gotcha!! Thanks for  clarifying !!",
+      "thread_ts": "1566452059.000400",
+      "ts": "1566562624.004500",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "client_msg_id": "0DC91D4C-62F5-404B-ACC5-00DB713E536C",
+      "date": "2019-08-23 20:14:05",
+      "team": "TMJBA78PQ",
+      "text": "Thanks Stefan and welcome to the group ! ",
+      "ts": "1566562445.003500",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Apple Inc. (AAPL) Stock Historical Prices &amp; Data",
+          "from_url": "https://uk.finance.yahoo.com/quote/AAPL/history?p=AAPL",
+          "id": 1,
+          "original_url": "https://uk.finance.yahoo.com/quote/AAPL/history?p=AAPL",
+          "service_icon": "https://uk.finance.yahoo.com/favicon.ico",
+          "service_name": "uk.finance.yahoo.com",
+          "text": "Discover historical prices for AAPL stock on Yahoo Finance. View daily, weekly or monthly formats back to when Apple Inc. stock was issued.",
+          "title": "Apple Inc. (AAPL) Stock Historical Prices &amp; Data",
+          "title_link": "https://uk.finance.yahoo.com/quote/AAPL/history?p=AAPL"
+        }
+      ],
+      "client_msg_id": "f808515d-0430-4ded-ba5c-8da7e177dcfa",
+      "date": "2019-08-23 17:41:10",
+      "team": "TMJBA78PQ",
+      "text": "And by the way, if you are planning to complete all the videos from the \"Learn Python for Data Science\" playlist, note that for video 4 it seems to be no longer possible to download the finance data from google finance. Use yahoo finance instead: <https://uk.finance.yahoo.com/quote/AAPL/history?p=AAPL>",
+      "ts": "1566553270.002800",
+      "type": "message",
+      "user": "UMGD8UNFJ",
+      "username": "s.stein"
+    },
+    {
+      "client_msg_id": "348b3889-4d62-428b-a31f-1c0a968a329d",
+      "date": "2019-08-23 16:22:53",
+      "parent_user_id": "UMK17B4ES",
+      "team": "TMJBA78PQ",
+      "text": "Hi <@UMK17B4ES> , this link seems to be broken. In any case, when doing a classification with two classes, e.g. gender prediction, you will want to use logistic regression/ lasso for logistic regression, instead of linear regression/ regular lasso. The reason being that in linear regression/ standard lasso you are predicting a continuous variable instead of a categorical one.",
+      "thread_ts": "1566452059.000400",
+      "ts": "1566548573.000900",
+      "type": "message",
+      "user": "UMGD8UNFJ",
+      "username": "s.stein"
+    },
+    {
+      "date": "2019-08-23 16:17:54",
+      "subtype": "channel_join",
+      "text": "<@UMGD8UNFJ> has joined the channel",
+      "ts": "1566548274.000800",
+      "type": "message",
+      "user": "UMGD8UNFJ",
+      "username": "s.stein"
+    },
+    {
+      "date": "2019-08-23 14:53:40",
+      "subtype": "channel_join",
+      "text": "<@UMHUJVDGQ> has joined the channel",
+      "ts": "1566543220.000600",
+      "type": "message",
+      "user": "UMHUJVDGQ",
+      "username": "kyug.shim"
+    },
+    {
+      "date": "2019-08-23 13:23:56",
+      "subtype": "channel_join",
+      "text": "<@UMJDMMSEA> has joined the channel",
+      "ts": "1566537836.000400",
+      "type": "message",
+      "user": "UMJDMMSEA",
+      "username": "akuderbekov"
+    },
+    {
+      "date": "2019-08-23 12:39:33",
+      "subtype": "channel_join",
+      "text": "<@UMAAC8D0A> has joined the channel",
+      "ts": "1566535173.000200",
+      "type": "message",
+      "user": "UMAAC8D0A",
+      "username": "haard2014"
+    },
+    {
+      "date": "2019-08-23 00:41:42",
+      "subtype": "channel_join",
+      "text": "<@UMA76UQJD> has joined the channel",
+      "ts": "1566492102.000200",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "date": "2019-08-22 22:33:29",
+      "subtype": "channel_join",
+      "text": "<@UM4QA7XCJ> has joined the channel",
+      "ts": "1566484409.000200",
+      "type": "message",
+      "user": "UM4QA7XCJ",
+      "username": "aravindmenon663"
+    },
+    {
+      "date": "2019-08-22 20:36:58",
+      "subtype": "channel_join",
+      "text": "<@UM654V49H> has joined the channel",
+      "ts": "1566477418.000200",
+      "type": "message",
+      "user": "UM654V49H",
+      "username": "phenol666384"
+    },
+    {
+      "client_msg_id": "93092daf-0fb0-4d45-97f2-b978f1c497a9",
+      "date": "2019-08-22 13:34:19",
+      "latest_reply": "1566562624.004500",
+      "replies": [
+        {
+          "ts": "1566548573.000900",
+          "user": "UMGD8UNFJ"
+        },
+        {
+          "ts": "1566562624.004500",
+          "user": "UMK17B4ES"
+        }
+      ],
+      "reply_count": 2,
+      "reply_users": [
+        "UMGD8UNFJ",
+        "UMK17B4ES"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "<https://github.com/sivakumarsi/Machine_Learning/blob/master/GenderAnalysis.py>",
+      "thread_ts": "1566452059.000400",
+      "ts": "1566452059.000400",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "client_msg_id": "658B3CF0-A39C-474F-AF23-178E611A07F3",
+      "date": "2019-08-22 13:07:15",
+      "team": "TMJBA78PQ",
+      "text": "I was able to successfully use decision tree and linear regression. Getting a value error with Lasso. ",
+      "ts": "1566450435.002300",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "client_msg_id": "5022EA7F-2B80-491C-AB8C-ACC4F8B3275E",
+      "date": "2019-08-22 13:06:24",
+      "team": "TMJBA78PQ",
+      "text": "Did any one of you try the other models for gender prediction ? ",
+      "ts": "1566450384.001000",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "date": "2019-08-22 13:03:41",
+      "subtype": "channel_join",
+      "text": "<@UM5GZL58S> has joined the channel",
+      "ts": "1566450221.000200",
+      "type": "message",
+      "user": "UM5GZL58S",
+      "username": "trent_steen"
+    },
+    {
+      "date": "2019-08-22 11:36:48",
+      "purpose": "To study and practice week 1 topics in Siraj\u2019s \u201cMake Money with Machine Learning\u201d course.",
+      "subtype": "channel_purpose",
+      "text": "<@UMK17B4ES> set the channel purpose: To study and practice week 1 topics in Siraj\u2019s \u201cMake Money with Machine Learning\u201d course.",
+      "ts": "1566445008.000700",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "client_msg_id": "BEDA67C4-A0AD-4D14-89DC-78D517194A7C",
+      "date": "2019-08-22 11:35:03",
+      "team": "TMJBA78PQ",
+      "text": "Welcome Jose, David and Nishu !",
+      "ts": "1566444903.000600",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "date": "2019-08-22 10:37:22",
+      "subtype": "channel_join",
+      "text": "<@UMFQZKAVA> has joined the channel",
+      "ts": "1566441442.000200",
+      "type": "message",
+      "user": "UMFQZKAVA",
+      "username": "nishuchoudhary786"
+    },
+    {
+      "date": "2019-08-22 09:14:39",
+      "subtype": "channel_join",
+      "text": "<@UMHB33UTF> has joined the channel",
+      "ts": "1566436479.000400",
+      "type": "message",
+      "user": "UMHB33UTF",
+      "username": "davidshimshoni"
+    },
+    {
+      "date": "2019-08-22 06:54:58",
+      "subtype": "channel_join",
+      "text": "<@UMN5WMFRU> has joined the channel",
+      "ts": "1566428098.000200",
+      "type": "message",
+      "user": "UMN5WMFRU",
+      "username": "josec300"
+    },
+    {
+      "client_msg_id": "57C9F628-C493-4E81-95D0-0437B6920B5B",
+      "date": "2019-08-22 04:53:44",
+      "team": "TMJBA78PQ",
+      "text": "How are you progressing ? ",
+      "ts": "1566420824.006500",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "client_msg_id": "7CBC9F03-79D2-49FA-B114-49C382584695",
+      "date": "2019-08-22 04:52:44",
+      "team": "TMJBA78PQ",
+      "text": "Planning to try a different model today and also finish watching the second video in the python for Datascience series.",
+      "ts": "1566420764.006200",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "client_msg_id": "FD6C59F0-E926-4442-9CB0-B99FB277A2E1",
+      "date": "2019-08-22 04:51:46",
+      "team": "TMJBA78PQ",
+      "text": "Hi, I started with @Siraj\u2019s Introduction -Learn Python for Datascience #1 yesterday. Created Demo.py to predict the gender using Decision Tree as explained in the video. Also tried LinearRegression model to do the same prediction. ",
+      "ts": "1566420706.004800",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "date": "2019-08-22 04:47:20",
+      "inviter": "UMK17B4ES",
+      "subtype": "channel_join",
+      "text": "<@UM512Q09Y> has joined the channel",
+      "ts": "1566420440.000700",
+      "type": "message",
+      "user": "UM512Q09Y",
+      "username": "smkabz"
+    },
+    {
+      "date": "2019-08-22 04:46:07",
+      "purpose": "To study and practice week 1 topics in Siraj\u2019s ML course.",
+      "subtype": "channel_purpose",
+      "text": "<@UMK17B4ES> set the channel purpose: To study and practice week 1 topics in Siraj\u2019s ML course.",
+      "ts": "1566420367.000500",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "date": "2019-08-22 04:45:53",
+      "purpose": "To study and practice week 1 topics in Siraj\u2019s ML Course.",
+      "subtype": "channel_purpose",
+      "text": "<@UMK17B4ES> set the channel purpose: To study and practice week 1 topics in Siraj\u2019s ML Course.",
+      "ts": "1566420353.000400",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "date": "2019-08-22 04:45:53",
+      "subtype": "channel_topic",
+      "text": "<@UMK17B4ES> set the channel topic: Week-1",
+      "topic": "Week-1",
+      "ts": "1566420353.000300",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "date": "2019-08-22 04:44:01",
+      "subtype": "channel_join",
+      "text": "<@UMK17B4ES> has joined the channel",
+      "ts": "1566420241.000200",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "channel": {
+    "created": 1566277925,
+    "creator": "UMB846R41",
+    "id": "CM67A2EQ3",
+    "is_archived": false,
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "is_mpim": false,
+    "is_org_shared": false,
+    "is_private": false,
+    "is_shared": false,
+    "members": [
+      "UMKUX5CDS"
+    ],
+    "name": "music",
+    "name_normalized": "music",
+    "num_members": 11,
+    "previous_names": [],
+    "purpose": {
+      "creator": "UMB846R41",
+      "last_set": 1566277925,
+      "value": "to get more in touch with international music"
+    },
+    "topic": {
+      "creator": "",
+      "last_set": 0,
+      "value": ""
+    },
+    "unlinked": 0
+  },
+  "messages": [
+    {
+      "client_msg_id": "4e79a112-ef10-45b1-9e1e-3a8fe0e4692d",
+      "date": "2019-08-28 09:08:32",
+      "team": "TMJBA78PQ",
+      "text": "I can't stop with the Tangerine Dream.",
+      "ts": "1566954512.000600",
+      "type": "message",
+      "user": "UMB846R41",
+      "username": "adempc"
+    },
+    {
+      "attachments": [
+        {
+          "author_link": "https://www.youtube.com/channel/UC_b2iIK6nBoXgWtGSse7e3A",
+          "author_name": "Tangerine Dream",
+          "fallback": "YouTube Video: Tangerine dream \"1981-Exit\"",
+          "from_url": "https://www.youtube.com/watch?v=YXUnBzAmeao",
+          "id": 1,
+          "original_url": "https://www.youtube.com/watch?v=YXUnBzAmeao",
+          "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/",
+          "thumb_height": 360,
+          "thumb_url": "https://i.ytimg.com/vi/YXUnBzAmeao/hqdefault.jpg",
+          "thumb_width": 480,
+          "title": "Tangerine dream \"1981-Exit\"",
+          "title_link": "https://www.youtube.com/watch?v=YXUnBzAmeao",
+          "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/YXUnBzAmeao?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "video_html_height": 225,
+          "video_html_width": 400
+        }
+      ],
+      "client_msg_id": "44ad82a3-9e9a-43f3-bd58-bfa6817030b7",
+      "date": "2019-08-28 09:08:22",
+      "team": "TMJBA78PQ",
+      "text": "<https://www.youtube.com/watch?v=YXUnBzAmeao>",
+      "ts": "1566954502.000200",
+      "type": "message",
+      "user": "UMB846R41",
+      "username": "adempc"
+    },
+    {
+      "date": "2019-08-26 14:12:54",
+      "subtype": "channel_join",
+      "text": "<@UMLRDRBL7> has joined the channel",
+      "ts": "1566799974.001100",
+      "type": "message",
+      "user": "UMLRDRBL7",
+      "username": "samehta91"
+    },
+    {
+      "attachments": [
+        {
+          "author_link": "https://www.youtube.com/user/renanbono",
+          "author_name": "renanbono",
+          "fallback": "YouTube Video: Funkadelic - Maggot Brain (full album)",
+          "from_url": "https://youtu.be/21sP7orRS3c",
+          "id": 1,
+          "original_url": "https://youtu.be/21sP7orRS3c",
+          "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/",
+          "thumb_height": 360,
+          "thumb_url": "https://i.ytimg.com/vi/21sP7orRS3c/hqdefault.jpg",
+          "thumb_width": 480,
+          "title": "Funkadelic - Maggot Brain (full album)",
+          "title_link": "https://youtu.be/21sP7orRS3c",
+          "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/21sP7orRS3c?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "video_html_height": 300,
+          "video_html_width": 400
+        }
+      ],
+      "client_msg_id": "575d08bd-f70b-4fe8-9b4c-20ae4d196516",
+      "date": "2019-08-26 00:47:47",
+      "team": "TMJBA78PQ",
+      "text": "<https://youtu.be/21sP7orRS3c>",
+      "ts": "1566751667.000800",
+      "type": "message",
+      "user": "UMB846R41",
+      "username": "adempc"
+    },
+    {
+      "date": "2019-08-25 01:26:17",
+      "subtype": "channel_join",
+      "text": "<@UMKUX5CDS> has joined the channel",
+      "ts": "1566667577.000400",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "date": "2019-08-25 01:05:28",
+      "subtype": "channel_join",
+      "text": "<@UMPFL6BTQ> has joined the channel",
+      "ts": "1566666328.000200",
+      "type": "message",
+      "user": "UMPFL6BTQ",
+      "username": "joanmelchor99"
+    },
+    {
+      "date": "2019-08-24 10:40:37",
+      "subtype": "channel_join",
+      "text": "<@UM8QDPR3M> has joined the channel",
+      "ts": "1566614437.000400",
+      "type": "message",
+      "user": "UM8QDPR3M",
+      "username": "dijonkock"
+    },
+    {
+      "date": "2019-08-24 07:57:03",
+      "subtype": "channel_join",
+      "text": "<@UM5U1NZBL> has joined the channel",
+      "ts": "1566604623.000200",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    },
+    {
+      "date": "2019-08-23 17:55:45",
+      "subtype": "channel_join",
+      "text": "<@UMJDTNF1U> has joined the channel",
+      "ts": "1566554145.000200",
+      "type": "message",
+      "user": "UMJDTNF1U",
+      "username": "vikas.rajput54"
+    },
+    {
+      "date": "2019-08-22 22:33:56",
+      "subtype": "channel_join",
+      "text": "<@UM4QA7XCJ> has joined the channel",
+      "ts": "1566484436.000200",
+      "type": "message",
+      "user": "UM4QA7XCJ",
+      "username": "aravindmenon663"
+    },
+    {
+      "client_msg_id": "7048fab9-c5b3-4e9d-9292-fcac48d7cd8b",
+      "date": "2019-08-21 23:11:23",
+      "team": "TMJBA78PQ",
+      "text": ":slightly_smiling_face:",
+      "ts": "1566400283.000200",
+      "type": "message",
+      "user": "UMB846R41",
+      "username": "adempc"
+    },
+    {
+      "client_msg_id": "b1ca375b-36fe-4532-be3a-2b1c182f1568",
+      "date": "2019-08-21 17:48:02",
+      "root": {
+        "client_msg_id": "f3329ec0-a8b1-4458-9a16-fb555a77aba0",
+        "latest_reply": "1566380882.008200",
+        "replies": [
+          {
+            "ts": "1566380882.008200",
+            "user": "UMA76UQJD"
+          }
+        ],
+        "reply_count": 1,
+        "reply_users": [
+          "UMA76UQJD"
+        ],
+        "reply_users_count": 1,
+        "subscribed": false,
+        "team": "TMJBA78PQ",
+        "text": "France and India - I'm looking at you, what are you guys listening to over there?",
+        "thread_ts": "1566328357.000600",
+        "ts": "1566328357.000600",
+        "type": "message",
+        "user": "UMB846R41"
+      },
+      "subtype": "thread_broadcast",
+      "text": "Actually my tastes are unique. It does not reflect my culture. I listen to music like Enigma, Vangelis, Enya most of the time. But I'm open to all forms and styles of music, regardless of its origin and its cultural background. It just has to sound nice to my ears.",
+      "thread_ts": "1566328357.000600",
+      "ts": "1566380882.008200",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "client_msg_id": "e3be14ce-9e30-448b-8f1f-a1cda912ded5",
+      "date": "2019-08-21 17:42:24",
+      "team": "TMJBA78PQ",
+      "text": "It can generate music from your numerical description of how you want it to be. People have been trying to do this for a while now. It may not be perfect, but there are numerous ways for doing this. There are also solutions which use deep learning. But like most works done by Wolfram, this one also uses cellular automata to generate its tones. I've never tried cellular automata before, but the concept is amazing.",
+      "ts": "1566380544.008100",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "WolframTones",
+          "from_url": "http://tones.wolfram.com/generate/",
+          "id": 1,
+          "image_bytes": 358483,
+          "image_height": 250,
+          "image_url": "http://tones.wolfram.com/fb-tones.png",
+          "image_width": 476,
+          "original_url": "http://tones.wolfram.com/generate/",
+          "service_icon": "http://tones.wolfram.com/favicon.ico",
+          "service_name": "tones.wolfram.com",
+          "text": "Listen to what I just found in the WolframTones music universe",
+          "title": "WolframTones",
+          "title_link": "http://tones.wolfram.com/generate/"
+        }
+      ],
+      "client_msg_id": "99cbc2a6-bb5f-4c72-a1ae-6b2d4dd8a391",
+      "date": "2019-08-21 17:36:47",
+      "team": "TMJBA78PQ",
+      "text": "These people have a music generator: <http://tones.wolfram.com/generate/>",
+      "ts": "1566380207.000800",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "date": "2019-08-21 17:33:03",
+      "subtype": "channel_join",
+      "text": "<@UMA76UQJD> has joined the channel",
+      "ts": "1566379983.000200",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "client_msg_id": "f3329ec0-a8b1-4458-9a16-fb555a77aba0",
+      "date": "2019-08-21 03:12:37",
+      "latest_reply": "1566380882.008200",
+      "replies": [
+        {
+          "ts": "1566380882.008200",
+          "user": "UMA76UQJD"
+        }
+      ],
+      "reply_count": 1,
+      "reply_users": [
+        "UMA76UQJD"
+      ],
+      "reply_users_count": 1,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "France and India - I'm looking at you, what are you guys listening to over there?",
+      "thread_ts": "1566328357.000600",
+      "ts": "1566328357.000600",
+      "type": "message",
+      "user": "UMB846R41",
+      "username": "adempc"
+    },
+    {
+      "date": "2019-08-20 20:27:06",
+      "subtype": "channel_join",
+      "text": "<@UMA02LMAM> has joined the channel",
+      "ts": "1566304026.000200",
+      "type": "message",
+      "user": "UMA02LMAM",
+      "username": "florianwoelki"
+    },
+    {
+      "date": "2019-08-20 19:07:39",
+      "subtype": "channel_join",
+      "text": "<@UMHEG1F4L> has joined the channel",
+      "ts": "1566299259.000200",
+      "type": "message",
+      "user": "UMHEG1F4L",
+      "username": "siddgupta1991"
+    },
+    {
+      "attachments": [
+        {
+          "author_link": "https://www.youtube.com/channel/UCLOtPenDexidfO4pjQ7vA1Q",
+          "author_name": "Richard W",
+          "fallback": "YouTube Video: Tangerine Dream - Tangram",
+          "from_url": "https://www.youtube.com/watch?v=iQpAJUZeIAY",
+          "id": 1,
+          "original_url": "https://www.youtube.com/watch?v=iQpAJUZeIAY",
+          "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/",
+          "thumb_height": 360,
+          "thumb_url": "https://i.ytimg.com/vi/iQpAJUZeIAY/hqdefault.jpg",
+          "thumb_width": 480,
+          "title": "Tangerine Dream - Tangram",
+          "title_link": "https://www.youtube.com/watch?v=iQpAJUZeIAY",
+          "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/iQpAJUZeIAY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "video_html_height": 225,
+          "video_html_width": 400
+        }
+      ],
+      "client_msg_id": "12ac7c3d-26cf-4ab9-8c6e-a03ae1c99f24",
+      "date": "2019-08-20 13:12:47",
+      "team": "TMJBA78PQ",
+      "text": "...thought it would be nice to hear what the rest of the world is listening to.\n\n<https://www.youtube.com/watch?v=iQpAJUZeIAY>",
+      "ts": "1566277967.000800",
+      "type": "message",
+      "user": "UMB846R41",
+      "username": "adempc"
+    },
+    {
+      "date": "2019-08-20 13:12:05",
+      "purpose": "to get more in touch with international music",
+      "subtype": "channel_purpose",
+      "text": "<@UMB846R41> set the channel purpose: to get more in touch with international music",
+      "ts": "1566277925.000300",
+      "type": "message",
+      "user": "UMB846R41",
+      "username": "adempc"
+    },
+    {
+      "date": "2019-08-20 13:12:05",
+      "subtype": "channel_join",
+      "text": "<@UMB846R41> has joined the channel",
+      "ts": "1566277925.000200",
+      "type": "message",
+      "user": "UMB846R41",
+      "username": "adempc"
+    }
+  ]
+}

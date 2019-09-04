@@ -1,0 +1,180 @@
+{
+  "channel": {
+    "created": 1566836837,
+    "creator": "UMJ50KPF1",
+    "id": "CMD1MK890",
+    "is_archived": false,
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "is_mpim": false,
+    "is_org_shared": false,
+    "is_private": false,
+    "is_shared": false,
+    "members": [
+      "UMKUX5CDS"
+    ],
+    "name": "homework2",
+    "name_normalized": "homework2",
+    "num_members": 15,
+    "previous_names": [],
+    "purpose": {
+      "creator": "UMJ50KPF1",
+      "last_set": 1566836837,
+      "value": "All questions and help for the 2nd homework assignment"
+    },
+    "topic": {
+      "creator": "",
+      "last_set": 0,
+      "value": ""
+    },
+    "unlinked": 0
+  },
+  "messages": [
+    {
+      "date": "2019-08-28 18:05:18",
+      "subtype": "channel_join",
+      "text": "<@UMFQ5AR6G> has joined the channel",
+      "ts": "1566986718.000200",
+      "type": "message",
+      "user": "UMFQ5AR6G",
+      "username": "manohar.1337data"
+    },
+    {
+      "date": "2019-08-28 10:47:09",
+      "subtype": "channel_join",
+      "text": "<@UMJ4C4Q7R> has joined the channel",
+      "ts": "1566960429.003500",
+      "type": "message",
+      "user": "UMJ4C4Q7R",
+      "username": "amitprusty"
+    },
+    {
+      "date": "2019-08-28 07:13:07",
+      "subtype": "channel_join",
+      "text": "<@UMJFRLWNB> has joined the channel",
+      "ts": "1566947587.003300",
+      "type": "message",
+      "user": "UMJFRLWNB",
+      "username": "lspironello"
+    },
+    {
+      "date": "2019-08-28 05:55:54",
+      "subtype": "channel_join",
+      "text": "<@UMK1GKRQW> has joined the channel",
+      "ts": "1566942954.003100",
+      "type": "message",
+      "user": "UMK1GKRQW",
+      "username": "williamsburgman"
+    },
+    {
+      "date": "2019-08-28 02:09:49",
+      "subtype": "channel_join",
+      "text": "<@UMA02LMAM> has joined the channel",
+      "ts": "1566929389.002300",
+      "type": "message",
+      "user": "UMA02LMAM",
+      "username": "florianwoelki"
+    },
+    {
+      "date": "2019-08-28 00:48:26",
+      "subtype": "channel_join",
+      "text": "<@UMJ53PEDD> has joined the channel",
+      "ts": "1566924506.002100",
+      "type": "message",
+      "user": "UMJ53PEDD",
+      "username": "sahand68"
+    },
+    {
+      "date": "2019-08-27 22:06:47",
+      "subtype": "channel_join",
+      "text": "<@UMHUJVDGQ> has joined the channel",
+      "ts": "1566914807.001900",
+      "type": "message",
+      "user": "UMHUJVDGQ",
+      "username": "kyug.shim"
+    },
+    {
+      "date": "2019-08-27 21:37:07",
+      "subtype": "channel_join",
+      "text": "<@UM4QD80TC> has joined the channel",
+      "ts": "1566913027.001700",
+      "type": "message",
+      "user": "UM4QD80TC",
+      "username": "mlc"
+    },
+    {
+      "date": "2019-08-27 16:19:45",
+      "subtype": "channel_join",
+      "text": "<@UMD0XPF17> has joined the channel",
+      "ts": "1566893985.001500",
+      "type": "message",
+      "user": "UMD0XPF17",
+      "username": "rahul.tawde.85"
+    },
+    {
+      "date": "2019-08-27 16:02:06",
+      "subtype": "channel_join",
+      "text": "<@UMFQZKAVA> has joined the channel",
+      "ts": "1566892926.001300",
+      "type": "message",
+      "user": "UMFQZKAVA",
+      "username": "nishuchoudhary786"
+    },
+    {
+      "date": "2019-08-27 13:03:54",
+      "subtype": "channel_join",
+      "text": "<@UM4QA7XCJ> has joined the channel",
+      "ts": "1566882234.001100",
+      "type": "message",
+      "user": "UM4QA7XCJ",
+      "username": "aravindmenon663"
+    },
+    {
+      "date": "2019-08-27 12:16:41",
+      "subtype": "channel_join",
+      "text": "<@UMB846R41> has joined the channel",
+      "ts": "1566879401.000900",
+      "type": "message",
+      "user": "UMB846R41",
+      "username": "adempc"
+    },
+    {
+      "date": "2019-08-27 05:59:35",
+      "subtype": "channel_join",
+      "text": "<@UM9TSRDK3> has joined the channel",
+      "ts": "1566856775.000700",
+      "type": "message",
+      "user": "UM9TSRDK3",
+      "username": "andrei.pastramagiu"
+    },
+    {
+      "date": "2019-08-27 04:54:47",
+      "subtype": "channel_join",
+      "text": "<@UMKUX5CDS> has joined the channel",
+      "ts": "1566852887.000500",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "date": "2019-08-27 00:27:17",
+      "purpose": "All questions and help for the 2nd homework assignment",
+      "subtype": "channel_purpose",
+      "text": "<@UMJ50KPF1> set the channel purpose: All questions and help for the 2nd homework assignment",
+      "ts": "1566836837.000300",
+      "type": "message",
+      "user": "UMJ50KPF1",
+      "username": "mbike314"
+    },
+    {
+      "date": "2019-08-27 00:27:17",
+      "subtype": "channel_join",
+      "text": "<@UMJ50KPF1> has joined the channel",
+      "ts": "1566836837.000200",
+      "type": "message",
+      "user": "UMJ50KPF1",
+      "username": "mbike314"
+    }
+  ]
+}

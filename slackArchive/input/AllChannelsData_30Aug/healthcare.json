@@ -1,0 +1,512 @@
+{
+  "channel": {
+    "created": 1566330794,
+    "creator": "UMJF96D6J",
+    "id": "CM76M4MAN",
+    "is_archived": false,
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "is_mpim": false,
+    "is_org_shared": false,
+    "is_private": false,
+    "is_shared": false,
+    "members": [
+      "UMKUX5CDS"
+    ],
+    "name": "healthcare",
+    "name_normalized": "healthcare",
+    "num_members": 47,
+    "previous_names": [],
+    "purpose": {
+      "creator": "UMJF96D6J",
+      "last_set": 1566330795,
+      "value": "To make the most of machine learning in healthcare!"
+    },
+    "topic": {
+      "creator": "",
+      "last_set": 0,
+      "value": ""
+    },
+    "unlinked": 0
+  },
+  "messages": [
+    {
+      "client_msg_id": "d1a1fb49-7336-4aba-b83a-3b2039dd0810",
+      "date": "2019-08-28 01:43:20",
+      "parent_user_id": "UMJ53PEDD",
+      "team": "TMJBA78PQ",
+      "text": "For sure!",
+      "thread_ts": "1566924495.019500",
+      "ts": "1566927800.019800",
+      "type": "message",
+      "user": "UMJ53PEDD",
+      "username": "sahand68"
+    },
+    {
+      "client_msg_id": "21cc4964-030f-44ab-b8b5-feea2cd66c84",
+      "date": "2019-08-28 01:33:27",
+      "parent_user_id": "UMJ53PEDD",
+      "team": "TMJBA78PQ",
+      "text": "<@UMJ53PEDD> That's good. You could provide some good inputs. BTW I am new to this field :)",
+      "thread_ts": "1566924495.019500",
+      "ts": "1566927207.019600",
+      "type": "message",
+      "user": "UMJEF2B6J",
+      "username": "shanti.behera"
+    },
+    {
+      "client_msg_id": "3fb94bfa-5782-4305-a64c-2ab8d8d8c13c",
+      "date": "2019-08-28 00:48:15",
+      "latest_reply": "1566927800.019800",
+      "replies": [
+        {
+          "ts": "1566927207.019600",
+          "user": "UMJEF2B6J"
+        },
+        {
+          "ts": "1566927800.019800",
+          "user": "UMJ53PEDD"
+        }
+      ],
+      "reply_count": 2,
+      "reply_users": [
+        "UMJEF2B6J",
+        "UMJ53PEDD"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "Hey guys , I have done a few projects in medical imaging field !",
+      "thread_ts": "1566924495.019500",
+      "ts": "1566924495.019500",
+      "type": "message",
+      "user": "UMJ53PEDD",
+      "username": "sahand68"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Blood Cell Images",
+          "from_url": "https://www.kaggle.com/paultimothymooney/blood-cells",
+          "id": 1,
+          "original_url": "https://www.kaggle.com/paultimothymooney/blood-cells",
+          "service_icon": "https://www.kaggle.com/favicon.ico",
+          "service_name": "kaggle.com",
+          "text": "12,500 images: 4 different cell types",
+          "thumb_height": 1200,
+          "thumb_url": "https://storage.googleapis.com/kaggle-datasets-images/9232/14243/825d614550cdb6ebaaae6e243b8154f7/dataset-card.jpg?t=2018-01-17-21-59-13",
+          "thumb_width": 1200,
+          "title": "Blood Cell Images",
+          "title_link": "https://www.kaggle.com/paultimothymooney/blood-cells"
+        }
+      ],
+      "client_msg_id": "e8942c34-d803-445e-8e7c-20e88fe69c73",
+      "date": "2019-08-25 00:53:14",
+      "edited": {
+        "ts": "1566665801.000000",
+        "user": "UMK1X7614"
+      },
+      "reactions": [
+        {
+          "count": 1,
+          "name": "+1",
+          "users": [
+            "UM6HXHG91"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "Blood smear pics\n<https://www.kaggle.com/paultimothymooney/blood-cells>\n<https://imagebank.hematology.org/collection/list/#selectedFacetIds=98%7C216%7C>\n<http://users.cecs.anu.edu.au/~hrezatofighi/Data/Leukocyte%20Data.htm>\n<http://fimm.webmicroscope.net/Research/Momic/mamic>",
+      "ts": "1566665594.016600",
+      "type": "message",
+      "user": "UMK1X7614",
+      "username": "pwmarkliu"
+    },
+    {
+      "date": "2019-08-25 00:17:35",
+      "inviter": "UMK1X7614",
+      "subtype": "channel_join",
+      "text": "<@UMFPR8Q20> has joined the channel",
+      "ts": "1566663455.015500",
+      "type": "message",
+      "user": "UMFPR8Q20",
+      "username": "yutangjuan"
+    },
+    {
+      "date": "2019-08-24 10:39:58",
+      "subtype": "channel_join",
+      "text": "<@UM8QDPR3M> has joined the channel",
+      "ts": "1566614398.014200",
+      "type": "message",
+      "user": "UM8QDPR3M",
+      "username": "dijonkock"
+    },
+    {
+      "date": "2019-08-24 05:29:36",
+      "subtype": "channel_join",
+      "text": "<@UMGKEDUV6> has joined the channel",
+      "ts": "1566595776.014000",
+      "type": "message",
+      "user": "UMGKEDUV6",
+      "username": "thibo.jacques"
+    },
+    {
+      "date": "2019-08-23 14:53:21",
+      "subtype": "channel_join",
+      "text": "<@UMHUJVDGQ> has joined the channel",
+      "ts": "1566543201.013800",
+      "type": "message",
+      "user": "UMHUJVDGQ",
+      "username": "kyug.shim"
+    },
+    {
+      "client_msg_id": "70eaa3b2-dc86-485d-b5f1-34c2d62b250c",
+      "date": "2019-08-23 12:50:33",
+      "team": "TMJBA78PQ",
+      "text": "Hey everyone, I am Haard i am from the computer science background and don't have expert knowledge in health section. But i am intrigued by the idea of integrating AI into Health. I would love to get on board and help out on this path.",
+      "ts": "1566535833.013600",
+      "type": "message",
+      "user": "UMAAC8D0A",
+      "username": "haard2014"
+    },
+    {
+      "date": "2019-08-23 12:39:27",
+      "subtype": "channel_join",
+      "text": "<@UMAAC8D0A> has joined the channel",
+      "ts": "1566535167.010100",
+      "type": "message",
+      "user": "UMAAC8D0A",
+      "username": "haard2014"
+    },
+    {
+      "date": "2019-08-23 04:04:22",
+      "inviter": "UMJF96D6J",
+      "subtype": "channel_join",
+      "text": "<@UM8DCJP8S> has joined the channel",
+      "ts": "1566504262.009900",
+      "type": "message",
+      "user": "UM8DCJP8S",
+      "username": "sergaime"
+    },
+    {
+      "date": "2019-08-22 22:33:25",
+      "subtype": "channel_join",
+      "text": "<@UM4QA7XCJ> has joined the channel",
+      "ts": "1566484405.009700",
+      "type": "message",
+      "user": "UM4QA7XCJ",
+      "username": "aravindmenon663"
+    },
+    {
+      "date": "2019-08-22 10:53:17",
+      "subtype": "channel_join",
+      "text": "<@UM4RDDR35> has joined the channel",
+      "ts": "1566442397.009500",
+      "type": "message",
+      "user": "UM4RDDR35",
+      "username": "shiva1210064"
+    },
+    {
+      "date": "2019-08-22 08:38:52",
+      "subtype": "channel_join",
+      "text": "<@UMJDTNF1U> has joined the channel",
+      "ts": "1566434332.009300",
+      "type": "message",
+      "user": "UMJDTNF1U",
+      "username": "vikas.rajput54"
+    },
+    {
+      "date": "2019-08-22 06:36:27",
+      "subtype": "channel_join",
+      "text": "<@UMJFF3Z1U> has joined the channel",
+      "ts": "1566426987.009100",
+      "type": "message",
+      "user": "UMJFF3Z1U",
+      "username": "mahjouri.saamahn"
+    },
+    {
+      "date": "2019-08-21 23:08:52",
+      "inviter": "UMJF96D6J",
+      "subtype": "channel_join",
+      "text": "<@UM83GSZ6X> has joined the channel",
+      "ts": "1566400132.008800",
+      "type": "message",
+      "user": "UM83GSZ6X",
+      "username": "merrial79"
+    },
+    {
+      "date": "2019-08-21 21:51:08",
+      "inviter": "UMJF96D6J",
+      "subtype": "channel_join",
+      "text": "<@UMA9NF73K> has joined the channel",
+      "ts": "1566395468.008600",
+      "type": "message",
+      "user": "UMA9NF73K",
+      "username": "nayeemaquib"
+    },
+    {
+      "client_msg_id": "2b6409ae-8b15-4a27-8197-501a6b2ea954",
+      "date": "2019-08-21 21:45:54",
+      "team": "TMJBA78PQ",
+      "text": "I'm also specialised in policy so if someone has good ideas I can help you find out how to implement them and deal with legislation :)",
+      "ts": "1566395154.008400",
+      "type": "message",
+      "user": "UMJF96D6J",
+      "username": "jesusgrossi64"
+    },
+    {
+      "client_msg_id": "245b35ba-ab8f-4068-bf3e-b4e089e79024",
+      "date": "2019-08-21 21:44:53",
+      "team": "TMJBA78PQ",
+      "text": "I'm preparing a dataset from my field in case anyone is interested on doing some exercises within the field of healrhcare",
+      "ts": "1566395093.007300",
+      "type": "message",
+      "user": "UMJF96D6J",
+      "username": "jesusgrossi64"
+    },
+    {
+      "client_msg_id": "e1d24c7e-07d2-4ad7-8847-2882da73b9f7",
+      "date": "2019-08-21 21:44:21",
+      "team": "TMJBA78PQ",
+      "text": "What is your background?",
+      "ts": "1566395061.006200",
+      "type": "message",
+      "user": "UMJF96D6J",
+      "username": "jesusgrossi64"
+    },
+    {
+      "client_msg_id": "703bd6a5-8e2d-455e-a838-48c95790fc3d",
+      "date": "2019-08-21 21:44:16",
+      "team": "TMJBA78PQ",
+      "text": "Hi Jalil! No worries",
+      "ts": "1566395056.005900",
+      "type": "message",
+      "user": "UMJF96D6J",
+      "username": "jesusgrossi64"
+    },
+    {
+      "client_msg_id": "8575AEE8-EBEC-4FD1-BEB0-7D78AE8F294C",
+      "date": "2019-08-21 21:39:57",
+      "team": "TMJBA78PQ",
+      "text": "Thanks <@UMJF96D6J> :)",
+      "ts": "1566394797.005600",
+      "type": "message",
+      "user": "UMJEFQYTY",
+      "username": "madi.abdeldjalil"
+    },
+    {
+      "date": "2019-08-21 21:38:17",
+      "inviter": "UMJF96D6J",
+      "subtype": "channel_join",
+      "text": "<@UMJEFQYTY> has joined the channel",
+      "ts": "1566394697.005000",
+      "type": "message",
+      "user": "UMJEFQYTY",
+      "username": "madi.abdeldjalil"
+    },
+    {
+      "client_msg_id": "62d81997-ba26-4ded-8617-69129e07f3ae",
+      "date": "2019-08-21 19:02:03",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "+1",
+          "users": [
+            "UM6HXHG91"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "Awesome Rolf thanks!",
+      "ts": "1566385323.004700",
+      "type": "message",
+      "user": "UMJF96D6J",
+      "username": "jesusgrossi64"
+    },
+    {
+      "date": "2019-08-21 17:32:49",
+      "subtype": "channel_join",
+      "text": "<@UMA76UQJD> has joined the channel",
+      "ts": "1566379969.004500",
+      "type": "message",
+      "user": "UMA76UQJD",
+      "username": "sreramk26"
+    },
+    {
+      "date": "2019-08-21 16:14:43",
+      "subtype": "channel_join",
+      "text": "<@UMG2NFHQU> has joined the channel",
+      "ts": "1566375283.004300",
+      "type": "message",
+      "user": "UMG2NFHQU",
+      "username": "killiandectot"
+    },
+    {
+      "date": "2019-08-21 15:57:50",
+      "subtype": "channel_join",
+      "text": "<@UMA02LMAM> has joined the channel",
+      "ts": "1566374270.004100",
+      "type": "message",
+      "user": "UMA02LMAM",
+      "username": "florianwoelki"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Medium: The Best Public Datasets for Machine Learning and Data Science",
+          "fields": [
+            {
+              "short": true,
+              "title": "Reading time",
+              "value": "8 min read"
+            }
+          ],
+          "from_url": "https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279",
+          "id": 1,
+          "image_bytes": 363662,
+          "image_height": 250,
+          "image_url": "https://miro.medium.com/max/1200/1*MxyEFHBR1brKVkOH3ndkOg.jpeg",
+          "image_width": 444,
+          "original_url": "https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279",
+          "service_icon": "https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png",
+          "service_name": "Medium",
+          "text": "What are the best datasets for machine learning and data science? After reviewing datasets hours after hours, we have created a great\u2026",
+          "title": "The Best Public Datasets for Machine Learning and Data Science",
+          "title_link": "https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279",
+          "ts": 1560986937
+        }
+      ],
+      "client_msg_id": "1a7bfc98-1734-47d6-82f8-61ca1d93f723",
+      "date": "2019-08-21 14:46:49",
+      "reactions": [
+        {
+          "count": 2,
+          "name": "100",
+          "users": [
+            "UM5U1NZBL",
+            "UMAAC8D0A"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "This is a good start: Google has a special search engine (beta) for datasets: <https://toolbox.google.com/datasetsearch>   And here is a list of datasets:  <https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279> (edited)",
+      "ts": "1566370009.003800",
+      "type": "message",
+      "user": "UM6HXHG91",
+      "username": "rolfedberg1"
+    },
+    {
+      "date": "2019-08-21 12:22:11",
+      "inviter": "UMJF96D6J",
+      "subtype": "channel_join",
+      "text": "<@UM6HXHG91> has joined the channel",
+      "ts": "1566361331.003300",
+      "type": "message",
+      "user": "UM6HXHG91",
+      "username": "rolfedberg1"
+    },
+    {
+      "date": "2019-08-21 12:22:03",
+      "inviter": "UMJF96D6J",
+      "subtype": "channel_join",
+      "text": "<@UMA6G7ZBK> has joined the channel",
+      "ts": "1566361323.003100",
+      "type": "message",
+      "user": "UMA6G7ZBK",
+      "username": "sumandas.usa"
+    },
+    {
+      "date": "2019-08-21 12:17:38",
+      "inviter": "UMJF96D6J",
+      "subtype": "channel_join",
+      "text": "<@UMKAWPW3Y> has joined the channel",
+      "ts": "1566361058.002900",
+      "type": "message",
+      "user": "UMKAWPW3Y",
+      "username": "p.suehrer"
+    },
+    {
+      "client_msg_id": "1d27e68a-b6c5-4f7d-81a5-a9c3bee655e0",
+      "date": "2019-08-21 12:14:46",
+      "team": "TMJBA78PQ",
+      "text": "Have you got a finality for it? :).",
+      "ts": "1566360886.002700",
+      "type": "message",
+      "user": "UMJF96D6J",
+      "username": "jesusgrossi64"
+    },
+    {
+      "client_msg_id": "8bbbb522-15a3-4739-83cd-0f6ded6555ca",
+      "date": "2019-08-21 12:13:45",
+      "team": "TMJBA78PQ",
+      "text": "And now of course it is quite protected",
+      "ts": "1566360825.001900",
+      "type": "message",
+      "user": "UMJF96D6J",
+      "username": "jesusgrossi64"
+    },
+    {
+      "client_msg_id": "647446ee-1b78-4f7c-b59a-daccad15cb0e",
+      "date": "2019-08-21 12:13:22",
+      "team": "TMJBA78PQ",
+      "text": "Hi, that's on short supply I think. At work we created one with dental xrays to detect lesions but it took months to coordinate all dentists",
+      "ts": "1566360802.001400",
+      "type": "message",
+      "user": "UMJF96D6J",
+      "username": "jesusgrossi64"
+    },
+    {
+      "client_msg_id": "d0510a89-349d-429a-bd26-f430fecd8b2f",
+      "date": "2019-08-21 04:06:04",
+      "edited": {
+        "ts": "1566331576.000000",
+        "user": "UM5U1NZBL"
+      },
+      "team": "TMJBA78PQ",
+      "text": "Specificly MRI, X-ray, CT, Ultrasound and other types of images?",
+      "ts": "1566331564.001400",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    },
+    {
+      "client_msg_id": "21bf419e-51b3-429d-a9d4-c52587f9fd9f",
+      "date": "2019-08-21 04:05:44",
+      "team": "TMJBA78PQ",
+      "text": "anyone have a good source for medical image data sets?",
+      "ts": "1566331544.000900",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    },
+    {
+      "date": "2019-08-21 03:58:17",
+      "subtype": "channel_join",
+      "text": "<@UM5U1NZBL> has joined the channel",
+      "ts": "1566331097.000500",
+      "type": "message",
+      "user": "UM5U1NZBL",
+      "username": "sbm367"
+    },
+    {
+      "date": "2019-08-21 03:53:15",
+      "purpose": "To make the most of machine learning in healthcare!",
+      "subtype": "channel_purpose",
+      "text": "<@UMJF96D6J> set the channel purpose: To make the most of machine learning in healthcare!",
+      "ts": "1566330795.000300",
+      "type": "message",
+      "user": "UMJF96D6J",
+      "username": "jesusgrossi64"
+    },
+    {
+      "date": "2019-08-21 03:53:15",
+      "subtype": "channel_join",
+      "text": "<@UMJF96D6J> has joined the channel",
+      "ts": "1566330795.000200",
+      "type": "message",
+      "user": "UMJF96D6J",
+      "username": "jesusgrossi64"
+    }
+  ]
+}

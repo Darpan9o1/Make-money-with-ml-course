@@ -1,0 +1,593 @@
+{
+  "channel": {
+    "created": 1566675854,
+    "creator": "UM84S229Z",
+    "id": "CMP8M88JZ",
+    "is_archived": false,
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "is_mpim": false,
+    "is_org_shared": false,
+    "is_private": false,
+    "is_shared": false,
+    "members": [
+      "UMKUX5CDS"
+    ],
+    "name": "ml4good",
+    "name_normalized": "ml4good",
+    "num_members": 26,
+    "previous_names": [],
+    "purpose": {
+      "creator": "UM84S229Z",
+      "last_set": 1566675855,
+      "value": "ML learning to make the world a better place"
+    },
+    "topic": {
+      "creator": "",
+      "last_set": 0,
+      "value": ""
+    },
+    "unlinked": 0
+  },
+  "messages": [
+    {
+      "date": "2019-08-27 03:09:34",
+      "subtype": "channel_join",
+      "text": "<@UMSGU0CKH> has joined the channel",
+      "ts": "1566846574.049200",
+      "type": "message",
+      "user": "UMSGU0CKH",
+      "username": "evan.l.walton"
+    },
+    {
+      "date": "2019-08-27 00:14:30",
+      "subtype": "channel_join",
+      "text": "<@UMJV30ULF> has joined the channel",
+      "ts": "1566836070.049000",
+      "type": "message",
+      "user": "UMJV30ULF",
+      "username": "shoumikgoswami"
+    },
+    {
+      "date": "2019-08-27 00:07:44",
+      "subtype": "channel_join",
+      "text": "<@UMGKEDUV6> has joined the channel",
+      "ts": "1566835664.048800",
+      "type": "message",
+      "user": "UMGKEDUV6",
+      "username": "thibo.jacques"
+    },
+    {
+      "date": "2019-08-26 18:08:54",
+      "subtype": "channel_join",
+      "text": "<@UMGE10N56> has joined the channel",
+      "ts": "1566814134.048600",
+      "type": "message",
+      "user": "UMGE10N56",
+      "username": "darpanarorabe"
+    },
+    {
+      "date": "2019-08-26 17:06:25",
+      "subtype": "channel_join",
+      "text": "<@UMG9291B7> has joined the channel",
+      "ts": "1566810385.048400",
+      "type": "message",
+      "user": "UMG9291B7",
+      "username": "karthi.palanisamy"
+    },
+    {
+      "date": "2019-08-26 14:37:55",
+      "subtype": "channel_join",
+      "text": "<@UMFQ5UUSY> has joined the channel",
+      "ts": "1566801475.048200",
+      "type": "message",
+      "user": "UMFQ5UUSY",
+      "username": "social"
+    },
+    {
+      "date": "2019-08-25 22:12:16",
+      "subtype": "channel_join",
+      "text": "<@UMG8XG8F2> has joined the channel",
+      "ts": "1566742336.047900",
+      "type": "message",
+      "user": "UMG8XG8F2",
+      "username": "raj.parab99"
+    },
+    {
+      "client_msg_id": "D23708A4-A5A6-4141-9EA8-F6466DFA8CF2",
+      "date": "2019-08-25 15:51:04",
+      "parent_user_id": "UMM3TGTP0",
+      "team": "TMJBA78PQ",
+      "text": "I see my first pick quickly became politicised rather quickly. Not really a point to discuss here in this course. that being said, it feels like rather vague argument I must say.. but whatever. Any system can be misused especially when not properly designed. The system in place now can\u2019t be searched by \u201ccriminals\u201d not because it isn\u2019t searchable but because it is only accessible to the people in the institution... \nThe fact is that the system used is old and inefficient and ML (and other tech) could easily improve it",
+      "thread_ts": "1566692357.033900",
+      "ts": "1566719464.047500",
+      "type": "message",
+      "user": "UM84S229Z",
+      "username": "diederickvanderlee"
+    },
+    {
+      "client_msg_id": "abb2e793-28a0-400d-b987-b9cabd467e7d",
+      "date": "2019-08-25 08:38:34",
+      "parent_user_id": "UMM3TGTP0",
+      "team": "TMJBA78PQ",
+      "text": "This is probably a discussion for outside here but I wanted to know how this situation could come about. In Canada, our gun registry is electronically searchable.",
+      "thread_ts": "1566692357.033900",
+      "ts": "1566693514.039100",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "6055B0FC-5EF1-417B-A009-166C628DDA57",
+      "date": "2019-08-25 08:25:06",
+      "team": "TMJBA78PQ",
+      "text": "Yep this is a thing to consider, but I guess privatizing the blockchain net and encrypting the transactions will probably solve it",
+      "ts": "1566692706.037000",
+      "type": "message",
+      "user": "UM76CN15G",
+      "username": "plcpinho"
+    },
+    {
+      "client_msg_id": "ff43e3c7-711e-468a-b9f4-3c13dd1d011c",
+      "date": "2019-08-25 08:19:17",
+      "latest_reply": "1566719464.047500",
+      "replies": [
+        {
+          "ts": "1566693514.039100",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566719464.047500",
+          "user": "UM84S229Z"
+        }
+      ],
+      "reply_count": 2,
+      "reply_users": [
+        "UMJDWKLF8",
+        "UM84S229Z"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "you would def not want to be searchable as a gun owner. Criminals could then access this data, and that would not have positive outcome by any stretch of the imagination.",
+      "thread_ts": "1566692357.033900",
+      "ts": "1566692357.033900",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "client_msg_id": "5D2A7619-FC92-4A19-BDB6-DBC2DD61369E",
+      "date": "2019-08-25 07:58:40",
+      "reactions": [
+        {
+          "count": 2,
+          "name": "+1",
+          "users": [
+            "UMJDWKLF8",
+            "UM84S229Z"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "Sad to read this: \u201cdealer records are required to be \u201cnon-searchble\u201d. But as <@UM84S229Z>, everything is about inertia, if we stick together with powerful sources, make we can change how things work",
+      "ts": "1566691120.032900",
+      "type": "message",
+      "user": "UM76CN15G",
+      "username": "plcpinho"
+    },
+    {
+      "client_msg_id": "E9BF9B5C-896A-4157-B624-C45231D12035",
+      "date": "2019-08-25 07:47:55",
+      "edited": {
+        "ts": "1566690514.000000",
+        "user": "UM76CN15G"
+      },
+      "team": "TMJBA78PQ",
+      "text": "ML for OCR and blockchain can be surely applied on the case. The only problem I see, which was raised by <@UMJDWKLF8> as well, is about the government willings",
+      "ts": "1566690475.028600",
+      "type": "message",
+      "user": "UM76CN15G",
+      "username": "plcpinho"
+    },
+    {
+      "client_msg_id": "3E9E879C-AED6-431A-BB5B-3CB5E7FB93D1",
+      "date": "2019-08-25 07:45:18",
+      "team": "TMJBA78PQ",
+      "text": "Hello All!\n\nI totally agree with Diederick and with the call to action needed regarding the ridiculous system applied on a gun tracing! I must admit that I was shocked with the situation, once it is need for this task to be as automated and agile as possible!",
+      "ts": "1566690318.025700",
+      "type": "message",
+      "user": "UM76CN15G",
+      "username": "plcpinho"
+    },
+    {
+      "date": "2019-08-25 05:49:13",
+      "subtype": "channel_join",
+      "text": "<@UMKUX5CDS> has joined the channel",
+      "ts": "1566683353.018900",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "client_msg_id": "177f0217-c045-4678-bcec-4b137b14cef4",
+      "date": "2019-08-25 04:40:29",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Heh I know right?",
+      "thread_ts": "1566676342.009400",
+      "ts": "1566679229.018200",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Vice: How the Government Makes Gun Records Impossible to Trace",
+          "from_url": "https://www.vice.com/en_us/article/wdbd9y/the-atfs-nonsensical-non-searchable-gun-databases-explained-392",
+          "id": 1,
+          "image_bytes": 134111,
+          "image_height": 250,
+          "image_url": "https://images.vice.com/vice/images/articles/meta/2016/09/06/the-atfs-nonsensical-non-searchable-gun-databases-explained-392-1473185649.jpg?crop=0.7111111111111111xw:1xh;center,center&resize=1200:*",
+          "image_width": 444,
+          "original_url": "https://www.vice.com/en_us/article/wdbd9y/the-atfs-nonsensical-non-searchable-gun-databases-explained-392",
+          "service_icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/apple-touch-icon-57x57.png",
+          "service_name": "Vice",
+          "text": "The agency gets more than 1,000 requests for gun traces each day. But even small-town libraries have better record-keeping systems.",
+          "title": "How the Government Makes Gun Records Impossible to Trace",
+          "title_link": "https://www.vice.com/en_us/article/wdbd9y/the-atfs-nonsensical-non-searchable-gun-databases-explained-392",
+          "ts": 1473189900
+        }
+      ],
+      "client_msg_id": "410721bb-7e8f-4a63-a8b5-e559d11ea330",
+      "date": "2019-08-25 04:12:29",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "ghastly! reading up on what you were saying: <https://www.vice.com/en_us/article/wdbd9y/the-atfs-nonsensical-non-searchable-gun-databases-explained-392>\n\"... dealer records are required to be \"non-searchable\" under federal law.\"\n:us:",
+      "thread_ts": "1566676342.009400",
+      "ts": "1566677549.017900",
+      "type": "message",
+      "user": "UM84S229Z",
+      "username": "diederickvanderlee"
+    },
+    {
+      "date": "2019-08-25 04:10:17",
+      "subtype": "channel_join",
+      "text": "<@UMG8TCCG0> has joined the channel",
+      "ts": "1566677417.017800",
+      "type": "message",
+      "user": "UMG8TCCG0",
+      "username": "julianormgalli"
+    },
+    {
+      "client_msg_id": "7c2df7db-9294-483c-9f9e-63588f8825b3",
+      "date": "2019-08-25 04:03:16",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "+1",
+          "users": [
+            "UMM3TGTP0"
+          ]
+        },
+        {
+          "count": 1,
+          "name": "muscle",
+          "users": [
+            "UMJDWKLF8"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "either way, this channel isn't about guns nor about the US, just specific problems that can be solved with specific, simple solutions that we are all trying to master here :grin:",
+      "ts": "1566676996.017100",
+      "type": "message",
+      "user": "UM84S229Z",
+      "username": "diederickvanderlee"
+    },
+    {
+      "client_msg_id": "38596ae4-1e1f-45ef-884d-b064a40f9590",
+      "date": "2019-08-25 03:59:21",
+      "team": "TMJBA78PQ",
+      "text": "btw, I am not even remotely american so I have no stake in this at all hahaha. still \"noblesse oblige.\" this group has power and therefor has responsibility",
+      "ts": "1566676761.013900",
+      "type": "message",
+      "user": "UM84S229Z",
+      "username": "diederickvanderlee"
+    },
+    {
+      "client_msg_id": "ffa9f2db-05ff-4d1f-b2f0-c741097aba02",
+      "date": "2019-08-25 03:56:56",
+      "team": "TMJBA78PQ",
+      "text": "of course, it will get rejected by many people with vested interests. but providing multiple simple, ready-made solutions is better than complaining about it online.\nalso, as the video shows, the power of media is huge. Siraj has visibility, so does the the atlantic in this case.\nIt is all about inertia!",
+      "ts": "1566676616.012100",
+      "type": "message",
+      "user": "UM84S229Z",
+      "username": "diederickvanderlee"
+    },
+    {
+      "client_msg_id": "76fb5647-e735-4e43-80f6-8be8e5b56d20",
+      "date": "2019-08-25 03:52:22",
+      "latest_reply": "1566679229.018200",
+      "replies": [
+        {
+          "ts": "1566677549.017900",
+          "user": "UM84S229Z"
+        },
+        {
+          "ts": "1566679229.018200",
+          "user": "UMJDWKLF8"
+        }
+      ],
+      "reply_count": 2,
+      "reply_users": [
+        "UM84S229Z",
+        "UMJDWKLF8"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "even a simple cataloguing system that doesn\u2019t use paper has been rejected.",
+      "thread_ts": "1566676342.009400",
+      "ts": "1566676342.009400",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "3266addd-00a0-4d5a-bdf7-97c46a942f4c",
+      "date": "2019-08-25 03:51:42",
+      "edited": {
+        "ts": "1566676317.000000",
+        "user": "UMJDWKLF8"
+      },
+      "team": "TMJBA78PQ",
+      "text": "it\u2019s if they are *willing* to adopt it.  This road has been traversed before and it is constantly being blocked by the NRA",
+      "ts": "1566676302.009000",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "939fbdc2-7688-4966-8b82-c367a1bdc2d3",
+      "date": "2019-08-25 03:51:33",
+      "team": "TMJBA78PQ",
+      "text": "It\u2019s not so much providing a solution",
+      "ts": "1566676293.008700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "8291883b-8f4b-4ca2-8302-2a4d5dfe1725",
+      "date": "2019-08-25 03:50:36",
+      "team": "TMJBA78PQ",
+      "text": "this doesnt require protest, this requires people like us to actually provide a solution that is ready for omplementation",
+      "ts": "1566676236.008500",
+      "type": "message",
+      "user": "UM84S229Z",
+      "username": "diederickvanderlee"
+    },
+    {
+      "client_msg_id": "23accbc8-9e1d-4e2b-9da7-07dff79a66d3",
+      "date": "2019-08-25 03:50:10",
+      "team": "TMJBA78PQ",
+      "text": "I\u2019m really mad about it - thankfully I\u2019m Canadian but I\u2019m living in the US for now\u2026.",
+      "ts": "1566676210.008000",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "5326a070-d018-4e7c-a008-52710467320a",
+      "date": "2019-08-25 03:49:47",
+      "team": "TMJBA78PQ",
+      "text": "^^ I know.  The background check and registry system is still using paper.",
+      "ts": "1566676187.007300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "6dafde00-52ac-4513-b8c6-e9dffc802164",
+      "date": "2019-08-25 03:49:42",
+      "team": "TMJBA78PQ",
+      "text": "<@UM4N2MUSE>, could we please make an exercise out of this??\nOCR, hell even a proposed environment where gun sellers could easily fill in forms with blockchained proof could be easily done right?\nan institute like this should not exist anymore should it???",
+      "ts": "1566676182.007100",
+      "type": "message",
+      "user": "UM84S229Z",
+      "username": "diederickvanderlee"
+    },
+    {
+      "attachments": [
+        {
+          "author_link": "https://www.youtube.com/user/TheAtlantic",
+          "author_name": "The Atlantic",
+          "fallback": "YouTube Video: Inside America\u2019s Ridiculously Old-Fashioned Gun-Tracing Center",
+          "from_url": "https://youtu.be/rMQ2b6ZwwCU",
+          "id": 1,
+          "original_url": "https://youtu.be/rMQ2b6ZwwCU",
+          "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/",
+          "thumb_height": 360,
+          "thumb_url": "https://i.ytimg.com/vi/rMQ2b6ZwwCU/hqdefault.jpg",
+          "thumb_width": 480,
+          "title": "Inside America\u2019s Ridiculously Old-Fashioned Gun-Tracing Center",
+          "title_link": "https://youtu.be/rMQ2b6ZwwCU",
+          "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/rMQ2b6ZwwCU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "video_html_height": 225,
+          "video_html_width": 400
+        }
+      ],
+      "client_msg_id": "4338a1b3-a67d-43cb-8dcc-80bf5dcbf367",
+      "date": "2019-08-25 03:45:57",
+      "team": "TMJBA78PQ",
+      "text": "<https://youtu.be/rMQ2b6ZwwCU>",
+      "ts": "1566675957.003500",
+      "type": "message",
+      "user": "UM84S229Z",
+      "username": "diederickvanderlee"
+    },
+    {
+      "client_msg_id": "f59fb620-b419-4032-9f83-e557772e7a20",
+      "date": "2019-08-25 03:45:35",
+      "reactions": [
+        {
+          "count": 1,
+          "name": "+1",
+          "users": [
+            "UMJGUV0KG"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "Hi All,\nI know there are too many channels already but I think this one might be a cool starting point: ML for Good .\nfirst pitch is this which we can solve so easily with ML! I can\u2019t believe how bad this system works in the US!\nML could actually save lives with this:bangbang:",
+      "ts": "1566675935.003300",
+      "type": "message",
+      "user": "UM84S229Z",
+      "username": "diederickvanderlee"
+    },
+    {
+      "date": "2019-08-25 03:44:16",
+      "inviter": "UM84S229Z",
+      "subtype": "channel_join",
+      "text": "<@UMJDWKLF8> has joined the channel",
+      "ts": "1566675856.002700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "date": "2019-08-25 03:44:16",
+      "inviter": "UM84S229Z",
+      "subtype": "channel_join",
+      "text": "<@UM4QL6YTD> has joined the channel",
+      "ts": "1566675856.002500",
+      "type": "message",
+      "user": "UM4QL6YTD",
+      "username": "reneesyliu"
+    },
+    {
+      "date": "2019-08-25 03:44:16",
+      "inviter": "UM84S229Z",
+      "subtype": "channel_join",
+      "text": "<@UMJGUV0KG> has joined the channel",
+      "ts": "1566675856.002300",
+      "type": "message",
+      "user": "UMJGUV0KG",
+      "username": "erayonler"
+    },
+    {
+      "date": "2019-08-25 03:44:16",
+      "inviter": "UM84S229Z",
+      "subtype": "channel_join",
+      "text": "<@UMG62M53N> has joined the channel",
+      "ts": "1566675856.002100",
+      "type": "message",
+      "user": "UMG62M53N",
+      "username": "lawrence.mcdonell"
+    },
+    {
+      "date": "2019-08-25 03:44:16",
+      "inviter": "UM84S229Z",
+      "subtype": "channel_join",
+      "text": "<@UMARMBD41> has joined the channel",
+      "ts": "1566675856.001900",
+      "type": "message",
+      "user": "UMARMBD41",
+      "username": "akshaykapoor029"
+    },
+    {
+      "date": "2019-08-25 03:44:16",
+      "inviter": "UM84S229Z",
+      "subtype": "channel_join",
+      "text": "<@UMN7C7V71> has joined the channel",
+      "ts": "1566675856.001700",
+      "type": "message",
+      "user": "UMN7C7V71",
+      "username": "theresa.thoraldson"
+    },
+    {
+      "date": "2019-08-25 03:44:16",
+      "inviter": "UM84S229Z",
+      "subtype": "channel_join",
+      "text": "<@UMM3TGTP0> has joined the channel",
+      "ts": "1566675856.001500",
+      "type": "message",
+      "user": "UMM3TGTP0",
+      "username": "mattcharlton33"
+    },
+    {
+      "date": "2019-08-25 03:44:16",
+      "inviter": "UM84S229Z",
+      "subtype": "channel_join",
+      "text": "<@UMG7ZPZLY> has joined the channel",
+      "ts": "1566675856.001300",
+      "type": "message",
+      "user": "UMG7ZPZLY",
+      "username": "rhoesada"
+    },
+    {
+      "date": "2019-08-25 03:44:15",
+      "inviter": "UM84S229Z",
+      "subtype": "channel_join",
+      "text": "<@UMH39RL13> has joined the channel",
+      "ts": "1566675855.001100",
+      "type": "message",
+      "user": "UMH39RL13",
+      "username": "victornguyen111"
+    },
+    {
+      "date": "2019-08-25 03:44:15",
+      "inviter": "UM84S229Z",
+      "subtype": "channel_join",
+      "text": "<@UM76CN15G> has joined the channel",
+      "ts": "1566675855.000900",
+      "type": "message",
+      "user": "UM76CN15G",
+      "username": "plcpinho"
+    },
+    {
+      "date": "2019-08-25 03:44:15",
+      "inviter": "UM84S229Z",
+      "subtype": "channel_join",
+      "text": "<@UM8QDPR3M> has joined the channel",
+      "ts": "1566675855.000700",
+      "type": "message",
+      "user": "UM8QDPR3M",
+      "username": "dijonkock"
+    },
+    {
+      "date": "2019-08-25 03:44:15",
+      "inviter": "UM84S229Z",
+      "subtype": "channel_join",
+      "text": "<@UM4N2MUSE> has joined the channel",
+      "ts": "1566675855.000500",
+      "type": "message",
+      "user": "UM4N2MUSE",
+      "username": "hello"
+    },
+    {
+      "date": "2019-08-25 03:44:15",
+      "purpose": "ML learning to make the world a better place",
+      "subtype": "channel_purpose",
+      "text": "<@UM84S229Z> set the channel purpose: ML learning to make the world a better place",
+      "ts": "1566675855.000300",
+      "type": "message",
+      "user": "UM84S229Z",
+      "username": "diederickvanderlee"
+    },
+    {
+      "date": "2019-08-25 03:44:15",
+      "subtype": "channel_join",
+      "text": "<@UM84S229Z> has joined the channel",
+      "ts": "1566675855.000200",
+      "type": "message",
+      "user": "UM84S229Z",
+      "username": "diederickvanderlee"
+    }
+  ]
+}

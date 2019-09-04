@@ -1,0 +1,2111 @@
+{
+  "channel": {
+    "created": 1566594089,
+    "creator": "UMJDWKLF8",
+    "id": "CMBARETJ6",
+    "is_archived": false,
+    "is_channel": true,
+    "is_general": false,
+    "is_member": true,
+    "is_mpim": false,
+    "is_org_shared": false,
+    "is_private": false,
+    "is_shared": false,
+    "members": [
+      "UMKUX5CDS"
+    ],
+    "name": "python",
+    "name_normalized": "python",
+    "num_members": 66,
+    "previous_names": [],
+    "purpose": {
+      "creator": "UMJDWKLF8",
+      "last_set": 1566594090,
+      "value": "Channel to ask Python related questions"
+    },
+    "topic": {
+      "creator": "",
+      "last_set": 0,
+      "value": ""
+    },
+    "unlinked": 0
+  },
+  "messages": [
+    {
+      "client_msg_id": "018e867e-e9e1-40d6-8b79-3b3cc5be034c",
+      "date": "2019-08-28 07:49:08",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Thanks - I'll try those and others...",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566949748.052100",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "482ba965-baea-4e7e-9b1b-293d597cf6ad",
+      "date": "2019-08-28 07:41:58",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Try using a different model.  Instead of ResNet50, use Xception or NASNet",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566949318.051900",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "3f149fa7-9eb0-4355-baf7-10030b0a9b1d",
+      "date": "2019-08-28 07:41:41",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "hahahaha",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566949301.051700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "375a6bf6-660a-45e9-b134-0b293bf772fa",
+      "date": "2019-08-28 07:38:18",
+      "display_as_bot": false,
+      "files": [
+        {
+          "created": 1566949097,
+          "display_as_bot": false,
+          "editable": false,
+          "external_type": "",
+          "filetype": "png",
+          "has_rich_preview": false,
+          "id": "FMSB3DL64",
+          "image_exif_rotation": 1,
+          "is_external": false,
+          "is_public": true,
+          "is_starred": false,
+          "mimetype": "image/png",
+          "mode": "hosted",
+          "name": "image.png",
+          "original_h": 273,
+          "original_w": 195,
+          "permalink": "https://machinelearni-ksf7601.slack.com/files/UMBPA65MY/FMSB3DL64/image.png",
+          "permalink_public": "https://slack-files.com/TMJBA78PQ-FMSB3DL64-a15b9321d7",
+          "pretty_type": "PNG",
+          "public_url_shared": false,
+          "size": 63835,
+          "thumb_160": "https://files.slack.com/files-tmb/TMJBA78PQ-FMSB3DL64-45347ff35f/image_160.png",
+          "thumb_360": "https://files.slack.com/files-tmb/TMJBA78PQ-FMSB3DL64-45347ff35f/image_360.png",
+          "thumb_360_h": 273,
+          "thumb_360_w": 195,
+          "thumb_64": "https://files.slack.com/files-tmb/TMJBA78PQ-FMSB3DL64-45347ff35f/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/TMJBA78PQ-FMSB3DL64-45347ff35f/image_80.png",
+          "timestamp": 1566949097,
+          "title": "image.png",
+          "url_private": "https://files.slack.com/files-pri/TMJBA78PQ-FMSB3DL64/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/TMJBA78PQ-FMSB3DL64/download/image.png",
+          "user": "UMBPA65MY",
+          "username": ""
+        }
+      ],
+      "parent_user_id": "UMJDWKLF8",
+      "text": "Of course the prediction is not so good...",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566949098.051300",
+      "type": "message",
+      "upload": true,
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "881fab7c-03b0-4dfb-a321-063e744e099c",
+      "date": "2019-08-28 07:32:51",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": ":smile:. Thank you sir. I appreciate that.",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566948771.051100",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "5b5f05b5-3967-4e1a-a50a-249a604d6e80",
+      "date": "2019-08-28 07:30:22",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "You had all the good suggestions!!",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566948622.050900",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "bddd9bbb-5c26-4a94-aa1c-a2407b4e57f3",
+      "date": "2019-08-28 07:30:02",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "You\u2019re very welcome.  Glad I could help\u2026 somewhat.  You figured it out on your own though!",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566948602.050700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "0ea967d1-968a-4ddc-8f19-65765be0754a",
+      "date": "2019-08-28 07:29:51",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Nice going!",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566948591.050500",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "4ed9d25e-58e2-472e-9751-82344edb942b",
+      "date": "2019-08-28 07:29:34",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "oh Jeez lol",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566948574.050300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "e1df232c-3667-412a-9025-1691e956f55b",
+      "date": "2019-08-28 07:28:48",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Great News!   Got it working.  There seems to be a recursive constraint on versions error.  I had to keep updating the requirements list.  I updated tensorflow per your suggestion, but keras was not up to date so I went thorugh all the requirements again and tensorflow one last time and it all worked!!  YOU ARE AWESOME!!! THANK YOU FOR CONTINUALLY WORKING WITH ME!!!!!!",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566948528.050100",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "fee46da2-30b0-4f5f-bb92-f014be0b2363",
+      "date": "2019-08-28 07:15:33",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "which main thread?",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566947733.049800",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "3816167d-96b7-4254-9d47-e4f6c6c613db",
+      "date": "2019-08-28 07:15:17",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "put what on main thread?",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566947717.049600",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "6f25bc05-887b-482d-a556-3c159b14c0ac",
+      "date": "2019-08-28 07:14:27",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "I was going to look into finding an ubuntu emulator",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566947667.049400",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "ad6645c5-5954-4b2a-8e9a-685661e86b66",
+      "date": "2019-08-28 07:14:05",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "i can easily go back to anaconda - I had no idea how to integrate it with flask, git and sublime - youtubes I found were for mac and not windows but I can research more",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566947645.049200",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "4443cbcf-6bad-4792-8929-e75ae25014d8",
+      "date": "2019-08-28 07:12:23",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "anaconda cloud has tf 1.14.0",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566947543.049000",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "c8047460-d404-4635-b4fc-8e8695cb69db",
+      "date": "2019-08-28 06:57:02",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Put this on the main thread. I can only see it.",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566946622.048700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "aa0ee919-d172-42b4-a72d-cb68c1bab49e",
+      "date": "2019-08-28 06:56:39",
+      "edited": {
+        "ts": "1566946819.000000",
+        "user": "UMJDWKLF8"
+      },
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Try doing just pip install -U tensorflow",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566946599.048500",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "b6c4cab4-323a-4f77-b075-d27d61a6fee0",
+      "date": "2019-08-28 06:56:28",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Did anaconda come with TF? I would have left it.",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566946588.048300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "TensorFlow: Build from source \u00a0|\u00a0 TensorFlow",
+          "from_url": "https://www.tensorflow.org/install/install_sources#common_installation_problems",
+          "id": 1,
+          "image_bytes": 17046,
+          "image_height": 250,
+          "image_url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "image_width": 444,
+          "original_url": "https://www.tensorflow.org/install/install_sources#common_installation_problems",
+          "service_icon": "https://www.gstatic.com/devrel-devsite/ve2c68b23f5e29751008d397cc8690e486e2178af7b2d0f25bca3882168f886c9/tensorflow/images/apple-touch-icon-180x180.png",
+          "service_name": "TensorFlow",
+          "title": "Build from source \u00a0|\u00a0 TensorFlow",
+          "title_link": "https://www.tensorflow.org/install/install_sources#common_installation_problems"
+        }
+      ],
+      "client_msg_id": "d4f6ffdf-cd1a-422a-93e4-d7a878f884de",
+      "date": "2019-08-28 06:44:53",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Uninstalling tensorflow-1.14.0:\n      Successfully uninstalled tensorflow-1.14.0\nSuccessfully installed setuptools-39.1.0 tensorboard-1.9.0 tensorflow-1.9.0\n\n(venv) C:\\Users\\Steve_GA\\Documents\\GitHub\\keras-flask-deploy-webapp&gt;python app.py\nUsing TensorFlow backend.\nTraceback (most recent call last):\n  File \"c:\\users\\...\\myproject\\venv\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 58, in &lt;module&gt;\n    from tensorflow.python.pywrap_tensorflow_internal import *\n  File \"c:\\users\\...\\myproject\\venv\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow_internal.py\", line 35, in &lt;module&gt;\n    _pywrap_tensorflow_internal = swig_import_helper()\n  File \"c:\\users\\...\\myproject\\venv\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow_internal.py\", line 30, in swig_import_helper\n    _mod = imp.load_module('_pywrap_tensorflow_internal', fp, pathname, description)\n  File \"C:\\Users\\Steve_GA\\AppData\\Local\\Programs\\Python\\Python37\\lib\\imp.py\", line 242, in load_module\n    return load_dynamic(name, filename, file)\n  File \"C:\\Users\\Steve_GA\\AppData\\Local\\Programs\\Python\\Python37\\lib\\imp.py\", line 342, in load_dynamic\n    return _load(spec)\nImportError: DLL load failed: The specified module could not be found.\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"app.py\", line 10, in &lt;module&gt;\n    from keras.applications.imagenet_utils import preprocess_input, decode_predictions\n  File \"c:\\users\\...\\myproject\\venv\\lib\\site-packages\\keras\\__init__.py\", line 3, in &lt;module&gt;\n    from . import utils\n  File \"c:\\users\\...\\myproject\\venv\\lib\\site-packages\\keras\\utils\\__init__.py\", line 6, in &lt;module&gt;\n    from . import conv_utils\n  File \"c:\\users\\...\\myproject\\venv\\lib\\site-packages\\keras\\utils\\conv_utils.py\", line 9, in &lt;module&gt;\n    from .. import backend as K\n  File \"c:\\users\\...\\myproject\\venv\\lib\\site-packages\\keras\\backend\\__init__.py\", line 1, in &lt;module&gt;\n    from .load_backend import epsilon\n  File \"c:\\users\\...\\myproject\\venv\\lib\\site-packages\\keras\\backend\\load_backend.py\", line 89, in &lt;module&gt;\n    from .tensorflow_backend import *\n  File \"c:\\users\\...\\myproject\\venv\\lib\\site-packages\\keras\\backend\\tensorflow_backend.py\", line 5, in &lt;module&gt;\n    import tensorflow as tf\n  File \"c:\\users\\...\\myproject\\venv\\lib\\site-packages\\tensorflow\\__init__.py\", line 22, in &lt;module&gt;\n    from tensorflow.python import pywrap_tensorflow  # pylint: disable=unused-import\n  File \"c:\\users\\...\\myproject\\venv\\lib\\site-packages\\tensorflow\\python\\__init__.py\", line 49, in &lt;module&gt;\n    from tensorflow.python import pywrap_tensorflow\n  File \"c:\\users\\...\\myproject\\venv\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 74, in &lt;module&gt;\n    raise ImportError(msg)\nImportError: Traceback (most recent call last):\n  File \"c:\\users\\...\\myproject\\venv\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 58, in &lt;module&gt;\n    from tensorflow.python.pywrap_tensorflow_internal import *\n  File \"c:\\users\\...\\myproject\\venv\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow_internal.py\", line 35, in &lt;module&gt;\n    _pywrap_tensorflow_internal = swig_import_helper()\n  File \"c:\\users\\...\\myproject\\venv\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow_internal.py\", line 30, in swig_import_helper\n    _mod = imp.load_module('_pywrap_tensorflow_internal', fp, pathname, description)\n  File \"C:\\Users\\Steve_GA\\AppData\\Local\\Programs\\Python\\Python37\\lib\\imp.py\", line 242, in load_module\n    return load_dynamic(name, filename, file)\n  File \"C:\\Users\\Steve_GA\\AppData\\Local\\Programs\\Python\\Python37\\lib\\imp.py\", line 342, in load_dynamic\n    return _load(spec)\nImportError: DLL load failed: The specified module could not be found.\n\n\nFailed to load the native TensorFlow runtime.\n\nSee <https://www.tensorflow.org/install/install_sources#common_installation_problems>\n",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566945893.047200",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "cc9aeab5-4b62-4ec7-a3e8-2a84732c1562",
+      "date": "2019-08-28 06:43:40",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Not sure what to do at this point? Any suggestions will help?  Any successful Windows users?\n\nAnaconda editor and integration with Git will take time to learn, so given the time constraints I went back to reinstalling python 3.74 (64 bit) successfully ran Flask with two routes so tried this classification model again. Tensorflow install was successful but app.py failed.  Ran updated wheel - here is the log:\nAny help or direction would be great - thanks, steve",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566945820.047000",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "40e928a3-2478-4939-8c31-d548b3fea3ae",
+      "date": "2019-08-28 04:58:12",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Anaconda defaulted to Anaconda 3 on the cloud. trying to find how to integrate with what I have - any suggestions?",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566939492.046600",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "aa9009a7-2531-4185-99f6-dc00db23d7ff",
+      "date": "2019-08-28 04:50:00",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "just loaded Anaconda - any quick start suggestions to work with github / sublime",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566939000.046400",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "982fc5b8-3d87-49be-bff4-195e3e8d2e3a",
+      "date": "2019-08-28 04:38:42",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "I was mistaken that TF was not installable in 3.7.  It is now.",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566938322.046200",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "98b66317-334f-458b-8e0e-20ed1886661f",
+      "date": "2019-08-28 04:38:31",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "yes 3.7 of Anaconda",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566938311.046000",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "63acb566-b928-40d0-a9b8-d354a8c64f0d",
+      "date": "2019-08-28 04:28:49",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Will do",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566937729.045800",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "5bfec90e-c92f-42a0-a0fe-b57c7022138a",
+      "date": "2019-08-28 04:27:54",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "It's okay that anaconda is version 3.7 of python?",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566937674.045600",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "48589dce-4eac-472d-9405-d6ec0e274ea8",
+      "date": "2019-08-28 04:23:52",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "It'll also replace your pip. Completely uninstall all python distros first then install anaconda.",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566937432.045400",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "a4c19156-bc45-4a57-ad4e-d9714a0b2cff",
+      "date": "2019-08-28 04:23:28",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Install anaconda. It's basically a collection of scientific packages in Python already available so you don't need pip install",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566937408.045200",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "8e79f828-dbe8-487e-b272-c1890a9b2b6e",
+      "date": "2019-08-28 04:15:15",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "now that I'm on 3.6 python?",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566936915.045000",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "e948990a-0f33-4129-92e5-cbd02539c18c",
+      "date": "2019-08-28 04:14:04",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Do you think I should go back to 3.7 and try this all with the 64 bit version that was hanging me up, or do you think I should try an earlier Wheel for Numpy?",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566936844.044800",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "d423c49f-8ef4-4b0c-937c-ada70e4ddd22",
+      "date": "2019-08-28 04:06:55",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Went through the entire process again and this is what I'm getting.  Still won't accept the wheel - is there another Numpy wheel that might work?\n\n(venv) C:\\Users\\Steve_GA\\Documents\\GitHub\\keras-flask-deploy-webapp&gt;python app.py\nTraceback (most recent call last):\n  File \"app.py\", line 7, in &lt;module&gt;\n    import numpy as np\nModuleNotFoundError: No module named 'numpy'\n\n(venv) C:\\Users\\Steve_GA\\Documents\\GitHub\\keras-flask-deploy-webapp&gt;pip install C:\\Users\\Steve_GA\\Downloads\\numpy-1.17.1+mkl-cp37-cp37m-win_amd64.whl\nERROR: numpy-1.17.1+mkl-cp37-cp37m-win_amd64.whl is not a supported wheel on this platform.",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566936415.044500",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "700ce486-ab1c-4cca-898a-69319afff170",
+      "date": "2019-08-28 03:43:01",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Nope, not a problem. Win32 is the standard Windows API, as distinct from other APIs such as, for example, Win16, POSIX, or the Windows kernel API. 64-bit Windows did not introduce a new API, so there is no Win64, just 64-bit Win32. \u2013 Harry Johnston Mar 15 '16 at 22:04",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566934981.044300",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Stack Overflow: Python3.4 installed on 64 bit machine is indicated as 'on win32', what does this mean?",
+          "from_url": "https://stackoverflow.com/questions/36012653/python3-4-installed-on-64-bit-machine-is-indicated-as-on-win32-what-does-this",
+          "id": 1,
+          "original_url": "https://stackoverflow.com/questions/36012653/python3-4-installed-on-64-bit-machine-is-indicated-as-on-win32-what-does-this",
+          "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+          "service_name": "Stack Overflow",
+          "text": "I only lately realized that my Python3.4 installation on Windows 7-64bit which I have been using successfully (with many 64 bit add-ons) says 'on win32'. What does this mean? Is this a problem? C:&gt;",
+          "thumb_height": 316,
+          "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+          "thumb_width": 316,
+          "title": "Python3.4 installed on 64 bit machine is indicated as 'on win32', what does this mean?",
+          "title_link": "https://stackoverflow.com/questions/36012653/python3-4-installed-on-64-bit-machine-is-indicated-as-on-win32-what-does-this"
+        }
+      ],
+      "client_msg_id": "c03d5aab-9d73-47e1-a805-661d4fef9886",
+      "date": "2019-08-28 03:42:24",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "<https://stackoverflow.com/questions/36012653/python3-4-installed-on-64-bit-machine-is-indicated-as-on-win32-what-does-this>",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566934944.044000",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "b649c99d-465d-479b-bdef-c1f10db96f46",
+      "date": "2019-08-28 03:42:19",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "This stackoverflow indicates the win32 is not an issue, just Microsoft",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566934939.043800",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "a19ab00e-23f3-4311-9980-c53e26b5e753",
+      "date": "2019-08-28 03:36:36",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Of course I've never used Anaconda so that will be a new learning curve.  Does it work with Git and Sublime or is it all different?  I'm new to Git and Sublime so I'm a bit lost to the direction I should take and how best to recover?",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566934596.043600",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "7a7c1651-e596-4339-b1d5-190722788275",
+      "date": "2019-08-28 03:34:29",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Do you know why python is not recognizing this wheel?  I looked at Anaconda and it wants to down load Python 3.7.  Do you think I'll have similar issues?",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566934469.043400",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "dcbf2001-a79a-4972-bd18-157f72e1d0f0",
+      "date": "2019-08-28 03:23:32",
+      "team": "TMJBA78PQ",
+      "text": "I\u2019ll now switch to 3.7 :thumbsup:",
+      "ts": "1566933812.043300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "087d7c98-77f5-4436-ab0a-23b13aafe7d2",
+      "date": "2019-08-28 03:23:19",
+      "team": "TMJBA78PQ",
+      "text": "I personally like to keep up to date.  I\u2019ve been on 3.6 for some time since Tensorflow was not supported in 3.7 for a while.  It has been introduced now as of January of this year.",
+      "ts": "1566933799.043100",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "3781f610-5a4f-4d20-8965-360c90fad64e",
+      "date": "2019-08-28 03:22:44",
+      "team": "TMJBA78PQ",
+      "text": "Agreed.",
+      "ts": "1566933764.042300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "41035171-f642-49a5-8d79-e0a66f3e407e",
+      "date": "2019-08-28 03:19:57",
+      "team": "TMJBA78PQ",
+      "text": "Though it was for some specific stuff like using ffmpeg.",
+      "ts": "1566933597.042100",
+      "type": "message",
+      "user": "UMGKEDUV6",
+      "username": "thibo.jacques"
+    },
+    {
+      "client_msg_id": "fc3eafe6-5297-4b43-852b-4a52f87c97ee",
+      "date": "2019-08-28 03:19:28",
+      "team": "TMJBA78PQ",
+      "text": "Yeah, I was just running into some issues when I was doing AI research. 3.6 had been out for a while and I had to use 3.5 for some tasks and 3.4 for others iirc.",
+      "ts": "1566933568.041700",
+      "type": "message",
+      "user": "UMGKEDUV6",
+      "username": "thibo.jacques"
+    },
+    {
+      "client_msg_id": "c6a86734-a167-4e7b-a383-fa136b4317d0",
+      "date": "2019-08-28 03:19:00",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "I successfully uninstalled Numpy but the platform is not recognized.. Should I uninstall and reinstall all of the other requirements?\n\n\n(venv) C:\\Users\\Steve_GA\\Documents\\GitHub\\keras-flask-deploy-webapp&gt;python app.py\nTraceback (most recent call last):\n  File \"app.py\", line 7, in &lt;module&gt;\n    import numpy as np\nModuleNotFoundError: No module named 'numpy'\n\n(venv) C:\\Users\\Steve_GA\\Documents\\GitHub\\keras-flask-deploy-webapp&gt;python\nPython 3.6.8 (tags/v3.6.8:3c6b436a57, Dec 24 2018, 00:16:47) [MSC v.1916 64 bit (AMD64)] on win32\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n&gt;&gt;&gt; ^Z\n\n\n(venv) C:\\Users\\Steve_GA\\Documents\\GitHub\\keras-flask-deploy-webapp&gt;pip install C:\\Users\\Steve_GA\\Downloads\\numpy-1.17.1+mkl-cp37-cp37m-win_amd64.whl\nERROR: numpy-1.17.1+mkl-cp37-cp37m-win_amd64.whl is not a supported wheel on this platform.",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566933540.041100",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "42949b69-513a-4047-ad51-f341b5c3ab78",
+      "date": "2019-08-28 03:17:45",
+      "team": "TMJBA78PQ",
+      "text": "Like Typing was introduced in 3.5.  That was enough for me to move from Python 2.7 to that",
+      "ts": "1566933465.040000",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "ade731b3-ed99-40e3-9867-f44a654e8321",
+      "date": "2019-08-28 03:17:30",
+      "team": "TMJBA78PQ",
+      "text": "It\u2019s good to keep up to date IMHO.  There are language features that get included in all the time that are useful",
+      "ts": "1566933450.039600",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "b55aad77-d485-4c73-b007-0d0cbfece0f5",
+      "date": "2019-08-28 03:16:42",
+      "team": "TMJBA78PQ",
+      "text": "Are most packages good for 3.7?",
+      "ts": "1566933402.039200",
+      "type": "message",
+      "user": "UMGKEDUV6",
+      "username": "thibo.jacques"
+    },
+    {
+      "client_msg_id": "d794a7a3-724f-4664-afe5-6a4001ab39ee",
+      "date": "2019-08-28 03:16:27",
+      "team": "TMJBA78PQ",
+      "text": "I've not been programming for over a year so I'm not really up to date with the versions.",
+      "ts": "1566933387.038800",
+      "type": "message",
+      "user": "UMGKEDUV6",
+      "username": "thibo.jacques"
+    },
+    {
+      "client_msg_id": "c8293981-9f07-4130-98eb-4eaafe9a2e03",
+      "date": "2019-08-28 03:15:49",
+      "team": "TMJBA78PQ",
+      "text": "Do you think people should be using 3.7 at this point?",
+      "ts": "1566933349.038100",
+      "type": "message",
+      "user": "UMGKEDUV6",
+      "username": "thibo.jacques"
+    },
+    {
+      "client_msg_id": "da563496-751f-4e26-9d2f-7ded221faa6d",
+      "date": "2019-08-28 03:15:20",
+      "team": "TMJBA78PQ",
+      "text": "either way, we figured out the error and it was due to incompatible architecture",
+      "ts": "1566933320.037700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "43f30b46-f866-43f6-9e3c-20f9c22f6f21",
+      "date": "2019-08-28 03:15:12",
+      "team": "TMJBA78PQ",
+      "text": "I had to look it up.  This was going on previous knowledge from 2018.  It wasn\u2019t available yet",
+      "ts": "1566933312.037400",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "eee5dd92-1125-4a88-8e54-cfe543bf8c19",
+      "date": "2019-08-28 03:14:59",
+      "team": "TMJBA78PQ",
+      "text": "You\u2019re right, it is now",
+      "ts": "1566933299.037100",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "0f7b536d-1249-47fe-bdbb-29582efa1e58",
+      "date": "2019-08-28 03:13:19",
+      "team": "TMJBA78PQ",
+      "text": "<@UMJDWKLF8>",
+      "ts": "1566933199.036900",
+      "type": "message",
+      "user": "UMGKEDUV6",
+      "username": "thibo.jacques"
+    },
+    {
+      "client_msg_id": "49b5651a-b2ea-4ece-a4e8-5b5e75364eab",
+      "date": "2019-08-28 03:13:04",
+      "team": "TMJBA78PQ",
+      "text": "Cause I'm pretty sure I just installed it for 3.7.4",
+      "ts": "1566933184.036600",
+      "type": "message",
+      "user": "UMGKEDUV6",
+      "username": "thibo.jacques"
+    },
+    {
+      "client_msg_id": "f4373f06-8352-477e-bfd3-6414a951b090",
+      "date": "2019-08-28 03:12:28",
+      "team": "TMJBA78PQ",
+      "text": "Are you sure that TF isn't available for 3.7 yet?",
+      "ts": "1566933148.036100",
+      "type": "message",
+      "user": "UMGKEDUV6",
+      "username": "thibo.jacques"
+    },
+    {
+      "client_msg_id": "dc557e7a-d8e5-404d-bbb0-1e182faeab89",
+      "date": "2019-08-28 03:06:03",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Actully I deleted the old version of python so in the python directory is only the 3.6.8 - I'll run the new Numpy update and see how it goes - back in a minute",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566932763.035500",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "6ed40791-e355-4a7d-9b7b-35fd4553df03",
+      "date": "2019-08-28 03:01:58",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": ":thumbsup:",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566932518.035300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "ef254881-51ee-4304-afe0-8506ba7befc2",
+      "date": "2019-08-28 03:01:53",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "next time I'll us anaconda.. let me try this fix --- Thanks",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566932513.035100",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "53fb4971-52b1-40e4-916e-690ff9698e16",
+      "date": "2019-08-28 03:01:47",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "upgrading will not resolve anything because you\u2019ll have both Python versions on your computer",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566932507.034900",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "02365082-59aa-4e34-bd28-879f9150d126",
+      "date": "2019-08-28 03:01:36",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "You should *uninstall* then *reinstall*",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566932496.034700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "8a42de91-d308-4012-88d7-d9d37a04b5c0",
+      "date": "2019-08-28 03:01:12",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "it has this all sorted out",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566932472.034500",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "507efc5d-d93e-404b-b39a-0ccf82b2e82b",
+      "date": "2019-08-28 03:01:09",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "For some reason it thinks I'm Win32 -\neven though my Python is running 3.6.8 and it is 64 bit\n\n(venv) C:\\Users\\Steve_GA\\Documents\\GitHub\\keras-flask-deploy-webapp&gt;python\nPython 3.6.8 (tags/v3.6.8:3c6b436a57, Dec 24 2018, 00:16:47) [MSC v.1916 64 bit (AMD64)] on win32\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n&gt;&gt;&gt;",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566932469.034300",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "56441dda-47b5-42c4-862d-09f8026779ac",
+      "date": "2019-08-28 03:01:07",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Alternatively, I would recommend you install Anaconda",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566932467.034100",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "02af1310-19c8-4c61-8c08-48a845e0dfb0",
+      "date": "2019-08-28 03:00:55",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "download that and install it",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566932455.033900",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "81003e13-2764-4be4-af02-ec2ce33830bb",
+      "date": "2019-08-28 03:00:51",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Choose 1.17.1+mkl cp37 amd64",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566932451.033700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "2365fdd0-24d2-4315-9bea-80471075adec",
+      "date": "2019-08-28 03:00:41",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "<https://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy>",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566932441.033500",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "0fe7f1b0-155d-491e-9476-7fe81beae5eb",
+      "date": "2019-08-28 03:00:21",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "NumPy has a problem installing on Windows.  You\u2019ll need to install the wheel",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566932421.033300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "0f86aef3-0235-4dda-b95a-6bc19816cd07",
+      "date": "2019-08-28 02:59:26",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "I successfully upgraded... Successfully installed absl-py-0.8.0 astor-0.8.0 gast-0.2.2 google-pasta-0.1.7 grpcio-1.23.0 markdown-3.1.1 protobuf-3.9.1 setuptools-41.2.0 tensorboard-1.14.0 tensorflow-1.14.0 tensorflow-estimator-1.14.0 termcolor-1.1.0 wheel-0.33.6 wrapt-1.11.2\n\n(venv) C:\\Users\\Steve_GA\\Documents\\GitHub\\keras-flask-deploy-webapp&gt;python app.py\nTraceback (most recent call last):\n  File \"app.py\", line 7, in &lt;module&gt;\n    import numpy as np\n  File \"C:\\Users\\Steve_GA\\Siraj_Course\\myproject\\venv\\lib\\site-packages\\numpy\\__init__.py\", line 140, in &lt;module&gt;\n    from . import _distributor_init\n  File \"C:\\Users\\Steve_GA\\Siraj_Course\\myproject\\venv\\lib\\site-packages\\numpy\\_distributor_init.py\", line 26, in &lt;module&gt;\n    WinDLL(os.path.abspath(filename))\n  File \"C:\\Users\\Steve_GA\\AppData\\Local\\Programs\\Python\\Python36\\lib\\ctypes\\__init__.py\", line 348, in __init__\n    self._handle = _dlopen(self._name, mode)\nOSError: [WinError 193] %1 is not a valid Win32 application",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566932366.033100",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "e095b40a-f312-406c-a493-e2f30901c9bc",
+      "date": "2019-08-28 02:58:59",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Hi,",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566932339.032900",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "36334cbd-aeaa-463d-ab74-cbe0ee0b9616",
+      "date": "2019-08-28 01:46:08",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Got it ! :slightly_smiling_face:",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566927968.032200",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "aff665a5-7a45-4aca-87e6-9db70bb5c5b5",
+      "date": "2019-08-28 01:46:01",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "when you do pip install tensorflow, it should finally work",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566927961.032000",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "be14efc4-ccda-4576-ae3b-cd8cfdca11d2",
+      "date": "2019-08-28 01:45:54",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Please install Python 3.6 + 64-bit",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566927954.031800",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "199b551f-55b3-45eb-8165-96e62e9d6853",
+      "date": "2019-08-28 01:45:50",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "lol you\u2019re very welcome :thumbsup: .  I\u2019ve been through all of this before so I know where to look",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566927950.031600",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "cb683ca7-b45d-419f-a030-60baaba3c383",
+      "date": "2019-08-28 01:45:17",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "THANK YOU!! - It's all learning.  You were incredibly helpful!!!!",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566927917.031400",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "83191cec-60ad-45f9-affa-734a5bb831da",
+      "date": "2019-08-28 01:44:51",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "yeah lol.",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566927891.031200",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "8c65fc17-8c63-49d1-9e44-a110ada4a5a7",
+      "date": "2019-08-28 01:44:35",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "I typed python and it says msc v.1916 32 bit - crap I presume I uninstall that version and go to python 3.6 with a 64 bit version",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566927875.031000",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "9fd8b2d2-0a2a-4a05-b954-9f9fed5edb3c",
+      "date": "2019-08-28 01:44:34",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "it\u2019ll tell you what version you\u2019re running",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566927874.030800",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "d19b7059-73c5-45d4-969d-d3711371f47d",
+      "date": "2019-08-28 01:44:30",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "When you type in Python and push ENTER",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566927870.030600",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "f0e2b0d5-af58-474f-84d3-5670d84ef316",
+      "date": "2019-08-28 01:42:58",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "I thought I installed a 64 bit version - how would i check that?",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566927778.030400",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "04656238-99d4-4929-bbd2-caa4a59cdd5c",
+      "date": "2019-08-28 01:40:20",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "\u2026 so this actually explains why you can\u2019t install it at all.",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566927620.030200",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "b7accc0b-d0b5-4646-a655-ce4b722fbde3",
+      "date": "2019-08-28 01:39:11",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Because if you\u2019re running 32-bit, Tensorflow is not supported for any 32-bit architecture",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566927551.030000",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "7c561a25-9217-4b4d-8d91-f8a146e47213",
+      "date": "2019-08-28 01:38:48",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Curious - are you running 32-bit or 64-bit Python??",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566927528.029800",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "dc57233b-e02f-4b12-ab9c-4904d175da14",
+      "date": "2019-08-28 01:37:58",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "I got this so I thinking I should go back to Python 3.6 to be safe.  Thanks.\n(venv) C:\\Users\\Steve_GA\\Downloads&gt;pip install tensorflow-1.9.0-cp37-cp37m-win_amd64.whl\nERROR: tensorflow-1.9.0-cp37-cp37m-win_amd64.whl is not a supported wheel on this platform.",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566927478.029600",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "ecd16f65-cd34-4d6b-a7a9-3b9a61284c56",
+      "date": "2019-08-28 01:31:28",
+      "team": "TMJBA78PQ",
+      "text": "Please note that this is TF 1.9.0.  2.0 is currently in alpha and in testing so it\u2019s unknown when 2.0 will officially come out but it should be soon",
+      "ts": "1566927088.029300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "840b56e3-2a54-44a6-ba09-331a01718621",
+      "date": "2019-08-28 01:22:57",
+      "team": "TMJBA78PQ",
+      "text": "I do know TF for Windows supports 3.6",
+      "ts": "1566926577.028700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "96698ee1-30d9-445e-91c0-d4f855d079c5",
+      "date": "2019-08-28 01:22:47",
+      "team": "TMJBA78PQ",
+      "text": "You can also load in Python 3.6.",
+      "ts": "1566926567.028400",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "9f2eb9e8-0990-4c98-81a4-224ad10e0623",
+      "date": "2019-08-28 01:22:31",
+      "parent_user_id": "UMJDWKLF8",
+      "team": "TMJBA78PQ",
+      "text": "Okay.  What is your suggestion.  Should I load an earlier version of Python?",
+      "thread_ts": "1566926475.026700",
+      "ts": "1566926551.028000",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "d600373b-d121-4261-b3a9-2ddd1957c8bb",
+      "date": "2019-08-28 01:22:26",
+      "latest_reply": "1566949748.052100",
+      "replies": [
+        {
+          "ts": "1566927478.029600",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566927528.029800",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566927551.030000",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566927620.030200",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566927778.030400",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566927870.030600",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566927874.030800",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566927875.031000",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566927891.031200",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566927917.031400",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566927950.031600",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566927954.031800",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566927961.032000",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566927968.032200",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566932339.032900",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566932366.033100",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566932421.033300",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566932441.033500",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566932451.033700",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566932455.033900",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566932467.034100",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566932469.034300",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566932472.034500",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566932496.034700",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566932507.034900",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566932513.035100",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566932518.035300",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566932763.035500",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566933540.041100",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566934469.043400",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566934596.043600",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566934939.043800",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566934944.044000",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566934981.044300",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566936415.044500",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566936844.044800",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566936915.045000",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566937408.045200",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566937432.045400",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566937674.045600",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566937729.045800",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566938311.046000",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566938322.046200",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566939000.046400",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566939492.046600",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566945820.047000",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566945893.047200",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566946588.048300",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566946599.048500",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566946622.048700",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566947543.049000",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566947645.049200",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566947667.049400",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566947717.049600",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566947733.049800",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566948528.050100",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566948574.050300",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566948591.050500",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566948602.050700",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566948622.050900",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566948771.051100",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566949098.051300",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566949301.051700",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566949318.051900",
+          "user": "UMJDWKLF8"
+        },
+        {
+          "ts": "1566949748.052100",
+          "user": "UMBPA65MY"
+        }
+      ],
+      "reply_count": 65,
+      "reply_users": [
+        "UMBPA65MY",
+        "UMJDWKLF8"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "Download the cp37 file to your computer, then in your Windows Command Prompt, navigate to where you downloaded this file and do `pip install tensorflow\u20111.9.0\u2011cp37\u2011cp37m\u2011win_amd64.whl`",
+      "thread_ts": "1566926546.027900",
+      "ts": "1566926546.027900",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "05336653-4751-4475-9a92-2fd64e659c04",
+      "date": "2019-08-28 01:22:19",
+      "parent_user_id": "UM4QD80TC",
+      "team": "TMJBA78PQ",
+      "text": "no apology neede. Just wanted to help",
+      "thread_ts": "1566926240.024700",
+      "ts": "1566926539.027600",
+      "type": "message",
+      "user": "UM4QD80TC",
+      "username": "mlc"
+    },
+    {
+      "client_msg_id": "205c079f-8a69-4eab-9574-89b0f4258b60",
+      "date": "2019-08-28 01:22:00",
+      "team": "TMJBA78PQ",
+      "text": "<https://www.lfd.uci.edu/~gohlke/pythonlibs/#tensorflow>",
+      "ts": "1566926520.027100",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "99f4c5b9-5b01-48d5-b8ff-470b3ca27e1a",
+      "date": "2019-08-28 01:21:21",
+      "team": "TMJBA78PQ",
+      "text": "I didn\u2019t realize you were using Python 3.7",
+      "ts": "1566926481.026900",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "c5363152-c190-457b-99b6-365e4d9ef6ed",
+      "date": "2019-08-28 01:21:15",
+      "latest_reply": "1566926551.028000",
+      "replies": [
+        {
+          "ts": "1566926551.028000",
+          "user": "UMBPA65MY"
+        }
+      ],
+      "reply_count": 1,
+      "reply_users": [
+        "UMBPA65MY"
+      ],
+      "reply_users_count": 1,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "<@UMBPA65MY> This is because Windows and Tensorflow for Python 3.7 are not available publicly yet",
+      "thread_ts": "1566926475.026700",
+      "ts": "1566926475.026700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "9e23ea56-5861-4e7d-aa70-5fc5edc5da6d",
+      "date": "2019-08-28 01:21:09",
+      "parent_user_id": "UM4QD80TC",
+      "team": "TMJBA78PQ",
+      "text": "I got it now. I'm so sorry.  I just figured it out.",
+      "thread_ts": "1566926240.024700",
+      "ts": "1566926469.026400",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "f2257379-ddbf-457d-b8d5-d30f0736d04a",
+      "date": "2019-08-28 01:20:44",
+      "parent_user_id": "UMBPA65MY",
+      "team": "TMJBA78PQ",
+      "text": "on a computer, hover the mouse over a message and you\u2019ll get dialog bubble or cloud looking icon. This will let you REPLY to that message in the same thread.   On a celphone client long press the message and you\u2019ll get a field to type the reply below",
+      "thread_ts": "1566926295.025800",
+      "ts": "1566926444.025900",
+      "type": "message",
+      "user": "UM4QD80TC",
+      "username": "mlc"
+    },
+    {
+      "client_msg_id": "32707288-ab1a-4b9e-9aec-c7bdcce1157b",
+      "date": "2019-08-28 01:18:15",
+      "latest_reply": "1566926444.025900",
+      "replies": [
+        {
+          "ts": "1566926444.025900",
+          "user": "UM4QD80TC"
+        }
+      ],
+      "reply_count": 1,
+      "reply_users": [
+        "UM4QD80TC"
+      ],
+      "reply_users_count": 1,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "Your not rude.  I learning.  I'll mindfull of that.  I'm new to Slack. My apologies. Thank you!",
+      "thread_ts": "1566926295.025800",
+      "ts": "1566926295.025800",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "66df02cd-baf4-495b-817b-2bd0dd404a86",
+      "date": "2019-08-28 01:17:20",
+      "edited": {
+        "ts": "1566926293.000000",
+        "user": "UM4QD80TC"
+      },
+      "latest_reply": "1566926539.027600",
+      "replies": [
+        {
+          "ts": "1566926469.026400",
+          "user": "UMBPA65MY"
+        },
+        {
+          "ts": "1566926539.027600",
+          "user": "UM4QD80TC"
+        }
+      ],
+      "reply_count": 2,
+      "reply_users": [
+        "UMBPA65MY",
+        "UM4QD80TC"
+      ],
+      "reply_users_count": 2,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "Not to be rude, just trying to be helpful. But in Slack, conversations of a topic are meant to be linked together in a thread but only if you click on the message and THEN reply to that message.  Rather than creating infinite number of new threads by commenting on the main board just following another thread. It\u2019s hard to follow the conversation otherwise if it is not in a single thread",
+      "thread_ts": "1566926240.024700",
+      "ts": "1566926240.024700",
+      "type": "message",
+      "user": "UM4QD80TC",
+      "username": "mlc"
+    },
+    {
+      "client_msg_id": "9c9d3eba-4ecb-41b3-abad-0e54aeec99e4",
+      "date": "2019-08-28 01:16:56",
+      "team": "TMJBA78PQ",
+      "text": "(venv) C:\\Users\\Steve_GA\\Documents\\GitHub\\keras-flask-deploy-webapp&gt;pip install tensorflow\nCollecting tensorflow\n ERROR: Could not find a version that satisfies the requirement tensorflow (from versions: none)\nERROR: No matching distribution found for tensorflow",
+      "ts": "1566926216.024200",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "f54dd53c-2cf8-47b3-90f4-11dc444f9916",
+      "date": "2019-08-28 01:16:33",
+      "edited": {
+        "ts": "1566926242.000000",
+        "user": "UMHUJVDGQ"
+      },
+      "parent_user_id": "UMBPA65MY",
+      "team": "TMJBA78PQ",
+      "text": "Try pip3 install tensorflow , should use pip3 command if your python is version 3.",
+      "thread_ts": "1566925934.020400",
+      "ts": "1566926193.023400",
+      "type": "message",
+      "user": "UMHUJVDGQ",
+      "username": "kyug.shim"
+    },
+    {
+      "client_msg_id": "f95b3c11-e926-4d6c-b6ce-4f81f5591094",
+      "date": "2019-08-28 01:15:51",
+      "team": "TMJBA78PQ",
+      "text": "unistall wrapt",
+      "ts": "1566926151.022500",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "b00652e7-7bdd-405d-b2e6-0e045852da9c",
+      "date": "2019-08-28 01:15:50",
+      "team": "TMJBA78PQ",
+      "text": "Show me the console code when you are installing Tensorflow.",
+      "ts": "1566926150.022400",
+      "type": "message",
+      "user": "UMFQKAG9J",
+      "username": "nilashisbladeroy"
+    },
+    {
+      "client_msg_id": "593198d9-1f6c-4145-abda-5e3b6dfeab3a",
+      "date": "2019-08-28 01:14:58",
+      "team": "TMJBA78PQ",
+      "text": "When I was installing I had to delete the 'wrapt' package.",
+      "ts": "1566926098.021600",
+      "type": "message",
+      "user": "UMFQKAG9J",
+      "username": "nilashisbladeroy"
+    },
+    {
+      "client_msg_id": "09482f43-023f-4fde-be0a-a53864adbda5",
+      "date": "2019-08-28 01:14:43",
+      "team": "TMJBA78PQ",
+      "text": "how do I do that?",
+      "ts": "1566926083.021200",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "ad4fc15e-60d0-490e-9203-dfd26476b637",
+      "date": "2019-08-28 01:14:31",
+      "team": "TMJBA78PQ",
+      "text": "no I didn't",
+      "ts": "1566926071.021000",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "57cee41d-464e-4a4e-8331-8846ee974d35",
+      "date": "2019-08-28 01:13:16",
+      "team": "TMJBA78PQ",
+      "text": "Have you deleted the 'wrapt' package?",
+      "ts": "1566925996.020800",
+      "type": "message",
+      "user": "UMFQKAG9J",
+      "username": "nilashisbladeroy"
+    },
+    {
+      "client_msg_id": "3a5aa584-60db-4cd4-857f-437bf82546d6",
+      "date": "2019-08-28 01:12:14",
+      "latest_reply": "1566926193.023400",
+      "replies": [
+        {
+          "ts": "1566926193.023400",
+          "user": "UMHUJVDGQ"
+        }
+      ],
+      "reply_count": 1,
+      "reply_users": [
+        "UMHUJVDGQ"
+      ],
+      "reply_users_count": 1,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "Ran the pip install and it said it was \"Requirement already up-to-date:",
+      "thread_ts": "1566925934.020400",
+      "ts": "1566925934.020400",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "32ea4e2d-b328-481c-a1d5-f97b52197f66",
+      "date": "2019-08-28 01:09:28",
+      "team": "TMJBA78PQ",
+      "text": "Python version is 3.7.4",
+      "ts": "1566925768.019500",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "Stack Overflow: TensorFlow not found using pip",
+          "from_url": "https://stackoverflow.com/questions/38896424/tensorflow-not-found-using-pip",
+          "id": 1,
+          "original_url": "https://stackoverflow.com/questions/38896424/tensorflow-not-found-using-pip",
+          "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+          "service_name": "Stack Overflow",
+          "text": "I'm trying to intstall TensorFlow using pip: $ pip install tensorflow --user Collecting tensorflow Could not find a version that satisfies the requirement tensorflow (from versions: ) No matching",
+          "thumb_height": 316,
+          "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+          "thumb_width": 316,
+          "title": "TensorFlow not found using pip",
+          "title_link": "https://stackoverflow.com/questions/38896424/tensorflow-not-found-using-pip"
+        }
+      ],
+      "client_msg_id": "4feea59c-94b4-4891-ac4c-9988ed1ea5a9",
+      "date": "2019-08-28 01:06:34",
+      "parent_user_id": "UMBPA65MY",
+      "team": "TMJBA78PQ",
+      "text": "I can\u2019t speak for this solution as I haven\u2019t tried it. But have you googled the error \u201cpip install tensorflow could not find a version that satisfies the requirement\u201d and clicked on the first result link? Some of the comments there maybe can help (like having to do an upgrade with pip)  <https://stackoverflow.com/questions/38896424/tensorflow-not-found-using-pip>",
+      "thread_ts": "1566924708.016000",
+      "ts": "1566925594.018900",
+      "type": "message",
+      "user": "UM4QD80TC",
+      "username": "mlc"
+    },
+    {
+      "client_msg_id": "cb411f75-c284-4a20-8656-6009c22a6547",
+      "date": "2019-08-28 01:05:47",
+      "team": "TMJBA78PQ",
+      "text": "Then try installing tensorflow again",
+      "ts": "1566925547.018700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "7f3d4618-bcd6-4192-97f1-d491ce92671a",
+      "date": "2019-08-28 01:05:34",
+      "team": "TMJBA78PQ",
+      "text": "pip install -U pip",
+      "ts": "1566925534.018300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "3b26d8e9-73cd-478b-a781-004f09d9a20b",
+      "date": "2019-08-28 01:05:26",
+      "team": "TMJBA78PQ",
+      "text": "Please upgrade pip",
+      "ts": "1566925526.017900",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "9d773f12-aa58-48db-8b6f-c61a1acb1c2b",
+      "date": "2019-08-28 01:05:22",
+      "team": "TMJBA78PQ",
+      "text": "Your version of pip is probably out of date",
+      "ts": "1566925522.017700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "55382C6F-1D51-4496-B243-E22B934B791D",
+      "date": "2019-08-28 01:02:51",
+      "team": "TMJBA78PQ",
+      "text": "Which version of python are you using ?",
+      "ts": "1566925371.017200",
+      "type": "message",
+      "user": "UMK17B4ES",
+      "username": "sivakumarsi"
+    },
+    {
+      "client_msg_id": "a27d1693-4d00-4375-a444-ce9c53cddae5",
+      "date": "2019-08-28 00:52:18",
+      "team": "TMJBA78PQ",
+      "text": "Any help will be helpful.  Thanks,",
+      "ts": "1566924738.016600",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "dd2e5445-4442-4960-853c-ca2d679ca935",
+      "date": "2019-08-28 00:52:01",
+      "team": "TMJBA78PQ",
+      "text": "I hope this is what you are looking for?",
+      "ts": "1566924721.016300",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "e4d7db1b-bc8f-477e-bbc9-975874cbeb0a",
+      "date": "2019-08-28 00:51:48",
+      "latest_reply": "1566925594.018900",
+      "replies": [
+        {
+          "ts": "1566925594.018900",
+          "user": "UM4QD80TC"
+        }
+      ],
+      "reply_count": 1,
+      "reply_users": [
+        "UM4QD80TC"
+      ],
+      "reply_users_count": 1,
+      "subscribed": false,
+      "team": "TMJBA78PQ",
+      "text": "After I cloned the repo \"Deploy Keras Model with Flask\" I installed the requirements one by one and Tensorflow gave me this error:\n(venv) C:\\Users\\Steve_GA\\Documents\\GitHub\\keras-flask-deploy-webapp&gt;pip install tensorflow\nCollecting tensorflow\n  ERROR: Could not find a version that satisfies the requirement tensorflow (from versions: none)\nERROR: No matching distribution found for tensorflow\n\nAdditionally, I wanted to see the error when I ran app.py to figure this out, I get these errors:\n(venv) C:\\Users\\Steve_GA\\Documents\\GitHub\\keras-flask-deploy-webapp&gt;python app.py\nUsing TensorFlow backend.\nTraceback (most recent call last):\n  File \"app.py\", line 10, in &lt;module&gt;\n    from keras.applications.imagenet_utils import preprocess_input, decode_predictions\n  File \"C:\\Users\\Steve_GA\\Siraj_Course\\myproject\\venv\\lib\\site-packages\\keras\\__init__.py\", line 3, in &lt;module&gt;\n    from . import utils\n  File \"C:\\Users\\Steve_GA\\Siraj_Course\\myproject\\venv\\lib\\site-packages\\keras\\utils\\__init__.py\", line 6, in &lt;module&gt;\n    from . import conv_utils\n  File \"C:\\Users\\Steve_GA\\Siraj_Course\\myproject\\venv\\lib\\site-packages\\keras\\utils\\conv_utils.py\", line 9, in &lt;module&gt;\n    from .. import backend as K\n  File \"C:\\Users\\Steve_GA\\Siraj_Course\\myproject\\venv\\lib\\site-packages\\keras\\backend\\__init__.py\", line 1, in &lt;module&gt;\n    from .load_backend import epsilon\n  File \"C:\\Users\\Steve_GA\\Siraj_Course\\myproject\\venv\\lib\\site-packages\\keras\\backend\\load_backend.py\", line 89, in &lt;module&gt;\n    from .tensorflow_backend import *\n  File \"C:\\Users\\Steve_GA\\Siraj_Course\\myproject\\venv\\lib\\site-packages\\keras\\backend\\tensorflow_backend.py\", line 5, in &lt;module&gt;\n    import tensorflow as tf\nModuleNotFoundError: No module named 'tensorflow'",
+      "thread_ts": "1566924708.016000",
+      "ts": "1566924708.016000",
+      "type": "message",
+      "user": "UMBPA65MY",
+      "username": "steve.doroff"
+    },
+    {
+      "client_msg_id": "6e4d6278-7572-463c-93e4-1709d0bf636e",
+      "date": "2019-08-25 16:57:22",
+      "team": "TMJBA78PQ",
+      "text": "Great set of tips and tricks for being a good ML developer",
+      "ts": "1566723442.010700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "522e9592-94d1-433f-97cf-19244668b3ac",
+      "date": "2019-08-25 16:57:07",
+      "display_as_bot": false,
+      "files": [
+        {
+          "created": 1566723426,
+          "display_as_bot": false,
+          "editable": false,
+          "external_type": "",
+          "filetype": "pdf",
+          "has_rich_preview": false,
+          "id": "FMPE62H88",
+          "is_external": false,
+          "is_public": true,
+          "is_starred": false,
+          "mimetype": "application/pdf",
+          "mode": "hosted",
+          "name": "python_pro_tips_book.pdf",
+          "permalink": "https://machinelearni-ksf7601.slack.com/files/UMJDWKLF8/FMPE62H88/python_pro_tips_book.pdf",
+          "permalink_public": "https://slack-files.com/TMJBA78PQ-FMPE62H88-9bb86ffddc",
+          "pretty_type": "PDF",
+          "public_url_shared": false,
+          "size": 2158914,
+          "thumb_pdf": "https://files.slack.com/files-tmb/TMJBA78PQ-FMPE62H88-855bba6e17/python_pro_tips_book_thumb_pdf.png",
+          "thumb_pdf_h": 990,
+          "thumb_pdf_w": 660,
+          "timestamp": 1566723426,
+          "title": "python_pro_tips_book.pdf",
+          "url_private": "https://files.slack.com/files-pri/TMJBA78PQ-FMPE62H88/python_pro_tips_book.pdf",
+          "url_private_download": "https://files.slack.com/files-pri/TMJBA78PQ-FMPE62H88/download/python_pro_tips_book.pdf",
+          "user": "UMJDWKLF8",
+          "username": ""
+        }
+      ],
+      "reactions": [
+        {
+          "count": 7,
+          "name": "raised_hands",
+          "users": [
+            "UM84S229Z",
+            "UMJ4QFBRV",
+            "UMGKEDUV6",
+            "UMA6B9GMP",
+            "UMGBFD60G",
+            "UMFAGQWEM",
+            "UMGE10N56"
+          ]
+        },
+        {
+          "count": 1,
+          "name": "heart",
+          "users": [
+            "UM4QL6YTD"
+          ]
+        }
+      ],
+      "text": "",
+      "ts": "1566723427.010100",
+      "type": "message",
+      "upload": true,
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "2ceaf891-649d-4963-b8ee-f61cd0f5ae71",
+      "date": "2019-08-25 16:56:59",
+      "team": "TMJBA78PQ",
+      "text": "<@UMGKEDUV6> I also have this",
+      "ts": "1566723419.010000",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "87989f3d-cf12-4aaa-903c-da5b454269c6",
+      "date": "2019-08-25 05:17:45",
+      "team": "TMJBA78PQ",
+      "text": "I know I didn\u2019t really start doing it until I started working lol",
+      "ts": "1566681465.009700",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "51134772-559f-4ffc-b368-96ffcd593539",
+      "date": "2019-08-25 05:17:33",
+      "team": "TMJBA78PQ",
+      "text": "Absolutely - you can pretty much read all about it but it really sinks in when you start doing it",
+      "ts": "1566681453.009400",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "0192B4FE-F7F2-4373-BB2A-E16E1E7BF504",
+      "date": "2019-08-25 05:15:45",
+      "team": "TMJBA78PQ",
+      "text": "<@UMJDWKLF8> thanks, I\u2019ll have a look. I need to spend time making my code production-ready and useful in a team.",
+      "ts": "1566681345.009000",
+      "type": "message",
+      "user": "UMGKEDUV6",
+      "username": "thibo.jacques"
+    },
+    {
+      "attachments": [
+        {
+          "fallback": "District Data Labs - How to Develop Quality Python Code",
+          "from_url": "https://districtdatalabs.silvrback.com/how-to-develop-quality-python-code",
+          "id": 1,
+          "original_url": "https://districtdatalabs.silvrback.com/how-to-develop-quality-python-code",
+          "service_icon": "https://silvrback.s3.amazonaws.com/uploads/setting/favicon/2838/95ed9e0f36688c57d8124ce913a8edc5.ico",
+          "service_name": "districtdatalabs.silvrback.com",
+          "text": "How to Develop Quality Python Code - Workflows and Development Tools",
+          "thumb_height": 150,
+          "thumb_url": "https://silvrback.s3.amazonaws.com/uploads/0ad1f704-2113-4ba1-9b4c-4076f176328f/DDL%20Square%20Logo%20-%20Dark_large.png",
+          "thumb_width": 150,
+          "title": "District Data Labs - How to Develop Quality Python Code",
+          "title_link": "https://districtdatalabs.silvrback.com/how-to-develop-quality-python-code"
+        }
+      ],
+      "client_msg_id": "214f5d35-be78-4a15-b6a1-dc9951791920",
+      "date": "2019-08-25 05:14:00",
+      "reactions": [
+        {
+          "count": 2,
+          "name": "+1",
+          "users": [
+            "UM84S229Z",
+            "UMGBFD60G"
+          ]
+        }
+      ],
+      "team": "TMJBA78PQ",
+      "text": "<https://districtdatalabs.silvrback.com/how-to-develop-quality-python-code>",
+      "ts": "1566681240.007200",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "5972134a-5f15-433c-8cc9-e01be780d712",
+      "date": "2019-08-25 05:13:18",
+      "team": "TMJBA78PQ",
+      "text": "<https://www.pythonforengineers.com/writing-great-code/>",
+      "ts": "1566681198.006900",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "client_msg_id": "A19A3058-221A-42D8-8B86-BDA4C65275B9",
+      "date": "2019-08-25 05:12:08",
+      "team": "TMJBA78PQ",
+      "text": "Anyone have a resource/blog post for learning good quality python code fast?",
+      "ts": "1566681128.006700",
+      "type": "message",
+      "user": "UMGKEDUV6",
+      "username": "thibo.jacques"
+    },
+    {
+      "date": "2019-08-24 10:13:01",
+      "subtype": "channel_join",
+      "text": "<@UM8QDPR3M> has joined the channel",
+      "ts": "1566612781.004100",
+      "type": "message",
+      "user": "UM8QDPR3M",
+      "username": "dijonkock"
+    },
+    {
+      "date": "2019-08-24 09:56:31",
+      "subtype": "channel_join",
+      "text": "<@UMGA4RZKP> has joined the channel",
+      "ts": "1566611791.003900",
+      "type": "message",
+      "user": "UMGA4RZKP",
+      "username": "moncalma13"
+    },
+    {
+      "date": "2019-08-24 08:24:32",
+      "subtype": "channel_join",
+      "text": "<@UMFAGQWEM> has joined the channel",
+      "ts": "1566606272.003700",
+      "type": "message",
+      "user": "UMFAGQWEM",
+      "username": "breuss.martin"
+    },
+    {
+      "date": "2019-08-24 07:59:29",
+      "subtype": "channel_join",
+      "text": "<@UMG7ZPZLY> has joined the channel",
+      "ts": "1566604769.003500",
+      "type": "message",
+      "user": "UMG7ZPZLY",
+      "username": "rhoesada"
+    },
+    {
+      "date": "2019-08-24 07:58:34",
+      "subtype": "channel_join",
+      "text": "<@UMJF96D6J> has joined the channel",
+      "ts": "1566604714.003300",
+      "type": "message",
+      "user": "UMJF96D6J",
+      "username": "jesusgrossi64"
+    },
+    {
+      "date": "2019-08-24 07:20:44",
+      "subtype": "channel_join",
+      "text": "<@UM9T5CWKB> has joined the channel",
+      "ts": "1566602444.003100",
+      "type": "message",
+      "user": "UM9T5CWKB",
+      "username": "invalidipnan"
+    },
+    {
+      "date": "2019-08-24 06:47:42",
+      "subtype": "channel_join",
+      "text": "<@UMH39RL13> has joined the channel",
+      "ts": "1566600462.002900",
+      "type": "message",
+      "user": "UMH39RL13",
+      "username": "victornguyen111"
+    },
+    {
+      "date": "2019-08-24 06:39:56",
+      "subtype": "channel_join",
+      "text": "<@UM4QUF66N> has joined the channel",
+      "ts": "1566599996.002700",
+      "type": "message",
+      "user": "UM4QUF66N",
+      "username": "matt.fryer"
+    },
+    {
+      "date": "2019-08-24 05:55:28",
+      "subtype": "channel_join",
+      "text": "<@UM4QD80TC> has joined the channel",
+      "ts": "1566597328.002500",
+      "type": "message",
+      "user": "UM4QD80TC",
+      "username": "mlc"
+    },
+    {
+      "date": "2019-08-24 05:44:47",
+      "subtype": "channel_join",
+      "text": "<@UMFQKAG9J> has joined the channel",
+      "ts": "1566596687.002300",
+      "type": "message",
+      "user": "UMFQKAG9J",
+      "username": "nilashisbladeroy"
+    },
+    {
+      "date": "2019-08-24 05:40:07",
+      "subtype": "channel_join",
+      "text": "<@UM4QL6YTD> has joined the channel",
+      "ts": "1566596407.002100",
+      "type": "message",
+      "user": "UM4QL6YTD",
+      "username": "reneesyliu"
+    },
+    {
+      "date": "2019-08-24 05:38:10",
+      "subtype": "channel_join",
+      "text": "<@UMJDZMUQN> has joined the channel",
+      "ts": "1566596290.001900",
+      "type": "message",
+      "user": "UMJDZMUQN",
+      "username": "joschafer"
+    },
+    {
+      "date": "2019-08-24 05:35:20",
+      "subtype": "channel_join",
+      "text": "<@UMJL2139V> has joined the channel",
+      "ts": "1566596120.001700",
+      "type": "message",
+      "user": "UMJL2139V",
+      "username": "shah.yash183"
+    },
+    {
+      "date": "2019-08-24 05:29:46",
+      "subtype": "channel_join",
+      "text": "<@UMGKEDUV6> has joined the channel",
+      "ts": "1566595786.001500",
+      "type": "message",
+      "user": "UMGKEDUV6",
+      "username": "thibo.jacques"
+    },
+    {
+      "date": "2019-08-24 05:14:52",
+      "subtype": "channel_join",
+      "text": "<@UMKUX5CDS> has joined the channel",
+      "ts": "1566594892.001300",
+      "type": "message",
+      "user": "UMKUX5CDS",
+      "username": "fishsauce"
+    },
+    {
+      "date": "2019-08-24 05:13:55",
+      "subtype": "channel_join",
+      "text": "<@UMN5WMFRU> has joined the channel",
+      "ts": "1566594835.001100",
+      "type": "message",
+      "user": "UMN5WMFRU",
+      "username": "josec300"
+    },
+    {
+      "date": "2019-08-24 05:12:13",
+      "subtype": "channel_join",
+      "text": "<@UMGB11AEQ> has joined the channel",
+      "ts": "1566594733.000900",
+      "type": "message",
+      "user": "UMGB11AEQ",
+      "username": "jason"
+    },
+    {
+      "date": "2019-08-24 05:09:30",
+      "subtype": "channel_join",
+      "text": "<@UMA6G7ZBK> has joined the channel",
+      "ts": "1566594570.000700",
+      "type": "message",
+      "user": "UMA6G7ZBK",
+      "username": "sumandas.usa"
+    },
+    {
+      "date": "2019-08-24 05:07:57",
+      "subtype": "channel_join",
+      "text": "<@UM654V49H> has joined the channel",
+      "ts": "1566594477.000500",
+      "type": "message",
+      "user": "UM654V49H",
+      "username": "phenol666384"
+    },
+    {
+      "date": "2019-08-24 05:01:30",
+      "purpose": "Channel to ask Python related questions",
+      "subtype": "channel_purpose",
+      "text": "<@UMJDWKLF8> set the channel purpose: Channel to ask Python related questions",
+      "ts": "1566594090.000300",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    },
+    {
+      "date": "2019-08-24 05:01:30",
+      "subtype": "channel_join",
+      "text": "<@UMJDWKLF8> has joined the channel",
+      "ts": "1566594090.000200",
+      "type": "message",
+      "user": "UMJDWKLF8",
+      "username": "rphan"
+    }
+  ]
+}
